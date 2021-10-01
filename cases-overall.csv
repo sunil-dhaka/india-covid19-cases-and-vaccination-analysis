@@ -1,0 +1,623 @@
+districtid,overallid,cases
+AP_Anantapur,1,156771.0
+AP_Chittoor,1,234871.0
+AP_East Godavari,1,282389.0
+AP_Guntur,1,170493.0
+AP_Krishna,1,111599.0
+AP_Kurnool,1,123572.0
+AP_Prakasam,1,131787.0
+AP_S.P.S. Nellore,1,137357.0
+AP_Srikakulam,1,121390.0
+AP_Visakhapatnam,1,153698.0
+AP_Vizianagaram,1,81776.0
+AP_West Godavari,1,171987.0
+AP_Y.S.R. Kadapa,1,111606.0
+AR_Anjaw,1,994.0
+AR_Changlang,1,3655.0
+AR_East Kameng,1,1071.0
+AR_East Siang,1,2963.0
+AR_Kamle,1,478.0
+AR_Kra Daadi,1,260.0
+AR_Kurung Kumey,1,507.0
+AR_Lepa Rada,1,792.0
+AR_Lohit,1,2688.0
+AR_Longding,1,731.0
+AR_Lower Dibang Valley,1,2168.0
+AR_Lower Siang,1,709.0
+AR_Lower Subansiri,1,2647.0
+AR_Namsai,1,1969.0
+AR_Pakke Kessang,1,396.0
+AR_Papum Pare,1,17303.0
+AR_Shi Yomi,1,224.0
+AR_Siang,1,393.0
+AR_Tawang,1,2299.0
+AR_Tirap,1,1008.0
+AR_Upper Dibang Valley,1,290.0
+AR_Upper Siang,1,896.0
+AR_Upper Subansiri,1,1914.0
+AR_West Kameng,1,3207.0
+AR_West Siang,1,1738.0
+AS_Dibrugarh,1,0.0
+AS_Udalguri,1,0.0
+BR_Araria,1,14963.0
+BR_Arwal,1,7379.0
+BR_Aurangabad,1,154611.0
+BR_Banka,1,7379.0
+BR_Begusarai,1,27183.0
+BR_Bhagalpur,1,25827.0
+BR_Bhojpur,1,10174.0
+BR_Buxar,1,9248.0
+BR_Darbhanga,1,10908.0
+BR_East Champaran,1,19000.0
+BR_Gaya,1,33940.0
+BR_Gopalganj,1,16671.0
+BR_Jamui,1,9413.0
+BR_Jehanabad,1,10774.0
+BR_Kaimur,1,4983.0
+BR_Katihar,1,18129.0
+BR_Khagaria,1,10057.0
+BR_Kishanganj,1,10107.0
+BR_Lakhisarai,1,7771.0
+BR_Madhepura,1,12523.0
+BR_Madhubani,1,18339.0
+BR_Munger,1,15102.0
+BR_Muzaffarpur,1,31382.0
+BR_Nalanda,1,23424.0
+BR_Nawada,1,10345.0
+BR_Patna,1,146846.0
+BR_Purnia,1,24413.0
+BR_Rohtas,1,13962.0
+BR_Saharsa,1,17592.0
+BR_Samastipur,1,19988.0
+BR_Saran,1,23267.0
+BR_Sheikhpura,1,7690.0
+BR_Sheohar,1,4397.0
+BR_Sitamarhi,1,9174.0
+BR_Siwan,1,15195.0
+BR_Supaul,1,17205.0
+BR_Vaishali,1,19809.0
+BR_West Champaran,1,20886.0
+CH_Chandigarh,1,62028.0
+CT_Balod,1,27258.0
+CT_Baloda Bazar,1,43007.0
+CT_Balrampur,1,7487.0
+CT_Bametara,1,19945.0
+CT_Bastar,1,20953.0
+CT_Bijapur,1,8269.0
+CT_Bilaspur,1,13165.0
+CT_Dakshin Bastar Dantewada,1,10754.0
+CT_Dhamtari,1,27197.0
+CT_Durg,1,96652.0
+CT_Gariaband,1,19673.0
+CT_Janjgir Champa,1,57461.0
+CT_Jashpur,1,26950.0
+CT_Kabeerdham,1,22770.0
+CT_Kondagaon,1,13072.0
+CT_Korba,1,54592.0
+CT_Koriya,1,26923.0
+CT_Mahasamund,1,31324.0
+CT_Mungeli,1,23893.0
+CT_Narayanpur,1,4006.0
+CT_Raigarh,1,62486.0
+CT_Raipur,1,157803.0
+CT_Rajnandgaon,1,56012.0
+CT_Sukma,1,7975.0
+CT_Surajpur,1,29016.0
+CT_Surguja,1,33641.0
+CT_Uttar Bastar Kanker,1,23542.0
+DN_Dadra and Nagar Haveli,1,5905.0
+DN_Daman,1,3535.0
+DN_Diu,1,1218.0
+GJ_Ahmedabad,1,238044.0
+GJ_Amreli,1,10806.0
+GJ_Anand,1,9624.0
+GJ_Aravalli,1,5184.0
+GJ_Banaskantha,1,13631.0
+GJ_Bharuch,1,11425.0
+GJ_Bhavnagar,1,21413.0
+GJ_Botad,1,2218.0
+GJ_Chhota Udaipur,1,3395.0
+GJ_Dahod,1,9944.0
+GJ_Dang,1,864.0
+GJ_Devbhumi Dwarka,1,4173.0
+GJ_Gandhinagar,1,20741.0
+GJ_Gir Somnath,1,8557.0
+GJ_Jamnagar,1,34951.0
+GJ_Junagadh,1,20470.0
+GJ_Kheda,1,10422.0
+GJ_Kutch,1,12587.0
+GJ_Mahisagar,1,8192.0
+GJ_Mehsana,1,24414.0
+GJ_Morbi,1,6502.0
+GJ_Narmada,1,5952.0
+GJ_Navsari,1,7156.0
+GJ_Panchmahal,1,11770.0
+GJ_Patan,1,11624.0
+GJ_Porbandar,1,3477.0
+GJ_Rajkot,1,57925.0
+GJ_Sabarkantha,1,9314.0
+GJ_Surat,1,143502.0
+GJ_Surendranagar,1,8121.0
+GJ_Tapi,1,4438.0
+GJ_Vadodara,1,77924.0
+GJ_Valsad,1,6244.0
+HP_Bilaspur,1,13165.0
+HP_Chamba,1,12993.0
+HP_Hamirpur,1,5230.0
+HP_Kangra,1,46992.0
+HP_Kinnaur,1,3348.0
+HP_Kullu,1,9321.0
+HP_Lahaul and Spiti,1,2829.0
+HP_Mandi,1,28890.0
+HP_Shimla,1,26157.0
+HP_Sirmaur,1,15404.0
+HP_Solan,1,22476.0
+HP_Una,1,13503.0
+HR_Ambala,1,30105.0
+HR_Bhiwani,1,22395.0
+HR_Charkhi Dadri,1,5069.0
+HR_Faridabad,1,99808.0
+HR_Fatehabad,1,17861.0
+HR_Gurugram,1,180992.0
+HR_Hisar,1,53979.0
+HR_Jhajjar,1,18829.0
+HR_Jind,1,21202.0
+HR_Kaithal,1,11218.0
+HR_Karnal,1,40000.0
+HR_Kurukshetra,1,22116.0
+HR_Mahendragarh,1,21687.0
+HR_Nuh,1,5011.0
+HR_Palwal,1,10984.0
+HR_Panchkula,1,30658.0
+HR_Panipat,1,31135.0
+HR_Rewari,1,20304.0
+HR_Rohtak,1,25879.0
+HR_Sirsa,1,29257.0
+HR_Sonipat,1,47126.0
+HR_Yamunanagar,1,24571.0
+JH_Bokaro,1,19415.0
+JH_Chatra,1,6027.0
+JH_Deoghar,1,10806.0
+JH_Dhanbad,1,16519.0
+JH_Dumka,1,4632.0
+JH_East Singhbhum,1,51789.0
+JH_Garhwa,1,6885.0
+JH_Giridih,1,8959.0
+JH_Godda,1,5836.0
+JH_Gumla,1,9894.0
+JH_Hazaribagh,1,19582.0
+JH_Jamtara,1,5555.0
+JH_Khunti,1,7787.0
+JH_Koderma,1,12871.0
+JH_Latehar,1,7864.0
+JH_Lohardaga,1,6691.0
+JH_Pakur,1,2550.0
+JH_Palamu,1,12289.0
+JH_Ramgarh,1,13901.0
+JH_Ranchi,1,85489.0
+JH_Sahibganj,1,4818.0
+JH_Simdega,1,7191.0
+JH_West Singhbhum,1,13004.0
+JK_Anantnag,1,16374.0
+JK_Bandipora,1,9552.0
+JK_Baramulla,1,23756.0
+JK_Budgam,1,23013.0
+JK_Doda,1,7405.0
+JK_Ganderbal,1,10013.0
+JK_Jammu,1,52907.0
+JK_Kathua,1,9273.0
+JK_Kishtwar,1,4707.0
+JK_Kulgam,1,11326.0
+JK_Kupwara,1,14151.0
+JK_Pulwama,1,15255.0
+JK_Punch,1,6289.0
+JK_Rajouri,1,11022.0
+JK_Ramban,1,5980.0
+JK_Reasi,1,6424.0
+JK_Samba,1,7130.0
+JK_Shopiyan,1,5589.0
+JK_Srinagar,1,71794.0
+JK_Udhampur,1,11365.0
+KA_Bagalkote,1,35136.0
+KA_Ballari,1,97511.0
+KA_Belagavi,1,78762.0
+KA_Bengaluru Rural,1,61271.0
+KA_Bengaluru Urban,1,1232597.0
+KA_Bidar,1,24284.0
+KA_Chamarajanagara,1,32638.0
+KA_Chikkaballapura,1,43797.0
+KA_Chikkamagaluru,1,49244.0
+KA_Chitradurga,1,36163.0
+KA_Dakshina Kannada,1,105533.0
+KA_Davanagere,1,50543.0
+KA_Dharwad,1,60620.0
+KA_Gadag,1,26011.0
+KA_Hassan,1,108159.0
+KA_Haveri,1,21886.0
+KA_Kalaburagi,1,61697.0
+KA_Kodagu,1,34217.0
+KA_Kolar,1,45970.0
+KA_Koppal,1,35122.0
+KA_Mandya,1,72612.0
+KA_Mysuru,1,174533.0
+KA_Raichur,1,39905.0
+KA_Ramanagara,1,24056.0
+KA_Shivamogga,1,67597.0
+KA_Tumakuru,1,118577.0
+KA_Udupi,1,71645.0
+KA_Uttara Kannada,1,54230.0
+KA_Vijayapura,1,36179.0
+KA_Yadgir,1,27502.0
+KL_Alappuzha,1,240519.0
+KL_Ernakulam,1,437452.0
+KL_Idukki,1,98133.0
+KL_Kannur,1,203055.0
+KL_Kasaragod,1,116396.0
+KL_Kollam,1,288215.0
+KL_Kottayam,1,235115.0
+KL_Kozhikode,1,394973.0
+KL_Malappuram,1,450082.0
+KL_Palakkad,1,274982.0
+KL_Pathanamthitta,1,138706.0
+KL_Thiruvananthapuram,1,346041.0
+KL_Thrissur,1,362333.0
+KL_Wayanad,1,85539.0
+LA_Kargil,1,3575.0
+LA_Leh,1,16870.0
+LD_Lakshadweep,1,10285.0
+MH_Ahmednagar,1,297459.0
+MH_Akola,1,58649.0
+MH_Amravati,1,96024.0
+MH_Aurangabad,1,154611.0
+MH_Beed,1,99886.0
+MH_Bhandara,1,60040.0
+MH_Buldhana,1,84871.0
+MH_Chandrapur,1,88711.0
+MH_Dhule,1,46277.0
+MH_Gadchiroli,1,30300.0
+MH_Gondia,1,40535.0
+MH_Hingoli,1,18424.0
+MH_Jalgaon,1,139822.0
+MH_Jalna,1,60344.0
+MH_Kolhapur,1,200833.0
+MH_Latur,1,91248.0
+MH_Mumbai,1,739069.0
+MH_Nagpur,1,493087.0
+MH_Nanded,1,90666.0
+MH_Nandurbar,1,39969.0
+MH_Nashik,1,403968.0
+MH_Osmanabad,1,65261.0
+MH_Palghar,1,133958.0
+MH_Pune,1,1103268.0
+MH_Raigad,1,186255.0
+MH_Ratnagiri,1,73923.0
+MH_Sangli,1,194267.0
+MH_Satara,1,228831.0
+MH_Sindhudurg,1,49667.0
+MH_Solapur,1,196264.0
+MH_Thane,1,592750.0
+MH_Wardha,1,58345.0
+MH_Washim,1,41629.0
+MH_Yavatmal,1,76223.0
+ML_East Garo Hills,1,1771.0
+ML_East Jaintia Hills,1,2244.0
+ML_East Khasi Hills,1,34717.0
+ML_North Garo Hills,1,1631.0
+ML_Ribhoi,1,8472.0
+ML_South Garo Hills,1,1169.0
+ML_South West Garo Hills,1,1801.0
+ML_South West Khasi Hills,1,2035.0
+ML_West Garo Hills,1,8599.0
+ML_West Jaintia Hills,1,5730.0
+ML_West Khasi Hills,1,3219.0
+MN_Churachandpur,1,0.0
+MP_Agar Malwa,1,3303.0
+MP_Alirajpur,1,3501.0
+MP_Anuppur,1,9229.0
+MP_Ashoknagar,1,3670.0
+MP_Balaghat,1,9093.0
+MP_Barwani,1,8363.0
+MP_Betul,1,12901.0
+MP_Bhind,1,2994.0
+MP_Bhopal,1,123334.0
+MP_Burhanpur,1,2568.0
+MP_Chhatarpur,1,7607.0
+MP_Chhindwara,1,6732.0
+MP_Damoh,1,8120.0
+MP_Datia,1,6958.0
+MP_Dewas,1,7723.0
+MP_Dhar,1,12533.0
+MP_Dindori,1,4623.0
+MP_Guna,1,5132.0
+MP_Gwalior,1,53096.0
+MP_Harda,1,5055.0
+MP_Hoshangabad,1,10680.0
+MP_Indore,1,153017.0
+MP_Jabalpur,1,50645.0
+MP_Jhabua,1,7688.0
+MP_Katni,1,9365.0
+MP_Khandwa,1,4040.0
+MP_Khargone,1,13965.0
+MP_Mandla,1,5188.0
+MP_Mandsaur,1,8637.0
+MP_Morena,1,8236.0
+MP_Narsinghpur,1,11200.0
+MP_Neemuch,1,7924.0
+MP_Panna,1,7319.0
+MP_Raisen,1,9233.0
+MP_Rajgarh,1,8700.0
+MP_Ratlam,1,17855.0
+MP_Rewa,1,16431.0
+MP_Sagar,1,16593.0
+MP_Satna,1,11965.0
+MP_Sehore,1,10136.0
+MP_Seoni,1,6774.0
+MP_Shahdol,1,10080.0
+MP_Shajapur,1,6349.0
+MP_Sheopur,1,3998.0
+MP_Shivpuri,1,12393.0
+MP_Sidhi,1,9219.0
+MP_Singrauli,1,8793.0
+MP_Tikamgarh,1,6863.0
+MP_Ujjain,1,18896.0
+MP_Umaria,1,6293.0
+MP_Vidisha,1,11918.0
+MZ_Aizawl,1,32732.0
+MZ_Champhai,1,773.0
+MZ_Kolasib,1,4040.0
+MZ_Lawngtlai,1,2953.0
+MZ_Lunglei,1,3617.0
+MZ_Mamit,1,1559.0
+MZ_Saiha,1,975.0
+MZ_Serchhip,1,878.0
+NL_Dimapur,1,13417.0
+NL_Kiphire,1,231.0
+NL_Kohima,1,8808.0
+NL_Longleng,1,270.0
+NL_Mokokchung,1,2003.0
+NL_Mon,1,1099.0
+NL_Peren,1,883.0
+NL_Phek,1,476.0
+NL_Tuensang,1,993.0
+NL_Wokha,1,334.0
+NL_Zunheboto,1,583.0
+OR_Angul,1,43154.0
+OR_Balangir,1,23237.0
+OR_Balasore,1,38789.0
+OR_Bargarh,1,30800.0
+OR_Bhadrak,1,25784.0
+OR_Boudh,1,12535.0
+OR_Cuttack,1,88737.0
+OR_Deogarh,1,6225.0
+OR_Dhenkanal,1,19285.0
+OR_Gajapati,1,9540.0
+OR_Ganjam,1,33521.0
+OR_Jagatsinghpur,1,26235.0
+OR_Jajpur,1,41855.0
+OR_Jharsuguda,1,23644.0
+OR_Kalahandi,1,24186.0
+OR_Kandhamal,1,11412.0
+OR_Kendrapara,1,23834.0
+OR_Kendujhar,1,20587.0
+OR_Khordha,1,155204.0
+OR_Koraput,1,18891.0
+OR_Malkangiri,1,11545.0
+OR_Mayurbhanj,1,39110.0
+OR_Nabarangapur,1,23476.0
+OR_Nayagarh,1,22928.0
+OR_Nuapada,1,22815.0
+OR_Puri,1,44097.0
+OR_Rayagada,1,19908.0
+OR_Sambalpur,1,30667.0
+OR_Subarnapur,1,13103.0
+OR_Sundargarh,1,60951.0
+PB_Amritsar,1,47144.0
+PB_Barnala,1,5917.0
+PB_Bathinda,1,41571.0
+PB_Faridkot,1,13843.0
+PB_Fatehgarh Sahib,1,8808.0
+PB_Fazilka,1,20191.0
+PB_Ferozepur,1,14248.0
+PB_Gurdaspur,1,22255.0
+PB_Hoshiarpur,1,30687.0
+PB_Jalandhar,1,63173.0
+PB_Kapurthala,1,17784.0
+PB_Ludhiana,1,87422.0
+PB_Mansa,1,15576.0
+PB_Moga,1,8632.0
+PB_Pathankot,1,18622.0
+PB_Patiala,1,48761.0
+PB_Rupnagar,1,12881.0
+PB_S.A.S. Nagar,1,68528.0
+PB_Sangrur,1,15694.0
+PB_Shahid Bhagat Singh Nagar,1,11435.0
+PB_Sri Muktsar Sahib,1,18733.0
+PB_Tarn Taran,1,7991.0
+PY_Karaikal,1,15191.0
+PY_Mahe,1,5047.0
+PY_Puducherry,1,95334.0
+RJ_Ajmer,1,37720.0
+RJ_Alwar,1,59659.0
+RJ_Banswara,1,10005.0
+RJ_Baran,1,11993.0
+RJ_Barmer,1,15550.0
+RJ_Bharatpur,1,19591.0
+RJ_Bhilwara,1,29773.0
+RJ_Bikaner,1,40311.0
+RJ_Bundi,1,7967.0
+RJ_Chittorgarh,1,19809.0
+RJ_Churu,1,16719.0
+RJ_Dausa,1,13351.0
+RJ_Dholpur,1,11006.0
+RJ_Dungarpur,1,18407.0
+RJ_Ganganagar,1,19338.0
+RJ_Hanumangarh,1,16051.0
+RJ_Jaipur,1,187613.0
+RJ_Jaisalmer,1,13639.0
+RJ_Jalore,1,10065.0
+RJ_Jhalawar,1,13600.0
+RJ_Jhunjhunu,1,14802.0
+RJ_Jodhpur,1,112374.0
+RJ_Karauli,1,7156.0
+RJ_Kota,1,57051.0
+RJ_Nagaur,1,17731.0
+RJ_Pali,1,27315.0
+RJ_Pratapgarh,1,16025.0
+RJ_Rajsamand,1,17041.0
+RJ_Sawai Madhopur,1,10605.0
+RJ_Sikar,1,30607.0
+RJ_Sirohi,1,13729.0
+RJ_Tonk,1,9495.0
+RJ_Udaipur,1,56372.0
+TN_Ariyalur,1,16087.0
+TN_Chennai,1,540971.0
+TN_Coimbatore,1,232575.0
+TN_Cuddalore,1,61434.0
+TN_Dharmapuri,1,26486.0
+TN_Dindigul,1,32350.0
+TN_Erode,1,96087.0
+TN_Kallakurichi,1,29632.0
+TN_Kancheepuram,1,72248.0
+TN_Kanyakumari,1,60534.0
+TN_Karur,1,22885.0
+TN_Krishnagiri,1,41713.0
+TN_Madurai,1,73786.0
+TN_Nagapattinam,1,19161.0
+TN_Namakkal,1,47938.0
+TN_Nilgiris,1,31189.0
+TN_Perambalur,1,11597.0
+TN_Pudukkottai,1,28618.0
+TN_Ramanathapuram,1,20124.0
+TN_Ranipet,1,42229.0
+TN_Salem,1,94688.0
+TN_Sivaganga,1,19077.0
+TN_Thanjavur,1,69299.0
+TN_Theni,1,43070.0
+TN_Thiruvallur,1,114684.0
+TN_Thiruvarur,1,38449.0
+TN_Thoothukkudi,1,55306.0
+TN_Tiruchirappalli,1,73428.0
+TN_Tirunelveli,1,48194.0
+TN_Tiruppur,1,89029.0
+TN_Tiruvannamalai,1,52724.0
+TN_Vellore,1,48447.0
+TN_Viluppuram,1,44280.0
+TN_Virudhunagar,1,45646.0
+TR_Dhalai,1,6887.0
+TR_Gomati,1,7851.0
+TR_Khowai,1,4481.0
+TR_North Tripura,1,6938.0
+TR_Sipahijala,1,6138.0
+TR_South Tripura,1,9808.0
+TR_Unokoti,1,8277.0
+TR_West Tripura,1,30734.0
+UP_Agra,1,25736.0
+UP_Aligarh,1,21276.0
+UP_Ambedkar Nagar,1,5027.0
+UP_Amethi,1,9958.0
+UP_Amroha,1,16610.0
+UP_Auraiya,1,10080.0
+UP_Ayodhya,1,16912.0
+UP_Azamgarh,1,17891.0
+UP_Baghpat,1,9129.0
+UP_Bahraich,1,11546.0
+UP_Ballia,1,21606.0
+UP_Balrampur,1,7487.0
+UP_Banda,1,10986.0
+UP_Barabanki,1,19833.0
+UP_Bareilly,1,43973.0
+UP_Basti,1,11714.0
+UP_Bhadohi,1,7717.0
+UP_Bijnor,1,14788.0
+UP_Budaun,1,14924.0
+UP_Bulandshahr,1,20202.0
+UP_Chandauli,1,16198.0
+UP_Chitrakoot,1,7106.0
+UP_Deoria,1,20212.0
+UP_Etah,1,9964.0
+UP_Etawah,1,13928.0
+UP_Farrukhabad,1,10340.0
+UP_Fatehpur,1,6803.0
+UP_Firozabad,1,8715.0
+UP_Gautam Buddha Nagar,1,63237.0
+UP_Ghaziabad,1,55625.0
+UP_Ghazipur,1,21637.0
+UP_Gonda,1,12282.0
+UP_Gorakhpur,1,59378.0
+UP_Hamirpur,1,5230.0
+UP_Hapur,1,12629.0
+UP_Hardoi,1,13754.0
+UP_Hathras,1,2917.0
+UP_Jalaun,1,11662.0
+UP_Jaunpur,1,22571.0
+UP_Jhansi,1,36539.0
+UP_Kannauj,1,9220.0
+UP_Kanpur Dehat,1,6190.0
+UP_Kanpur Nagar,1,82894.0
+UP_Kasganj,1,4248.0
+UP_Kaushambi,1,4416.0
+UP_Kushinagar,1,15611.0
+UP_Lalitpur,1,12734.0
+UP_Lucknow,1,238655.0
+UP_Maharajganj,1,12407.0
+UP_Mahoba,1,4268.0
+UP_Mainpuri,1,10018.0
+UP_Mathura,1,20274.0
+UP_Mau,1,8324.0
+UP_Meerut,1,69424.0
+UP_Mirzapur,1,11082.0
+UP_Moradabad,1,39095.0
+UP_Muzaffarnagar,1,31002.0
+UP_Pilibhit,1,11028.0
+UP_Pratapgarh,1,16025.0
+UP_Prayagraj,1,78615.0
+UP_Rae Bareli,1,17075.0
+UP_Rampur,1,11822.0
+UP_Saharanpur,1,32721.0
+UP_Sambhal,1,9436.0
+UP_Sant Kabir Nagar,1,8157.0
+UP_Shahjahanpur,1,20353.0
+UP_Shamli,1,12974.0
+UP_Shrawasti,1,4385.0
+UP_Siddharthnagar,1,9365.0
+UP_Sitapur,1,12393.0
+UP_Sonbhadra,1,16801.0
+UP_Sultanpur,1,14909.0
+UP_Unnao,1,14998.0
+UP_Varanasi,1,85472.0
+UT_Almora,1,12140.0
+UT_Bageshwar,1,5720.0
+UT_Chamoli,1,12151.0
+UT_Champawat,1,7549.0
+UT_Dehradun,1,111965.0
+UT_Haridwar,1,51403.0
+UT_Nainital,1,39080.0
+UT_Pauri Garhwal,1,17545.0
+UT_Pithoragarh,1,10169.0
+UT_Rudraprayag,1,8744.0
+UT_Tehri Garhwal,1,15818.0
+UT_Udham Singh Nagar,1,37816.0
+UT_Uttarkashi,1,12472.0
+WB_Alipurduar,1,15068.0
+WB_Bankura,1,34815.0
+WB_Birbhum,1,40444.0
+WB_Cooch Behar,1,28042.0
+WB_Dakshin Dinajpur,1,17003.0
+WB_Darjeeling,1,54276.0
+WB_Hooghly,1,82276.0
+WB_Howrah,1,94985.0
+WB_Jalpaiguri,1,40381.0
+WB_Jhargram,1,11467.0
+WB_Kalimpong,1,6563.0
+WB_Kolkata,1,311430.0
+WB_Malda,1,32729.0
+WB_Murshidabad,1,33651.0
+WB_Nadia,1,69784.0
+WB_North 24 Parganas,1,320427.0
+WB_Paschim Bardhaman,1,56437.0
+WB_Paschim Medinipur,1,51227.0
+WB_Purba Bardhaman,1,40280.0
+WB_Purba Medinipur,1,61010.0
+WB_Purulia,1,19214.0
+WB_South 24 Parganas,1,96779.0
+WB_Uttar Dinajpur,1,19536.0

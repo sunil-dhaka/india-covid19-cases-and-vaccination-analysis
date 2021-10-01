@@ -1,0 +1,5353 @@
+{
+    "adilabad/TG_Adilabad": [
+        "chandrapur/MH_Chandrapur",
+        "komaram bheem/TG_Komaram Bheem",
+        "nanded/MH_Nanded",
+        "nirmal/TG_Nirmal",
+        "yavatmal/MH_Yavatmal"
+    ],
+    "agar malwa/MP_Agar Malwa": [
+        "jhalawar/RJ_Jhalawar",
+        "rajgarh/MP_Rajgarh",
+        "ratlam/MP_Ratlam",
+        "shajapur/MP_Shajapur",
+        "ujjain/MP_Ujjain"
+    ],
+    "agra/UP_Agra": [
+        "bharatpur/RJ_Bharatpur",
+        "bhind/MP_Bhind",
+        "dholpur/RJ_Dholpur",
+        "etah/UP_Etah",
+        "etawah/UP_Etawah",
+        "firozabad/UP_Firozabad",
+        "hathras/UP_Hathras",
+        "mathura/UP_Mathura",
+        "morena/MP_Morena"
+    ],
+    "ahmedabad/GJ_Ahmedabad": [
+        "anand/GJ_Anand",
+        "bhavnagar/GJ_Bhavnagar",
+        "botad/GJ_Botad",
+        "gandhinagar/GJ_Gandhinagar",
+        "kheda/GJ_Kheda",
+        "mehsana/GJ_Mehsana",
+        "surendranagar/GJ_Surendranagar"
+    ],
+    "ahmednagar/MH_Ahmednagar": [
+        "aurangabad/BR_Aurangabad",
+        "beed/MH_Beed",
+        "nashik/MH_Nashik",
+        "osmanabad/MH_Osmanabad",
+        "pune/MH_Pune",
+        "solapur/MH_Solapur",
+        "thane/MH_Thane"
+    ],
+    "aizawl/MZ_Aizawl": [
+        "cachar/AS_Cachar",
+        "champhai/MZ_Champhai",
+        "kolasib/MZ_Kolasib",
+        "lunglei/MZ_Lunglei",
+        "mamit/MZ_Mamit",
+        "pherzawl/MN_Pherzawl",
+        "serchhip/MZ_Serchhip"
+    ],
+    "ajmer/RJ_Ajmer": [
+        "bhilwara/RJ_Bhilwara",
+        "jaipur/RJ_Jaipur",
+        "nagaur/RJ_Nagaur",
+        "pali/RJ_Pali",
+        "rajsamand/RJ_Rajsamand",
+        "tonk/RJ_Tonk"
+    ],
+    "akola/MH_Akola": [
+        "amravati/MH_Amravati",
+        "buldhana/MH_Buldhana",
+        "washim/MH_Washim"
+    ],
+    "alappuzha/KL_Alappuzha": [
+        "ernakulam/KL_Ernakulam",
+        "kollam/KL_Kollam",
+        "kottayam/KL_Kottayam",
+        "pathanamthitta/KL_Pathanamthitta"
+    ],
+    "aligarh/UP_Aligarh": [
+        "budaun/UP_Budaun",
+        "bulandshahr/UP_Bulandshahr",
+        "gautam buddha nagar/UP_Gautam Buddha Nagar",
+        "hathras/UP_Hathras",
+        "kasganj/UP_Kasganj",
+        "mathura/UP_Mathura",
+        "palwal/HR_Palwal",
+        "sambhal/UP_Sambhal"
+    ],
+    "alipurduar/WB_Alipurduar": [
+        "cooch behar/WB_Cooch Behar",
+        "jalpaiguri/WB_Jalpaiguri",
+        "kokrajhar/AS_Kokrajhar"
+    ],
+    "alirajpur/MP_Alirajpur": [
+        "barwani/MP_Barwani",
+        "chhota udaipur/GJ_Chhota Udaipur",
+        "dahod/GJ_Dahod",
+        "dhar/MP_Dhar",
+        "jhabua/MP_Jhabua",
+        "nandurbar/MH_Nandurbar"
+    ],
+    "almora/UT_Almora": [
+        "bageshwar/UT_Bageshwar",
+        "chamoli/UT_Chamoli",
+        "champawat/UT_Champawat",
+        "nainital/UT_Nainital",
+        "pauri garhwal/UT_Pauri Garhwal",
+        "pithoragarh/UT_Pithoragarh"
+    ],
+    "alwar/RJ_Alwar": [
+        "bharatpur/RJ_Bharatpur",
+        "dausa/RJ_Dausa",
+        "jaipur/RJ_Jaipur",
+        "mahendragarh/HR_Mahendragarh",
+        "nuh/HR_Nuh",
+        "rewari/HR_Rewari"
+    ],
+    "ambala/HR_Ambala": [
+        "kurukshetra/HR_Kurukshetra",
+        "panchkula/HR_Panchkula",
+        "patiala/PB_Patiala",
+        "s.a.s. nagar/PB_S.A.S. Nagar",
+        "sirmaur/HP_Sirmaur",
+        "yamunanagar/HR_Yamunanagar"
+    ],
+    "ambedkar nagar/UP_Ambedkar Nagar": [
+        "ayodhya/UP_Ayodhya",
+        "azamgarh/UP_Azamgarh",
+        "basti/UP_Basti",
+        "gorakhpur/UP_Gorakhpur",
+        "sant kabir nagar/UP_Sant Kabir Nagar",
+        "sultanpur/UP_Sultanpur"
+    ],
+    "amethi/UP_Amethi": [
+        "ayodhya/UP_Ayodhya",
+        "barabanki/UP_Barabanki",
+        "pratapgarh/RJ_Pratapgarh",
+        "rae bareli/UP_Rae Bareli",
+        "sultanpur/UP_Sultanpur"
+    ],
+    "amravati/MH_Amravati": [
+        "akola/MH_Akola",
+        "betul/MP_Betul",
+        "buldhana/MH_Buldhana",
+        "burhanpur/MP_Burhanpur",
+        "chhindwara/MP_Chhindwara",
+        "khandwa/MP_Khandwa",
+        "nagpur/MH_Nagpur",
+        "wardha/MH_Wardha",
+        "washim/MH_Washim",
+        "yavatmal/MH_Yavatmal"
+    ],
+    "amreli/GJ_Amreli": [
+        "bhavnagar/GJ_Bhavnagar",
+        "botad/GJ_Botad",
+        "gir somnath/GJ_Gir Somnath",
+        "junagadh/GJ_Junagadh",
+        "rajkot/GJ_Rajkot"
+    ],
+    "amritsar/PB_Amritsar": [
+        "gurdaspur/PB_Gurdaspur",
+        "kapurthala/PB_Kapurthala",
+        "tarn taran/PB_Tarn Taran"
+    ],
+    "amroha/UP_Amroha": [
+        "bijnor/UP_Bijnor",
+        "bulandshahr/UP_Bulandshahr",
+        "hapur/UP_Hapur",
+        "meerut/UP_Meerut",
+        "moradabad/UP_Moradabad",
+        "sambhal/UP_Sambhal"
+    ],
+    "anand/GJ_Anand": [
+        "ahmedabad/GJ_Ahmedabad",
+        "bharuch/GJ_Bharuch",
+        "kheda/GJ_Kheda",
+        "vadodara/GJ_Vadodara"
+    ],
+    "anantapur/AP_Anantapur": [
+        "ballari/KA_Ballari",
+        "chikkaballapura/KA_Chikkaballapura",
+        "chitradurga/KA_Chitradurga",
+        "chittoor/AP_Chittoor",
+        "kurnool/AP_Kurnool",
+        "tumakuru/KA_Tumakuru",
+        "y.s.r. kadapa/AP_Y.S.R. Kadapa"
+    ],
+    "anantnag/JK_Anantnag": [
+        "doda/JK_Doda",
+        "ganderbal/JK_Ganderbal",
+        "kargil/LA_Kargil",
+        "kishtwar/JK_Kishtwar",
+        "kulgam/JK_Kulgam",
+        "pulwama/JK_Pulwama",
+        "ramban/JK_Ramban",
+        "shopiyan/JK_Shopiyan",
+        "srinagar/JK_Srinagar"
+    ],
+    "angul/OR_Angul": [
+        "boudh/OR_Boudh",
+        "cuttack/OR_Cuttack",
+        "deogarh/OR_Deogarh",
+        "dhenkanal/OR_Dhenkanal",
+        "kendujhar/OR_Kendujhar",
+        "nayagarh/OR_Nayagarh",
+        "sambalpur/OR_Sambalpur",
+        "subarnapur/OR_Subarnapur",
+        "sundargarh/OR_Sundargarh"
+    ],
+    "anjaw/AR_Anjaw": [
+        "changlang/AR_Changlang",
+        "lohit/AR_Lohit"
+    ],
+    "anuppur/MP_Anuppur": [
+        "bilaspur/CT_Bilaspur",
+        "dindori/MP_Dindori",
+        "koriya/CT_Koriya",
+        "mungeli/CT_Mungeli",
+        "shahdol/MP_Shahdol",
+        "umaria/MP_Umaria"
+    ],
+    "araria/BR_Araria": [
+        "kishanganj/BR_Kishanganj",
+        "madhepura/BR_Madhepura",
+        "purnia/BR_Purnia",
+        "supaul/BR_Supaul"
+    ],
+    "aravalli/GJ_Aravalli": [
+        "dungarpur/RJ_Dungarpur",
+        "gandhinagar/GJ_Gandhinagar",
+        "kheda/GJ_Kheda",
+        "mahisagar/GJ_Mahisagar",
+        "sabarkantha/GJ_Sabarkantha",
+        "udaipur/RJ_Udaipur"
+    ],
+    "ariyalur/TN_Ariyalur": [
+        "cuddalore/TN_Cuddalore",
+        "perambalur/TN_Perambalur",
+        "thanjavur/TN_Thanjavur",
+        "tiruchirappalli/TN_Tiruchirappalli"
+    ],
+    "arwal/BR_Arwal": [
+        "aurangabad/BR_Aurangabad",
+        "bhojpur/BR_Bhojpur",
+        "gaya/BR_Gaya",
+        "jehanabad/BR_Jehanabad",
+        "patna/BR_Patna",
+        "rohtas/BR_Rohtas"
+    ],
+    "ashoknagar/MP_Ashoknagar": [
+        "guna/MP_Guna",
+        "lalitpur/UP_Lalitpur",
+        "sagar/MP_Sagar",
+        "shivpuri/MP_Shivpuri",
+        "vidisha/MP_Vidisha"
+    ],
+    "auraiya/UP_Auraiya": [
+        "etawah/UP_Etawah",
+        "jalaun/UP_Jalaun",
+        "kannauj/UP_Kannauj",
+        "kanpur dehat/UP_Kanpur Dehat"
+    ],
+    "aurangabad/BR_Aurangabad": [
+        "arwal/BR_Arwal",
+        "gaya/BR_Gaya",
+        "palamu/JH_Palamu",
+        "rohtas/BR_Rohtas"
+    ],
+    "aurangabad/MH_Aurangabad": [
+        "ahmednagar/MH_Ahmednagar",
+        "beed/MH_Beed",
+        "jalgaon/MH_Jalgaon",
+        "jalna/MH_Jalna",
+        "nashik/MH_Nashik"
+    ],
+    "ayodhya/UP_Ayodhya": [
+        "ambedkar nagar/UP_Ambedkar Nagar",
+        "amethi/UP_Amethi",
+        "barabanki/UP_Barabanki",
+        "basti/UP_Basti",
+        "gonda/UP_Gonda",
+        "sultanpur/UP_Sultanpur"
+    ],
+    "azamgarh/UP_Azamgarh": [
+        "ambedkar nagar/UP_Ambedkar Nagar",
+        "ghazipur/UP_Ghazipur",
+        "gorakhpur/UP_Gorakhpur",
+        "jaunpur/UP_Jaunpur",
+        "mau/UP_Mau",
+        "sultanpur/UP_Sultanpur"
+    ],
+    "bagalkote/KA_Bagalkote": [
+        "belagavi/KA_Belagavi",
+        "gadag/KA_Gadag",
+        "koppal/KA_Koppal",
+        "raichur/KA_Raichur",
+        "vijayapura/KA_Vijayapura"
+    ],
+    "bageshwar/UT_Bageshwar": [
+        "almora/UT_Almora",
+        "chamoli/UT_Chamoli",
+        "pithoragarh/UT_Pithoragarh"
+    ],
+    "baghpat/UP_Baghpat": [
+        "ghaziabad/UP_Ghaziabad",
+        "meerut/UP_Meerut",
+        "muzaffarnagar/UP_Muzaffarnagar",
+        "north delhi/DL_North Delhi",
+        "panipat/HR_Panipat",
+        "shamli/UP_Shamli",
+        "sonipat/HR_Sonipat"
+    ],
+    "bahraich/UP_Bahraich": [
+        "barabanki/UP_Barabanki",
+        "gonda/UP_Gonda",
+        "shrawasti/UP_Shrawasti",
+        "sitapur/UP_Sitapur"
+    ],
+    "baksa/AS_Baksa": [
+        "barpeta/AS_Barpeta",
+        "chirang/AS_Chirang",
+        "darrang/AS_Darrang",
+        "kamrup/AS_Kamrup",
+        "nalbari/AS_Nalbari",
+        "udalguri/AS_Udalguri"
+    ],
+    "balaghat/MP_Balaghat": [
+        "bhandara/MH_Bhandara",
+        "gondia/MH_Gondia",
+        "kabeerdham/CT_Kabeerdham",
+        "mandla/MP_Mandla",
+        "nagpur/MH_Nagpur",
+        "rajnandgaon/CT_Rajnandgaon",
+        "seoni/MP_Seoni"
+    ],
+    "balangir/OR_Balangir": [
+        "bargarh/OR_Bargarh",
+        "boudh/OR_Boudh",
+        "kalahandi/OR_Kalahandi",
+        "kandhamal/OR_Kandhamal",
+        "nuapada/OR_Nuapada",
+        "subarnapur/OR_Subarnapur"
+    ],
+    "balasore/OR_Balasore": [
+        "bhadrak/OR_Bhadrak",
+        "jhargram/WB_Jhargram",
+        "kendujhar/OR_Kendujhar",
+        "mayurbhanj/OR_Mayurbhanj",
+        "paschim medinipur/WB_Paschim Medinipur",
+        "purba medinipur/WB_Purba Medinipur"
+    ],
+    "ballari/KA_Ballari": [
+        "anantapur/AP_Anantapur",
+        "chitradurga/KA_Chitradurga",
+        "davanagere/KA_Davanagere",
+        "gadag/KA_Gadag",
+        "haveri/KA_Haveri",
+        "koppal/KA_Koppal",
+        "kurnool/AP_Kurnool",
+        "raichur/KA_Raichur"
+    ],
+    "ballia/UP_Ballia": [
+        "bhojpur/BR_Bhojpur",
+        "buxar/BR_Buxar",
+        "deoria/UP_Deoria",
+        "ghazipur/UP_Ghazipur",
+        "mau/UP_Mau",
+        "saran/BR_Saran",
+        "siwan/BR_Siwan"
+    ],
+    "balod/CT_Balod": [
+        "dhamtari/CT_Dhamtari",
+        "durg/CT_Durg",
+        "rajnandgaon/CT_Rajnandgaon",
+        "uttar bastar kanker/CT_Uttar Bastar Kanker"
+    ],
+    "baloda bazar/CT_Baloda Bazar": [
+        "bametara/CT_Bametara",
+        "bilaspur/CT_Bilaspur",
+        "janjgir champa/CT_Janjgir Champa",
+        "mahasamund/CT_Mahasamund",
+        "mungeli/CT_Mungeli",
+        "raigarh/CT_Raigarh",
+        "raipur/CT_Raipur"
+    ],
+    "balrampur/CT_Balrampur": [
+        "garhwa/JH_Garhwa",
+        "gumla/JH_Gumla",
+        "jashpur/CT_Jashpur",
+        "latehar/JH_Latehar",
+        "singrauli/MP_Singrauli",
+        "sonbhadra/UP_Sonbhadra",
+        "surajpur/CT_Surajpur",
+        "surguja/CT_Surguja"
+    ],
+    "balrampur/UP_Balrampur": [
+        "gonda/UP_Gonda",
+        "shrawasti/UP_Shrawasti",
+        "siddharthnagar/UP_Siddharthnagar"
+    ],
+    "bametara/CT_Bametara": [
+        "baloda bazar/CT_Baloda Bazar",
+        "durg/CT_Durg",
+        "kabeerdham/CT_Kabeerdham",
+        "mungeli/CT_Mungeli",
+        "raipur/CT_Raipur",
+        "rajnandgaon/CT_Rajnandgaon"
+    ],
+    "banaskantha/GJ_Banaskantha": [
+        "jalore/RJ_Jalore",
+        "kutch/GJ_Kutch",
+        "mehsana/GJ_Mehsana",
+        "patan/GJ_Patan",
+        "sabarkantha/GJ_Sabarkantha",
+        "sirohi/RJ_Sirohi"
+    ],
+    "banda/UP_Banda": [
+        "chhatarpur/MP_Chhatarpur",
+        "chitrakoot/UP_Chitrakoot",
+        "fatehpur/UP_Fatehpur",
+        "hamirpur/HP_Hamirpur",
+        "mahoba/UP_Mahoba",
+        "panna/MP_Panna",
+        "satna/MP_Satna"
+    ],
+    "bandipora/JK_Bandipora": [
+        "baramulla/JK_Baramulla",
+        "ganderbal/JK_Ganderbal",
+        "kargil/LA_Kargil",
+        "kupwara/JK_Kupwara",
+        "srinagar/JK_Srinagar"
+    ],
+    "banka/BR_Banka": [
+        "bhagalpur/BR_Bhagalpur",
+        "deoghar/JH_Deoghar",
+        "dumka/JH_Dumka",
+        "godda/JH_Godda",
+        "jamui/BR_Jamui",
+        "munger/BR_Munger"
+    ],
+    "bankura/WB_Bankura": [
+        "hooghly/WB_Hooghly",
+        "jhargram/WB_Jhargram",
+        "paschim bardhaman/WB_Paschim Bardhaman",
+        "paschim medinipur/WB_Paschim Medinipur",
+        "purba bardhaman/WB_Purba Bardhaman",
+        "purulia/WB_Purulia"
+    ],
+    "banswara/RJ_Banswara": [
+        "dahod/GJ_Dahod",
+        "dungarpur/RJ_Dungarpur",
+        "jhabua/MP_Jhabua",
+        "mahisagar/GJ_Mahisagar",
+        "pratapgarh/RJ_Pratapgarh",
+        "ratlam/MP_Ratlam"
+    ],
+    "barabanki/UP_Barabanki": [
+        "amethi/UP_Amethi",
+        "ayodhya/UP_Ayodhya",
+        "bahraich/UP_Bahraich",
+        "gonda/UP_Gonda",
+        "lucknow/UP_Lucknow",
+        "rae bareli/UP_Rae Bareli",
+        "sitapur/UP_Sitapur"
+    ],
+    "baramulla/JK_Baramulla": [
+        "bandipora/JK_Bandipora",
+        "budgam/JK_Budgam",
+        "kupwara/JK_Kupwara",
+        "punch/JK_Punch",
+        "srinagar/JK_Srinagar"
+    ],
+    "baran/RJ_Baran": [
+        "guna/MP_Guna",
+        "jhalawar/RJ_Jhalawar",
+        "kota/RJ_Kota",
+        "sheopur/MP_Sheopur",
+        "shivpuri/MP_Shivpuri"
+    ],
+    "bareilly/UP_Bareilly": [
+        "budaun/UP_Budaun",
+        "pilibhit/UP_Pilibhit",
+        "rampur/UP_Rampur",
+        "shahjahanpur/UP_Shahjahanpur",
+        "udham singh nagar/UT_Udham Singh Nagar"
+    ],
+    "bargarh/OR_Bargarh": [
+        "balangir/OR_Balangir",
+        "jharsuguda/OR_Jharsuguda",
+        "mahasamund/CT_Mahasamund",
+        "nuapada/OR_Nuapada",
+        "raigarh/CT_Raigarh",
+        "sambalpur/OR_Sambalpur",
+        "subarnapur/OR_Subarnapur"
+    ],
+    "barmer/RJ_Barmer": [
+        "jaisalmer/RJ_Jaisalmer",
+        "jalore/RJ_Jalore",
+        "jodhpur/RJ_Jodhpur",
+        "kutch/GJ_Kutch",
+        "pali/RJ_Pali"
+    ],
+    "barnala/PB_Barnala": [
+        "bathinda/PB_Bathinda",
+        "ludhiana/PB_Ludhiana",
+        "mansa/PB_Mansa",
+        "moga/PB_Moga",
+        "sangrur/PB_Sangrur"
+    ],
+    "barpeta/AS_Barpeta": [
+        "baksa/AS_Baksa",
+        "bongaigaon/AS_Bongaigaon",
+        "chirang/AS_Chirang",
+        "goalpara/AS_Goalpara",
+        "kamrup/AS_Kamrup",
+        "nalbari/AS_Nalbari"
+    ],
+    "barwani/MP_Barwani": [
+        "alirajpur/MP_Alirajpur",
+        "dhar/MP_Dhar",
+        "dhule/MH_Dhule",
+        "jalgaon/MH_Jalgaon",
+        "khargone/MP_Khargone",
+        "nandurbar/MH_Nandurbar"
+    ],
+    "bastar/CT_Bastar": [
+        "dakshin bastar dantewada/CT_Dakshin Bastar Dantewada",
+        "kondagaon/CT_Kondagaon",
+        "koraput/OR_Koraput",
+        "malkangiri/OR_Malkangiri",
+        "nabarangapur/OR_Nabarangapur",
+        "sukma/CT_Sukma"
+    ],
+    "basti/UP_Basti": [
+        "ambedkar nagar/UP_Ambedkar Nagar",
+        "ayodhya/UP_Ayodhya",
+        "gonda/UP_Gonda",
+        "sant kabir nagar/UP_Sant Kabir Nagar",
+        "siddharthnagar/UP_Siddharthnagar"
+    ],
+    "bathinda/PB_Bathinda": [
+        "barnala/PB_Barnala",
+        "faridkot/PB_Faridkot",
+        "mansa/PB_Mansa",
+        "moga/PB_Moga",
+        "sirsa/HR_Sirsa",
+        "sri muktsar sahib/PB_Sri Muktsar Sahib"
+    ],
+    "beed/MH_Beed": [
+        "ahmednagar/MH_Ahmednagar",
+        "aurangabad/BR_Aurangabad",
+        "jalna/MH_Jalna",
+        "latur/MH_Latur",
+        "osmanabad/MH_Osmanabad"
+    ],
+    "begusarai/BR_Begusarai": [
+        "khagaria/BR_Khagaria",
+        "lakhisarai/BR_Lakhisarai",
+        "munger/BR_Munger",
+        "patna/BR_Patna",
+        "samastipur/BR_Samastipur"
+    ],
+    "belagavi/KA_Belagavi": [
+        "bagalkote/KA_Bagalkote",
+        "dharwad/KA_Dharwad",
+        "gadag/KA_Gadag",
+        "kolhapur/MH_Kolhapur",
+        "north goa/GA_North Goa",
+        "sangli/MH_Sangli",
+        "sindhudurg/MH_Sindhudurg",
+        "uttara kannada/KA_Uttara Kannada",
+        "vijayapura/KA_Vijayapura"
+    ],
+    "bengaluru rural/KA_Bengaluru Rural": [
+        "bengaluru urban/KA_Bengaluru Urban",
+        "chikkaballapura/KA_Chikkaballapura",
+        "kolar/KA_Kolar",
+        "krishnagiri/TN_Krishnagiri",
+        "ramanagara/KA_Ramanagara",
+        "tumakuru/KA_Tumakuru"
+    ],
+    "bengaluru urban/KA_Bengaluru Urban": [
+        "bengaluru rural/KA_Bengaluru Rural",
+        "krishnagiri/TN_Krishnagiri",
+        "ramanagara/KA_Ramanagara"
+    ],
+    "betul/MP_Betul": [
+        "amravati/MH_Amravati",
+        "chhindwara/MP_Chhindwara",
+        "harda/MP_Harda",
+        "hoshangabad/MP_Hoshangabad",
+        "khandwa/MP_Khandwa"
+    ],
+    "bhadohi/UP_Bhadohi": [
+        "jaunpur/UP_Jaunpur",
+        "mirzapur/UP_Mirzapur",
+        "prayagraj/UP_Prayagraj",
+        "varanasi/UP_Varanasi"
+    ],
+    "bhadradri kothagudem/TG_Bhadradri Kothagudem": [
+        "bijapur/CT_Bijapur",
+        "east godavari/AP_East Godavari",
+        "khammam/TG_Khammam",
+        "mahabubabad/TG_Mahabubabad",
+        "mulugu/TG_Mulugu",
+        "sukma/CT_Sukma",
+        "west godavari/AP_West Godavari"
+    ],
+    "bhadrak/OR_Bhadrak": [
+        "balasore/OR_Balasore",
+        "jajpur/OR_Jajpur",
+        "kendrapara/OR_Kendrapara",
+        "kendujhar/OR_Kendujhar"
+    ],
+    "bhagalpur/BR_Bhagalpur": [
+        "banka/BR_Banka",
+        "godda/JH_Godda",
+        "katihar/BR_Katihar",
+        "khagaria/BR_Khagaria",
+        "madhepura/BR_Madhepura",
+        "munger/BR_Munger",
+        "purnia/BR_Purnia",
+        "sahibganj/JH_Sahibganj"
+    ],
+    "bhandara/MH_Bhandara": [
+        "balaghat/MP_Balaghat",
+        "chandrapur/MH_Chandrapur",
+        "gadchiroli/MH_Gadchiroli",
+        "gondia/MH_Gondia",
+        "nagpur/MH_Nagpur"
+    ],
+    "bharatpur/RJ_Bharatpur": [
+        "agra/UP_Agra",
+        "alwar/RJ_Alwar",
+        "dausa/RJ_Dausa",
+        "dholpur/RJ_Dholpur",
+        "karauli/RJ_Karauli",
+        "mathura/UP_Mathura",
+        "nuh/HR_Nuh"
+    ],
+    "bharuch/GJ_Bharuch": [
+        "anand/GJ_Anand",
+        "narmada/GJ_Narmada",
+        "surat/GJ_Surat",
+        "vadodara/GJ_Vadodara"
+    ],
+    "bhavnagar/GJ_Bhavnagar": [
+        "ahmedabad/GJ_Ahmedabad",
+        "amreli/GJ_Amreli",
+        "botad/GJ_Botad"
+    ],
+    "bhilwara/RJ_Bhilwara": [
+        "ajmer/RJ_Ajmer",
+        "bundi/RJ_Bundi",
+        "chittorgarh/RJ_Chittorgarh",
+        "neemuch/MP_Neemuch",
+        "rajsamand/RJ_Rajsamand",
+        "tonk/RJ_Tonk"
+    ],
+    "bhind/MP_Bhind": [
+        "agra/UP_Agra",
+        "datia/MP_Datia",
+        "etawah/UP_Etawah",
+        "gwalior/MP_Gwalior",
+        "jalaun/UP_Jalaun",
+        "jhansi/UP_Jhansi",
+        "morena/MP_Morena"
+    ],
+    "bhiwani/HR_Bhiwani": [
+        "charkhi dadri/HR_Charkhi Dadri",
+        "churu/RJ_Churu",
+        "hanumangarh/RJ_Hanumangarh",
+        "hisar/HR_Hisar",
+        "jhunjhunu/RJ_Jhunjhunu",
+        "mahendragarh/HR_Mahendragarh",
+        "rohtak/HR_Rohtak"
+    ],
+    "bhojpur/BR_Bhojpur": [
+        "arwal/BR_Arwal",
+        "ballia/UP_Ballia",
+        "buxar/BR_Buxar",
+        "patna/BR_Patna",
+        "rohtas/BR_Rohtas",
+        "saran/BR_Saran"
+    ],
+    "bhopal/MP_Bhopal": [
+        "guna/MP_Guna",
+        "raisen/MP_Raisen",
+        "rajgarh/MP_Rajgarh",
+        "sehore/MP_Sehore",
+        "vidisha/MP_Vidisha"
+    ],
+    "bidar/KA_Bidar": [
+        "kalaburagi/KA_Kalaburagi",
+        "kamareddy/TG_Kamareddy",
+        "latur/MH_Latur",
+        "nanded/MH_Nanded",
+        "osmanabad/MH_Osmanabad",
+        "sangareddy/TG_Sangareddy"
+    ],
+    "bijapur/CT_Bijapur": [
+        "bhadradri kothagudem/TG_Bhadradri Kothagudem",
+        "dakshin bastar dantewada/CT_Dakshin Bastar Dantewada",
+        "gadchiroli/MH_Gadchiroli",
+        "jayashankar bhupalapally/TG_Jayashankar Bhupalapally",
+        "mulugu/TG_Mulugu",
+        "narayanpur/CT_Narayanpur",
+        "sukma/CT_Sukma"
+    ],
+    "bijnor/UP_Bijnor": [
+        "amroha/UP_Amroha",
+        "haridwar/UT_Haridwar",
+        "meerut/UP_Meerut",
+        "moradabad/UP_Moradabad",
+        "muzaffarnagar/UP_Muzaffarnagar",
+        "nainital/UT_Nainital",
+        "pauri garhwal/UT_Pauri Garhwal",
+        "udham singh nagar/UT_Udham Singh Nagar"
+    ],
+    "bikaner/RJ_Bikaner": [
+        "churu/RJ_Churu",
+        "ganganagar/RJ_Ganganagar",
+        "hanumangarh/RJ_Hanumangarh",
+        "jaisalmer/RJ_Jaisalmer",
+        "jodhpur/RJ_Jodhpur",
+        "nagaur/RJ_Nagaur"
+    ],
+    "bilaspur/CT_Bilaspur": [
+        "anuppur/MP_Anuppur",
+        "baloda bazar/CT_Baloda Bazar",
+        "janjgir champa/CT_Janjgir Champa",
+        "korba/CT_Korba",
+        "koriya/CT_Koriya",
+        "mungeli/CT_Mungeli"
+    ],
+    "bilaspur/HP_Bilaspur": [
+        "hamirpur/HP_Hamirpur",
+        "mandi/HP_Mandi",
+        "rupnagar/PB_Rupnagar",
+        "solan/HP_Solan",
+        "una/HP_Una"
+    ],
+    "birbhum/WB_Birbhum": [
+        "dumka/JH_Dumka",
+        "jamtara/JH_Jamtara",
+        "murshidabad/WB_Murshidabad",
+        "pakur/JH_Pakur",
+        "paschim bardhaman/WB_Paschim Bardhaman",
+        "purba bardhaman/WB_Purba Bardhaman"
+    ],
+    "bishnupur/MN_Bishnupur": [
+        "churachandpur/MN_Churachandpur",
+        "imphal west/MN_Imphal West",
+        "kakching/MN_Kakching",
+        "kangpokpi/MN_Kangpokpi",
+        "noney/MN_Noney"
+    ],
+    "biswanath/AS_Biswanath": [
+        "golaghat/AS_Golaghat",
+        "lakhimpur/AS_Lakhimpur",
+        "nagaon/AS_Nagaon",
+        "pakke kessang/AR_Pakke Kessang",
+        "papum pare/AR_Papum Pare",
+        "sonitpur/AS_Sonitpur"
+    ],
+    "bokaro/JH_Bokaro": [
+        "dhanbad/JH_Dhanbad",
+        "giridih/JH_Giridih",
+        "hazaribagh/JH_Hazaribagh",
+        "purulia/WB_Purulia",
+        "ramgarh/JH_Ramgarh"
+    ],
+    "bongaigaon/AS_Bongaigaon": [
+        "barpeta/AS_Barpeta",
+        "chirang/AS_Chirang",
+        "dhubri/AS_Dhubri",
+        "goalpara/AS_Goalpara",
+        "kokrajhar/AS_Kokrajhar"
+    ],
+    "botad/GJ_Botad": [
+        "ahmedabad/GJ_Ahmedabad",
+        "amreli/GJ_Amreli",
+        "bhavnagar/GJ_Bhavnagar",
+        "rajkot/GJ_Rajkot",
+        "surendranagar/GJ_Surendranagar"
+    ],
+    "boudh/OR_Boudh": [
+        "angul/OR_Angul",
+        "balangir/OR_Balangir",
+        "kandhamal/OR_Kandhamal",
+        "nayagarh/OR_Nayagarh",
+        "subarnapur/OR_Subarnapur"
+    ],
+    "budaun/UP_Budaun": [
+        "aligarh/UP_Aligarh",
+        "bareilly/UP_Bareilly",
+        "farrukhabad/UP_Farrukhabad",
+        "kasganj/UP_Kasganj",
+        "moradabad/UP_Moradabad",
+        "rampur/UP_Rampur",
+        "sambhal/UP_Sambhal",
+        "shahjahanpur/UP_Shahjahanpur"
+    ],
+    "budgam/JK_Budgam": [
+        "baramulla/JK_Baramulla",
+        "kulgam/JK_Kulgam",
+        "pulwama/JK_Pulwama",
+        "punch/JK_Punch",
+        "shopiyan/JK_Shopiyan",
+        "srinagar/JK_Srinagar"
+    ],
+    "bulandshahr/UP_Bulandshahr": [
+        "aligarh/UP_Aligarh",
+        "amroha/UP_Amroha",
+        "gautam buddha nagar/UP_Gautam Buddha Nagar",
+        "hapur/UP_Hapur",
+        "sambhal/UP_Sambhal"
+    ],
+    "buldhana/MH_Buldhana": [
+        "akola/MH_Akola",
+        "amravati/MH_Amravati",
+        "burhanpur/MP_Burhanpur",
+        "jalgaon/MH_Jalgaon",
+        "jalna/MH_Jalna",
+        "washim/MH_Washim"
+    ],
+    "bundi/RJ_Bundi": [
+        "bhilwara/RJ_Bhilwara",
+        "chittorgarh/RJ_Chittorgarh",
+        "kota/RJ_Kota",
+        "sawai madhopur/RJ_Sawai Madhopur",
+        "tonk/RJ_Tonk"
+    ],
+    "burhanpur/MP_Burhanpur": [
+        "amravati/MH_Amravati",
+        "buldhana/MH_Buldhana",
+        "jalgaon/MH_Jalgaon",
+        "khandwa/MP_Khandwa",
+        "khargone/MP_Khargone"
+    ],
+    "buxar/BR_Buxar": [
+        "ballia/UP_Ballia",
+        "bhojpur/BR_Bhojpur",
+        "ghazipur/UP_Ghazipur",
+        "kaimur/BR_Kaimur",
+        "rohtas/BR_Rohtas"
+    ],
+    "cachar/AS_Cachar": [
+        "aizawl/MZ_Aizawl",
+        "dima hasao/AS_Dima Hasao",
+        "east jaintia hills/ML_East Jaintia Hills",
+        "hailakandi/AS_Hailakandi",
+        "jiribam/MN_Jiribam",
+        "karimganj/AS_Karimganj",
+        "kolasib/MZ_Kolasib",
+        "pherzawl/MN_Pherzawl",
+        "tamenglong/MN_Tamenglong"
+    ],
+    "central delhi/DL_Central Delhi": [
+        "east delhi/DL_East Delhi",
+        "new delhi/DL_New Delhi",
+        "north delhi/DL_North Delhi",
+        "north east delhi/DL_North East Delhi",
+        "north west delhi/DL_North West Delhi",
+        "shahdara/DL_Shahdara",
+        "south east delhi/DL_South East Delhi",
+        "west delhi/DL_West Delhi"
+    ],
+    "chamarajanagara/KA_Chamarajanagara": [
+        "dharmapuri/TN_Dharmapuri",
+        "erode/TN_Erode",
+        "krishnagiri/TN_Krishnagiri",
+        "mandya/KA_Mandya",
+        "mysuru/KA_Mysuru",
+        "nilgiris/TN_Nilgiris",
+        "ramanagara/KA_Ramanagara",
+        "salem/TN_Salem",
+        "wayanad/KL_Wayanad"
+    ],
+    "chamba/HP_Chamba": [
+        "doda/JK_Doda",
+        "kangra/HP_Kangra",
+        "kathua/JK_Kathua",
+        "kishtwar/JK_Kishtwar",
+        "lahaul and spiti/HP_Lahaul and Spiti",
+        "pathankot/PB_Pathankot"
+    ],
+    "chamoli/UT_Chamoli": [
+        "almora/UT_Almora",
+        "bageshwar/UT_Bageshwar",
+        "pauri garhwal/UT_Pauri Garhwal",
+        "pithoragarh/UT_Pithoragarh",
+        "rudraprayag/UT_Rudraprayag",
+        "uttarkashi/UT_Uttarkashi"
+    ],
+    "champawat/UT_Champawat": [
+        "almora/UT_Almora",
+        "nainital/UT_Nainital",
+        "pithoragarh/UT_Pithoragarh",
+        "udham singh nagar/UT_Udham Singh Nagar"
+    ],
+    "champhai/MZ_Champhai": [
+        "aizawl/MZ_Aizawl",
+        "pherzawl/MN_Pherzawl",
+        "serchhip/MZ_Serchhip"
+    ],
+    "chandauli/UP_Chandauli": [
+        "ghazipur/UP_Ghazipur",
+        "kaimur/BR_Kaimur",
+        "mirzapur/UP_Mirzapur",
+        "sonbhadra/UP_Sonbhadra",
+        "varanasi/UP_Varanasi"
+    ],
+    "chandel/MN_Chandel": [
+        "churachandpur/MN_Churachandpur",
+        "kakching/MN_Kakching",
+        "tengnoupal/MN_Tengnoupal"
+    ],
+    "chandigarh/CH_Chandigarh": [
+        "panchkula/HR_Panchkula",
+        "s.a.s. nagar/PB_S.A.S. Nagar"
+    ],
+    "chandrapur/MH_Chandrapur": [
+        "adilabad/TG_Adilabad",
+        "bhandara/MH_Bhandara",
+        "gadchiroli/MH_Gadchiroli",
+        "komaram bheem/TG_Komaram Bheem",
+        "nagpur/MH_Nagpur",
+        "wardha/MH_Wardha",
+        "yavatmal/MH_Yavatmal"
+    ],
+    "changlang/AR_Changlang": [
+        "anjaw/AR_Anjaw",
+        "lohit/AR_Lohit",
+        "namsai/AR_Namsai",
+        "tinsukia/AS_Tinsukia",
+        "tirap/AR_Tirap"
+    ],
+    "charaideo/AS_Charaideo": [
+        "dibrugarh/AS_Dibrugarh",
+        "longding/AR_Longding",
+        "mon/NL_Mon",
+        "sivasagar/AS_Sivasagar"
+    ],
+    "charkhi dadri/HR_Charkhi Dadri": [
+        "bhiwani/HR_Bhiwani",
+        "jhajjar/HR_Jhajjar",
+        "mahendragarh/HR_Mahendragarh",
+        "rohtak/HR_Rohtak"
+    ],
+    "chatra/JH_Chatra": [
+        "gaya/BR_Gaya",
+        "hazaribagh/JH_Hazaribagh",
+        "latehar/JH_Latehar",
+        "palamu/JH_Palamu",
+        "ranchi/JH_Ranchi"
+    ],
+    "chennai/TN_Chennai": [
+        "kancheepuram/TN_Kancheepuram",
+        "thiruvallur/TN_Thiruvallur"
+    ],
+    "chhatarpur/MP_Chhatarpur": [
+        "banda/UP_Banda",
+        "damoh/MP_Damoh",
+        "jhansi/UP_Jhansi",
+        "lalitpur/UP_Lalitpur",
+        "mahoba/UP_Mahoba",
+        "panna/MP_Panna",
+        "sagar/MP_Sagar",
+        "tikamgarh/MP_Tikamgarh"
+    ],
+    "chhindwara/MP_Chhindwara": [
+        "amravati/MH_Amravati",
+        "betul/MP_Betul",
+        "hoshangabad/MP_Hoshangabad",
+        "nagpur/MH_Nagpur",
+        "narsinghpur/MP_Narsinghpur",
+        "seoni/MP_Seoni"
+    ],
+    "chhota udaipur/GJ_Chhota Udaipur": [
+        "alirajpur/MP_Alirajpur",
+        "dahod/GJ_Dahod",
+        "nandurbar/MH_Nandurbar",
+        "narmada/GJ_Narmada",
+        "panchmahal/GJ_Panchmahal",
+        "vadodara/GJ_Vadodara"
+    ],
+    "chikkaballapura/KA_Chikkaballapura": [
+        "anantapur/AP_Anantapur",
+        "bengaluru rural/KA_Bengaluru Rural",
+        "chittoor/AP_Chittoor",
+        "kolar/KA_Kolar",
+        "tumakuru/KA_Tumakuru"
+    ],
+    "chikkamagaluru/KA_Chikkamagaluru": [
+        "chitradurga/KA_Chitradurga",
+        "dakshina kannada/KA_Dakshina Kannada",
+        "davanagere/KA_Davanagere",
+        "hassan/KA_Hassan",
+        "shivamogga/KA_Shivamogga",
+        "tumakuru/KA_Tumakuru",
+        "udupi/KA_Udupi"
+    ],
+    "chirang/AS_Chirang": [
+        "baksa/AS_Baksa",
+        "barpeta/AS_Barpeta",
+        "bongaigaon/AS_Bongaigaon",
+        "kokrajhar/AS_Kokrajhar"
+    ],
+    "chitradurga/KA_Chitradurga": [
+        "anantapur/AP_Anantapur",
+        "ballari/KA_Ballari",
+        "chikkamagaluru/KA_Chikkamagaluru",
+        "davanagere/KA_Davanagere",
+        "tumakuru/KA_Tumakuru"
+    ],
+    "chitrakoot/UP_Chitrakoot": [
+        "banda/UP_Banda",
+        "fatehpur/UP_Fatehpur",
+        "kaushambi/UP_Kaushambi",
+        "prayagraj/UP_Prayagraj",
+        "rewa/MP_Rewa",
+        "satna/MP_Satna"
+    ],
+    "chittoor/AP_Chittoor": [
+        "anantapur/AP_Anantapur",
+        "chikkaballapura/KA_Chikkaballapura",
+        "kolar/KA_Kolar",
+        "krishnagiri/TN_Krishnagiri",
+        "s.p.s. nellore/AP_S.P.S. Nellore",
+        "thiruvallur/TN_Thiruvallur",
+        "vellore/TN_Vellore",
+        "y.s.r. kadapa/AP_Y.S.R. Kadapa"
+    ],
+    "chittorgarh/RJ_Chittorgarh": [
+        "bhilwara/RJ_Bhilwara",
+        "bundi/RJ_Bundi",
+        "kota/RJ_Kota",
+        "mandsaur/MP_Mandsaur",
+        "neemuch/MP_Neemuch",
+        "pratapgarh/RJ_Pratapgarh",
+        "rajsamand/RJ_Rajsamand",
+        "udaipur/RJ_Udaipur"
+    ],
+    "churachandpur/MN_Churachandpur": [
+        "bishnupur/MN_Bishnupur",
+        "chandel/MN_Chandel",
+        "kakching/MN_Kakching",
+        "noney/MN_Noney",
+        "pherzawl/MN_Pherzawl"
+    ],
+    "churu/RJ_Churu": [
+        "bhiwani/HR_Bhiwani",
+        "bikaner/RJ_Bikaner",
+        "hanumangarh/RJ_Hanumangarh",
+        "jhunjhunu/RJ_Jhunjhunu",
+        "nagaur/RJ_Nagaur",
+        "sikar/RJ_Sikar"
+    ],
+    "coimbatore/TN_Coimbatore": [
+        "ernakulam/KL_Ernakulam",
+        "erode/TN_Erode",
+        "idukki/KL_Idukki",
+        "nilgiris/TN_Nilgiris",
+        "palakkad/KL_Palakkad",
+        "thrissur/KL_Thrissur",
+        "tiruppur/TN_Tiruppur"
+    ],
+    "cooch behar/WB_Cooch Behar": [
+        "alipurduar/WB_Alipurduar",
+        "dhubri/AS_Dhubri",
+        "jalpaiguri/WB_Jalpaiguri",
+        "kokrajhar/AS_Kokrajhar"
+    ],
+    "cuddalore/TN_Cuddalore": [
+        "ariyalur/TN_Ariyalur",
+        "kallakurichi/TN_Kallakurichi",
+        "nagapattinam/TN_Nagapattinam",
+        "perambalur/TN_Perambalur",
+        "puducherry/PY_Puducherry",
+        "thanjavur/TN_Thanjavur",
+        "viluppuram/TN_Viluppuram"
+    ],
+    "cuttack/OR_Cuttack": [
+        "angul/OR_Angul",
+        "dhenkanal/OR_Dhenkanal",
+        "jagatsinghpur/OR_Jagatsinghpur",
+        "jajpur/OR_Jajpur",
+        "kendrapara/OR_Kendrapara",
+        "khordha/OR_Khordha",
+        "nayagarh/OR_Nayagarh",
+        "puri/OR_Puri"
+    ],
+    "dadra and nagar haveli/DN_Dadra and Nagar Haveli": [
+        "palghar/MH_Palghar",
+        "valsad/GJ_Valsad"
+    ],
+    "dahod/GJ_Dahod": [
+        "alirajpur/MP_Alirajpur",
+        "banswara/RJ_Banswara",
+        "chhota udaipur/GJ_Chhota Udaipur",
+        "jhabua/MP_Jhabua",
+        "mahisagar/GJ_Mahisagar",
+        "panchmahal/GJ_Panchmahal"
+    ],
+    "dakshin bastar dantewada/CT_Dakshin Bastar Dantewada": [
+        "bastar/CT_Bastar",
+        "bijapur/CT_Bijapur",
+        "kondagaon/CT_Kondagaon",
+        "narayanpur/CT_Narayanpur",
+        "sukma/CT_Sukma"
+    ],
+    "dakshin dinajpur/WB_Dakshin Dinajpur": [
+        "malda/WB_Malda",
+        "uttar dinajpur/WB_Uttar Dinajpur"
+    ],
+    "dakshina kannada/KA_Dakshina Kannada": [
+        "chikkamagaluru/KA_Chikkamagaluru",
+        "hassan/KA_Hassan",
+        "kasaragod/KL_Kasaragod",
+        "kodagu/KA_Kodagu",
+        "udupi/KA_Udupi"
+    ],
+    "daman/DN_Daman": [
+        "valsad/GJ_Valsad"
+    ],
+    "damoh/MP_Damoh": [
+        "chhatarpur/MP_Chhatarpur",
+        "jabalpur/MP_Jabalpur",
+        "katni/MP_Katni",
+        "narsinghpur/MP_Narsinghpur",
+        "panna/MP_Panna",
+        "sagar/MP_Sagar"
+    ],
+    "dang/GJ_Dang": [
+        "dhule/MH_Dhule",
+        "nashik/MH_Nashik",
+        "navsari/GJ_Navsari",
+        "tapi/GJ_Tapi"
+    ],
+    "darbhanga/BR_Darbhanga": [
+        "madhubani/BR_Madhubani",
+        "muzaffarpur/BR_Muzaffarpur",
+        "saharsa/BR_Saharsa",
+        "samastipur/BR_Samastipur",
+        "sitamarhi/BR_Sitamarhi"
+    ],
+    "darjeeling/WB_Darjeeling": [
+        "jalpaiguri/WB_Jalpaiguri",
+        "kalimpong/WB_Kalimpong",
+        "kishanganj/BR_Kishanganj",
+        "south sikkim/SK_South Sikkim",
+        "uttar dinajpur/WB_Uttar Dinajpur",
+        "west sikkim/SK_West Sikkim"
+    ],
+    "darrang/AS_Darrang": [
+        "baksa/AS_Baksa",
+        "kamrup metropolitan/AS_Kamrup Metropolitan",
+        "kamrup/AS_Kamrup",
+        "morigaon/AS_Morigaon",
+        "sonitpur/AS_Sonitpur",
+        "udalguri/AS_Udalguri"
+    ],
+    "datia/MP_Datia": [
+        "bhind/MP_Bhind",
+        "gwalior/MP_Gwalior",
+        "jhansi/UP_Jhansi",
+        "lalitpur/UP_Lalitpur",
+        "shivpuri/MP_Shivpuri"
+    ],
+    "dausa/RJ_Dausa": [
+        "alwar/RJ_Alwar",
+        "bharatpur/RJ_Bharatpur",
+        "jaipur/RJ_Jaipur",
+        "karauli/RJ_Karauli",
+        "sawai madhopur/RJ_Sawai Madhopur",
+        "tonk/RJ_Tonk"
+    ],
+    "davanagere/KA_Davanagere": [
+        "ballari/KA_Ballari",
+        "chikkamagaluru/KA_Chikkamagaluru",
+        "chitradurga/KA_Chitradurga",
+        "haveri/KA_Haveri",
+        "shivamogga/KA_Shivamogga"
+    ],
+    "dehradun/UT_Dehradun": [
+        "haridwar/UT_Haridwar",
+        "pauri garhwal/UT_Pauri Garhwal",
+        "saharanpur/UP_Saharanpur",
+        "shimla/HP_Shimla",
+        "sirmaur/HP_Sirmaur",
+        "tehri garhwal/UT_Tehri Garhwal",
+        "uttarkashi/UT_Uttarkashi"
+    ],
+    "deogarh/OR_Deogarh": [
+        "angul/OR_Angul",
+        "sambalpur/OR_Sambalpur",
+        "sundargarh/OR_Sundargarh"
+    ],
+    "deoghar/JH_Deoghar": [
+        "banka/BR_Banka",
+        "dumka/JH_Dumka",
+        "giridih/JH_Giridih",
+        "jamtara/JH_Jamtara",
+        "jamui/BR_Jamui"
+    ],
+    "deoria/UP_Deoria": [
+        "ballia/UP_Ballia",
+        "gopalganj/BR_Gopalganj",
+        "gorakhpur/UP_Gorakhpur",
+        "kushinagar/UP_Kushinagar",
+        "mau/UP_Mau",
+        "siwan/BR_Siwan"
+    ],
+    "devbhumi dwarka/GJ_Devbhumi Dwarka": [
+        "jamnagar/GJ_Jamnagar",
+        "porbandar/GJ_Porbandar"
+    ],
+    "dewas/MP_Dewas": [
+        "harda/MP_Harda",
+        "indore/MP_Indore",
+        "khandwa/MP_Khandwa",
+        "khargone/MP_Khargone",
+        "sehore/MP_Sehore",
+        "shajapur/MP_Shajapur",
+        "ujjain/MP_Ujjain"
+    ],
+    "dhalai/TR_Dhalai": [
+        "gomati/TR_Gomati",
+        "khowai/TR_Khowai",
+        "north tripura/TR_North Tripura",
+        "unokoti/TR_Unokoti"
+    ],
+    "dhamtari/CT_Dhamtari": [
+        "balod/CT_Balod",
+        "durg/CT_Durg",
+        "gariaband/CT_Gariaband",
+        "kondagaon/CT_Kondagaon",
+        "nabarangapur/OR_Nabarangapur",
+        "raipur/CT_Raipur",
+        "uttar bastar kanker/CT_Uttar Bastar Kanker"
+    ],
+    "dhanbad/JH_Dhanbad": [
+        "bokaro/JH_Bokaro",
+        "giridih/JH_Giridih",
+        "jamtara/JH_Jamtara",
+        "paschim bardhaman/WB_Paschim Bardhaman",
+        "purulia/WB_Purulia"
+    ],
+    "dhar/MP_Dhar": [
+        "alirajpur/MP_Alirajpur",
+        "barwani/MP_Barwani",
+        "indore/MP_Indore",
+        "jhabua/MP_Jhabua",
+        "khargone/MP_Khargone",
+        "ratlam/MP_Ratlam",
+        "ujjain/MP_Ujjain"
+    ],
+    "dharmapuri/TN_Dharmapuri": [
+        "chamarajanagara/KA_Chamarajanagara",
+        "erode/TN_Erode",
+        "kallakurichi/TN_Kallakurichi",
+        "krishnagiri/TN_Krishnagiri",
+        "salem/TN_Salem",
+        "tiruvannamalai/TN_Tiruvannamalai"
+    ],
+    "dharwad/KA_Dharwad": [
+        "belagavi/KA_Belagavi",
+        "gadag/KA_Gadag",
+        "haveri/KA_Haveri",
+        "uttara kannada/KA_Uttara Kannada"
+    ],
+    "dhemaji/AS_Dhemaji": [
+        "dibrugarh/AS_Dibrugarh",
+        "east siang/AR_East Siang",
+        "kamle/AR_Kamle",
+        "lakhimpur/AS_Lakhimpur",
+        "lower dibang valley/AR_Lower Dibang Valley",
+        "lower siang/AR_Lower Siang",
+        "tinsukia/AS_Tinsukia"
+    ],
+    "dhenkanal/OR_Dhenkanal": [
+        "angul/OR_Angul",
+        "cuttack/OR_Cuttack",
+        "jajpur/OR_Jajpur",
+        "kendujhar/OR_Kendujhar"
+    ],
+    "dholpur/RJ_Dholpur": [
+        "agra/UP_Agra",
+        "bharatpur/RJ_Bharatpur",
+        "karauli/RJ_Karauli",
+        "morena/MP_Morena"
+    ],
+    "dhubri/AS_Dhubri": [
+        "bongaigaon/AS_Bongaigaon",
+        "cooch behar/WB_Cooch Behar",
+        "goalpara/AS_Goalpara",
+        "kokrajhar/AS_Kokrajhar",
+        "south salmara mankachar/AS_South Salmara Mankachar"
+    ],
+    "dhule/MH_Dhule": [
+        "barwani/MP_Barwani",
+        "dang/GJ_Dang",
+        "jalgaon/MH_Jalgaon",
+        "nandurbar/MH_Nandurbar",
+        "nashik/MH_Nashik",
+        "tapi/GJ_Tapi"
+    ],
+    "dibrugarh/AS_Dibrugarh": [
+        "charaideo/AS_Charaideo",
+        "dhemaji/AS_Dhemaji",
+        "lakhimpur/AS_Lakhimpur",
+        "longding/AR_Longding",
+        "majuli/AS_Majuli",
+        "sivasagar/AS_Sivasagar",
+        "tinsukia/AS_Tinsukia",
+        "tirap/AR_Tirap"
+    ],
+    "dima hasao/AS_Dima Hasao": [
+        "cachar/AS_Cachar",
+        "east jaintia hills/ML_East Jaintia Hills",
+        "hojai/AS_Hojai",
+        "karbi anglong/AS_Karbi Anglong",
+        "peren/NL_Peren",
+        "tamenglong/MN_Tamenglong",
+        "west jaintia hills/ML_West Jaintia Hills",
+        "west karbi anglong/AS_West Karbi Anglong"
+    ],
+    "dimapur/NL_Dimapur": [
+        "golaghat/AS_Golaghat",
+        "karbi anglong/AS_Karbi Anglong",
+        "kohima/NL_Kohima",
+        "peren/NL_Peren"
+    ],
+    "dindigul/TN_Dindigul": [
+        "idukki/KL_Idukki",
+        "karur/TN_Karur",
+        "madurai/TN_Madurai",
+        "theni/TN_Theni",
+        "tiruchirappalli/TN_Tiruchirappalli",
+        "tiruppur/TN_Tiruppur"
+    ],
+    "dindori/MP_Dindori": [
+        "anuppur/MP_Anuppur",
+        "jabalpur/MP_Jabalpur",
+        "kabeerdham/CT_Kabeerdham",
+        "mandla/MP_Mandla",
+        "mungeli/CT_Mungeli",
+        "umaria/MP_Umaria"
+    ],
+    "diu/DN_Diu": [
+        "gir somnath/GJ_Gir Somnath"
+    ],
+    "doda/JK_Doda": [
+        "anantnag/JK_Anantnag",
+        "chamba/HP_Chamba",
+        "kathua/JK_Kathua",
+        "kishtwar/JK_Kishtwar",
+        "ramban/JK_Ramban",
+        "udhampur/JK_Udhampur"
+    ],
+    "dumka/JH_Dumka": [
+        "banka/BR_Banka",
+        "birbhum/WB_Birbhum",
+        "deoghar/JH_Deoghar",
+        "godda/JH_Godda",
+        "jamtara/JH_Jamtara",
+        "pakur/JH_Pakur"
+    ],
+    "dungarpur/RJ_Dungarpur": [
+        "aravalli/GJ_Aravalli",
+        "banswara/RJ_Banswara",
+        "mahisagar/GJ_Mahisagar",
+        "pratapgarh/RJ_Pratapgarh",
+        "udaipur/RJ_Udaipur"
+    ],
+    "durg/CT_Durg": [
+        "balod/CT_Balod",
+        "bametara/CT_Bametara",
+        "dhamtari/CT_Dhamtari",
+        "raipur/CT_Raipur",
+        "rajnandgaon/CT_Rajnandgaon"
+    ],
+    "east champaran/BR_East Champaran": [
+        "gopalganj/BR_Gopalganj",
+        "muzaffarpur/BR_Muzaffarpur",
+        "sheohar/BR_Sheohar",
+        "sitamarhi/BR_Sitamarhi",
+        "west champaran/BR_West Champaran"
+    ],
+    "east delhi/DL_East Delhi": [
+        "central delhi/DL_Central Delhi",
+        "gautam buddha nagar/UP_Gautam Buddha Nagar",
+        "ghaziabad/UP_Ghaziabad",
+        "shahdara/DL_Shahdara",
+        "south east delhi/DL_South East Delhi"
+    ],
+    "east garo hills/ML_East Garo Hills": [
+        "north garo hills/ML_North Garo Hills",
+        "south garo hills/ML_South Garo Hills",
+        "west garo hills/ML_West Garo Hills",
+        "west khasi hills/ML_West Khasi Hills"
+    ],
+    "east godavari/AP_East Godavari": [
+        "bhadradri kothagudem/TG_Bhadradri Kothagudem",
+        "malkangiri/OR_Malkangiri",
+        "sukma/CT_Sukma",
+        "visakhapatnam/AP_Visakhapatnam",
+        "west godavari/AP_West Godavari"
+    ],
+    "east jaintia hills/ML_East Jaintia Hills": [
+        "cachar/AS_Cachar",
+        "dima hasao/AS_Dima Hasao",
+        "west jaintia hills/ML_West Jaintia Hills"
+    ],
+    "east kameng/AR_East Kameng": [
+        "kurung kumey/AR_Kurung Kumey",
+        "pakke kessang/AR_Pakke Kessang",
+        "papum pare/AR_Papum Pare",
+        "tawang/AR_Tawang",
+        "west kameng/AR_West Kameng"
+    ],
+    "east khasi hills/ML_East Khasi Hills": [
+        "ribhoi/ML_Ribhoi",
+        "south west khasi hills/ML_South West Khasi Hills",
+        "west jaintia hills/ML_West Jaintia Hills",
+        "west khasi hills/ML_West Khasi Hills"
+    ],
+    "east siang/AR_East Siang": [
+        "dhemaji/AS_Dhemaji",
+        "lower dibang valley/AR_Lower Dibang Valley",
+        "lower siang/AR_Lower Siang",
+        "siang/AR_Siang",
+        "tinsukia/AS_Tinsukia",
+        "upper siang/AR_Upper Siang"
+    ],
+    "east sikkim/SK_East Sikkim": [
+        "kalimpong/WB_Kalimpong",
+        "north sikkim/SK_North Sikkim",
+        "south sikkim/SK_South Sikkim"
+    ],
+    "east singhbhum/JH_East Singhbhum": [
+        "jhargram/WB_Jhargram",
+        "mayurbhanj/OR_Mayurbhanj",
+        "purulia/WB_Purulia"
+    ],
+    "ernakulam/KL_Ernakulam": [
+        "alappuzha/KL_Alappuzha",
+        "coimbatore/TN_Coimbatore",
+        "idukki/KL_Idukki",
+        "kottayam/KL_Kottayam",
+        "thrissur/KL_Thrissur"
+    ],
+    "erode/TN_Erode": [
+        "chamarajanagara/KA_Chamarajanagara",
+        "coimbatore/TN_Coimbatore",
+        "dharmapuri/TN_Dharmapuri",
+        "karur/TN_Karur",
+        "namakkal/TN_Namakkal",
+        "nilgiris/TN_Nilgiris",
+        "salem/TN_Salem",
+        "tiruppur/TN_Tiruppur"
+    ],
+    "etah/UP_Etah": [
+        "agra/UP_Agra",
+        "farrukhabad/UP_Farrukhabad",
+        "firozabad/UP_Firozabad",
+        "hathras/UP_Hathras",
+        "kasganj/UP_Kasganj",
+        "mainpuri/UP_Mainpuri"
+    ],
+    "etawah/UP_Etawah": [
+        "agra/UP_Agra",
+        "auraiya/UP_Auraiya",
+        "bhind/MP_Bhind",
+        "firozabad/UP_Firozabad",
+        "jalaun/UP_Jalaun",
+        "kannauj/UP_Kannauj",
+        "mainpuri/UP_Mainpuri"
+    ],
+    "faridabad/HR_Faridabad": [
+        "gautam buddha nagar/UP_Gautam Buddha Nagar",
+        "gurugram/HR_Gurugram",
+        "palwal/HR_Palwal",
+        "south delhi/DL_South Delhi",
+        "south east delhi/DL_South East Delhi"
+    ],
+    "faridkot/PB_Faridkot": [
+        "bathinda/PB_Bathinda",
+        "ferozepur/PB_Ferozepur",
+        "moga/PB_Moga",
+        "sri muktsar sahib/PB_Sri Muktsar Sahib"
+    ],
+    "farrukhabad/UP_Farrukhabad": [
+        "budaun/UP_Budaun",
+        "etah/UP_Etah",
+        "hardoi/UP_Hardoi",
+        "kannauj/UP_Kannauj",
+        "kasganj/UP_Kasganj",
+        "mainpuri/UP_Mainpuri",
+        "shahjahanpur/UP_Shahjahanpur"
+    ],
+    "fatehabad/HR_Fatehabad": [
+        "hanumangarh/RJ_Hanumangarh",
+        "hisar/HR_Hisar",
+        "jind/HR_Jind",
+        "mansa/PB_Mansa",
+        "sangrur/PB_Sangrur",
+        "sirsa/HR_Sirsa"
+    ],
+    "fatehgarh sahib/PB_Fatehgarh Sahib": [
+        "ludhiana/PB_Ludhiana",
+        "patiala/PB_Patiala",
+        "rupnagar/PB_Rupnagar",
+        "s.a.s. nagar/PB_S.A.S. Nagar",
+        "sangrur/PB_Sangrur"
+    ],
+    "fatehpur/UP_Fatehpur": [
+        "banda/UP_Banda",
+        "chitrakoot/UP_Chitrakoot",
+        "hamirpur/HP_Hamirpur",
+        "kanpur nagar/UP_Kanpur Nagar",
+        "kaushambi/UP_Kaushambi",
+        "pratapgarh/RJ_Pratapgarh",
+        "rae bareli/UP_Rae Bareli",
+        "unnao/UP_Unnao"
+    ],
+    "fazilka/PB_Fazilka": [
+        "ferozepur/PB_Ferozepur",
+        "ganganagar/RJ_Ganganagar",
+        "hanumangarh/RJ_Hanumangarh",
+        "sri muktsar sahib/PB_Sri Muktsar Sahib"
+    ],
+    "ferozepur/PB_Ferozepur": [
+        "faridkot/PB_Faridkot",
+        "fazilka/PB_Fazilka",
+        "jalandhar/PB_Jalandhar",
+        "kapurthala/PB_Kapurthala",
+        "moga/PB_Moga",
+        "sri muktsar sahib/PB_Sri Muktsar Sahib",
+        "tarn taran/PB_Tarn Taran"
+    ],
+    "firozabad/UP_Firozabad": [
+        "agra/UP_Agra",
+        "etah/UP_Etah",
+        "etawah/UP_Etawah",
+        "mainpuri/UP_Mainpuri"
+    ],
+    "gadag/KA_Gadag": [
+        "bagalkote/KA_Bagalkote",
+        "ballari/KA_Ballari",
+        "belagavi/KA_Belagavi",
+        "dharwad/KA_Dharwad",
+        "haveri/KA_Haveri",
+        "koppal/KA_Koppal"
+    ],
+    "gadchiroli/MH_Gadchiroli": [
+        "bhandara/MH_Bhandara",
+        "bijapur/CT_Bijapur",
+        "chandrapur/MH_Chandrapur",
+        "gondia/MH_Gondia",
+        "jayashankar bhupalapally/TG_Jayashankar Bhupalapally",
+        "komaram bheem/TG_Komaram Bheem",
+        "mancherial/TG_Mancherial",
+        "narayanpur/CT_Narayanpur",
+        "rajnandgaon/CT_Rajnandgaon",
+        "uttar bastar kanker/CT_Uttar Bastar Kanker"
+    ],
+    "gajapati/OR_Gajapati": [
+        "ganjam/OR_Ganjam",
+        "kandhamal/OR_Kandhamal",
+        "rayagada/OR_Rayagada",
+        "srikakulam/AP_Srikakulam"
+    ],
+    "ganderbal/JK_Ganderbal": [
+        "anantnag/JK_Anantnag",
+        "bandipora/JK_Bandipora",
+        "kargil/LA_Kargil",
+        "srinagar/JK_Srinagar"
+    ],
+    "gandhinagar/GJ_Gandhinagar": [
+        "ahmedabad/GJ_Ahmedabad",
+        "aravalli/GJ_Aravalli",
+        "kheda/GJ_Kheda",
+        "mehsana/GJ_Mehsana",
+        "sabarkantha/GJ_Sabarkantha"
+    ],
+    "ganganagar/RJ_Ganganagar": [
+        "bikaner/RJ_Bikaner",
+        "fazilka/PB_Fazilka",
+        "hanumangarh/RJ_Hanumangarh"
+    ],
+    "ganjam/OR_Ganjam": [
+        "gajapati/OR_Gajapati",
+        "kandhamal/OR_Kandhamal",
+        "khordha/OR_Khordha",
+        "nayagarh/OR_Nayagarh",
+        "puri/OR_Puri",
+        "srikakulam/AP_Srikakulam"
+    ],
+    "garhwa/JH_Garhwa": [
+        "balrampur/CT_Balrampur",
+        "latehar/JH_Latehar",
+        "palamu/JH_Palamu",
+        "rohtas/BR_Rohtas",
+        "sonbhadra/UP_Sonbhadra"
+    ],
+    "gariaband/CT_Gariaband": [
+        "dhamtari/CT_Dhamtari",
+        "kalahandi/OR_Kalahandi",
+        "mahasamund/CT_Mahasamund",
+        "nabarangapur/OR_Nabarangapur",
+        "nuapada/OR_Nuapada",
+        "raipur/CT_Raipur"
+    ],
+    "gautam buddha nagar/UP_Gautam Buddha Nagar": [
+        "aligarh/UP_Aligarh",
+        "bulandshahr/UP_Bulandshahr",
+        "east delhi/DL_East Delhi",
+        "faridabad/HR_Faridabad",
+        "ghaziabad/UP_Ghaziabad",
+        "hapur/UP_Hapur",
+        "palwal/HR_Palwal",
+        "south east delhi/DL_South East Delhi"
+    ],
+    "gaya/BR_Gaya": [
+        "arwal/BR_Arwal",
+        "aurangabad/BR_Aurangabad",
+        "chatra/JH_Chatra",
+        "hazaribagh/JH_Hazaribagh",
+        "jehanabad/BR_Jehanabad",
+        "koderma/JH_Koderma",
+        "nalanda/BR_Nalanda",
+        "nawada/BR_Nawada",
+        "palamu/JH_Palamu"
+    ],
+    "ghaziabad/UP_Ghaziabad": [
+        "baghpat/UP_Baghpat",
+        "east delhi/DL_East Delhi",
+        "gautam buddha nagar/UP_Gautam Buddha Nagar",
+        "hapur/UP_Hapur",
+        "meerut/UP_Meerut",
+        "north delhi/DL_North Delhi",
+        "north east delhi/DL_North East Delhi",
+        "shahdara/DL_Shahdara"
+    ],
+    "ghazipur/UP_Ghazipur": [
+        "azamgarh/UP_Azamgarh",
+        "ballia/UP_Ballia",
+        "buxar/BR_Buxar",
+        "chandauli/UP_Chandauli",
+        "jaunpur/UP_Jaunpur",
+        "kaimur/BR_Kaimur",
+        "mau/UP_Mau",
+        "varanasi/UP_Varanasi"
+    ],
+    "gir somnath/GJ_Gir Somnath": [
+        "amreli/GJ_Amreli",
+        "diu/DN_Diu",
+        "junagadh/GJ_Junagadh"
+    ],
+    "giridih/JH_Giridih": [
+        "bokaro/JH_Bokaro",
+        "deoghar/JH_Deoghar",
+        "dhanbad/JH_Dhanbad",
+        "hazaribagh/JH_Hazaribagh",
+        "jamtara/JH_Jamtara",
+        "jamui/BR_Jamui",
+        "koderma/JH_Koderma",
+        "nawada/BR_Nawada"
+    ],
+    "goalpara/AS_Goalpara": [
+        "barpeta/AS_Barpeta",
+        "bongaigaon/AS_Bongaigaon",
+        "dhubri/AS_Dhubri",
+        "kamrup/AS_Kamrup",
+        "north garo hills/ML_North Garo Hills",
+        "south salmara mankachar/AS_South Salmara Mankachar",
+        "west garo hills/ML_West Garo Hills"
+    ],
+    "godda/JH_Godda": [
+        "banka/BR_Banka",
+        "bhagalpur/BR_Bhagalpur",
+        "dumka/JH_Dumka",
+        "pakur/JH_Pakur",
+        "sahibganj/JH_Sahibganj"
+    ],
+    "golaghat/AS_Golaghat": [
+        "biswanath/AS_Biswanath",
+        "dimapur/NL_Dimapur",
+        "jorhat/AS_Jorhat",
+        "karbi anglong/AS_Karbi Anglong",
+        "kohima/NL_Kohima",
+        "lakhimpur/AS_Lakhimpur",
+        "majuli/AS_Majuli",
+        "nagaon/AS_Nagaon",
+        "wokha/NL_Wokha"
+    ],
+    "gomati/TR_Gomati": [
+        "dhalai/TR_Dhalai",
+        "khowai/TR_Khowai",
+        "sipahijala/TR_Sipahijala",
+        "south tripura/TR_South Tripura"
+    ],
+    "gonda/UP_Gonda": [
+        "ayodhya/UP_Ayodhya",
+        "bahraich/UP_Bahraich",
+        "balrampur/CT_Balrampur",
+        "barabanki/UP_Barabanki",
+        "basti/UP_Basti",
+        "shrawasti/UP_Shrawasti",
+        "siddharthnagar/UP_Siddharthnagar"
+    ],
+    "gondia/MH_Gondia": [
+        "balaghat/MP_Balaghat",
+        "bhandara/MH_Bhandara",
+        "gadchiroli/MH_Gadchiroli",
+        "rajnandgaon/CT_Rajnandgaon"
+    ],
+    "gopalganj/BR_Gopalganj": [
+        "deoria/UP_Deoria",
+        "east champaran/BR_East Champaran",
+        "kushinagar/UP_Kushinagar",
+        "muzaffarpur/BR_Muzaffarpur",
+        "saran/BR_Saran",
+        "siwan/BR_Siwan",
+        "west champaran/BR_West Champaran"
+    ],
+    "gorakhpur/UP_Gorakhpur": [
+        "ambedkar nagar/UP_Ambedkar Nagar",
+        "azamgarh/UP_Azamgarh",
+        "deoria/UP_Deoria",
+        "kushinagar/UP_Kushinagar",
+        "maharajganj/UP_Maharajganj",
+        "mau/UP_Mau",
+        "sant kabir nagar/UP_Sant Kabir Nagar",
+        "siddharthnagar/UP_Siddharthnagar"
+    ],
+    "gumla/JH_Gumla": [
+        "balrampur/CT_Balrampur",
+        "jashpur/CT_Jashpur",
+        "khunti/JH_Khunti",
+        "latehar/JH_Latehar",
+        "lohardaga/JH_Lohardaga",
+        "ranchi/JH_Ranchi",
+        "simdega/JH_Simdega"
+    ],
+    "guna/MP_Guna": [
+        "ashoknagar/MP_Ashoknagar",
+        "baran/RJ_Baran",
+        "bhopal/MP_Bhopal",
+        "jhalawar/RJ_Jhalawar",
+        "rajgarh/MP_Rajgarh",
+        "shivpuri/MP_Shivpuri",
+        "vidisha/MP_Vidisha"
+    ],
+    "guntur/AP_Guntur": [
+        "krishna/AP_Krishna",
+        "nagarkurnool/TG_Nagarkurnool",
+        "nalgonda/TG_Nalgonda",
+        "prakasam/AP_Prakasam",
+        "suryapet/TG_Suryapet"
+    ],
+    "gurdaspur/PB_Gurdaspur": [
+        "amritsar/PB_Amritsar",
+        "hoshiarpur/PB_Hoshiarpur",
+        "kangra/HP_Kangra",
+        "kapurthala/PB_Kapurthala",
+        "pathankot/PB_Pathankot"
+    ],
+    "gurugram/HR_Gurugram": [
+        "faridabad/HR_Faridabad",
+        "jhajjar/HR_Jhajjar",
+        "new delhi/DL_New Delhi",
+        "nuh/HR_Nuh",
+        "palwal/HR_Palwal",
+        "rewari/HR_Rewari",
+        "south delhi/DL_South Delhi",
+        "south west delhi/DL_South West Delhi"
+    ],
+    "gwalior/MP_Gwalior": [
+        "bhind/MP_Bhind",
+        "datia/MP_Datia",
+        "morena/MP_Morena",
+        "shivpuri/MP_Shivpuri"
+    ],
+    "hailakandi/AS_Hailakandi": [
+        "cachar/AS_Cachar",
+        "karimganj/AS_Karimganj",
+        "kolasib/MZ_Kolasib",
+        "mamit/MZ_Mamit"
+    ],
+    "hamirpur/HP_Hamirpur": [
+        "bilaspur/CT_Bilaspur",
+        "kangra/HP_Kangra",
+        "mandi/HP_Mandi",
+        "una/HP_Una"
+    ],
+    "hamirpur/UP_Hamirpur": [
+        "banda/UP_Banda",
+        "fatehpur/UP_Fatehpur",
+        "jalaun/UP_Jalaun",
+        "jhansi/UP_Jhansi",
+        "kanpur dehat/UP_Kanpur Dehat",
+        "kanpur nagar/UP_Kanpur Nagar",
+        "mahoba/UP_Mahoba"
+    ],
+    "hanumangarh/RJ_Hanumangarh": [
+        "bhiwani/HR_Bhiwani",
+        "bikaner/RJ_Bikaner",
+        "churu/RJ_Churu",
+        "fatehabad/HR_Fatehabad",
+        "fazilka/PB_Fazilka",
+        "ganganagar/RJ_Ganganagar",
+        "hisar/HR_Hisar",
+        "sirsa/HR_Sirsa",
+        "sri muktsar sahib/PB_Sri Muktsar Sahib"
+    ],
+    "hapur/UP_Hapur": [
+        "amroha/UP_Amroha",
+        "bulandshahr/UP_Bulandshahr",
+        "gautam buddha nagar/UP_Gautam Buddha Nagar",
+        "ghaziabad/UP_Ghaziabad",
+        "meerut/UP_Meerut"
+    ],
+    "harda/MP_Harda": [
+        "betul/MP_Betul",
+        "dewas/MP_Dewas",
+        "hoshangabad/MP_Hoshangabad",
+        "khandwa/MP_Khandwa",
+        "sehore/MP_Sehore"
+    ],
+    "hardoi/UP_Hardoi": [
+        "farrukhabad/UP_Farrukhabad",
+        "kannauj/UP_Kannauj",
+        "kanpur nagar/UP_Kanpur Nagar",
+        "lucknow/UP_Lucknow",
+        "shahjahanpur/UP_Shahjahanpur",
+        "sitapur/UP_Sitapur",
+        "unnao/UP_Unnao"
+    ],
+    "haridwar/UT_Haridwar": [
+        "bijnor/UP_Bijnor",
+        "dehradun/UT_Dehradun",
+        "muzaffarnagar/UP_Muzaffarnagar",
+        "pauri garhwal/UT_Pauri Garhwal",
+        "saharanpur/UP_Saharanpur"
+    ],
+    "hassan/KA_Hassan": [
+        "chikkamagaluru/KA_Chikkamagaluru",
+        "dakshina kannada/KA_Dakshina Kannada",
+        "kodagu/KA_Kodagu",
+        "mandya/KA_Mandya",
+        "mysuru/KA_Mysuru",
+        "tumakuru/KA_Tumakuru"
+    ],
+    "hathras/UP_Hathras": [
+        "agra/UP_Agra",
+        "aligarh/UP_Aligarh",
+        "etah/UP_Etah",
+        "kasganj/UP_Kasganj",
+        "mathura/UP_Mathura"
+    ],
+    "haveri/KA_Haveri": [
+        "ballari/KA_Ballari",
+        "davanagere/KA_Davanagere",
+        "dharwad/KA_Dharwad",
+        "gadag/KA_Gadag",
+        "shivamogga/KA_Shivamogga",
+        "uttara kannada/KA_Uttara Kannada"
+    ],
+    "hazaribagh/JH_Hazaribagh": [
+        "bokaro/JH_Bokaro",
+        "chatra/JH_Chatra",
+        "gaya/BR_Gaya",
+        "giridih/JH_Giridih",
+        "koderma/JH_Koderma",
+        "ramgarh/JH_Ramgarh",
+        "ranchi/JH_Ranchi"
+    ],
+    "hingoli/MH_Hingoli": [
+        "nanded/MH_Nanded",
+        "washim/MH_Washim",
+        "yavatmal/MH_Yavatmal"
+    ],
+    "hisar/HR_Hisar": [
+        "bhiwani/HR_Bhiwani",
+        "fatehabad/HR_Fatehabad",
+        "hanumangarh/RJ_Hanumangarh",
+        "jind/HR_Jind",
+        "rohtak/HR_Rohtak"
+    ],
+    "hojai/AS_Hojai": [
+        "dima hasao/AS_Dima Hasao",
+        "karbi anglong/AS_Karbi Anglong",
+        "nagaon/AS_Nagaon",
+        "west karbi anglong/AS_West Karbi Anglong"
+    ],
+    "hooghly/WB_Hooghly": [
+        "bankura/WB_Bankura",
+        "howrah/WB_Howrah",
+        "nadia/WB_Nadia",
+        "north 24 parganas/WB_North 24 Parganas",
+        "paschim medinipur/WB_Paschim Medinipur",
+        "purba bardhaman/WB_Purba Bardhaman"
+    ],
+    "hoshangabad/MP_Hoshangabad": [
+        "betul/MP_Betul",
+        "chhindwara/MP_Chhindwara",
+        "harda/MP_Harda",
+        "narsinghpur/MP_Narsinghpur",
+        "raisen/MP_Raisen",
+        "sehore/MP_Sehore"
+    ],
+    "hoshiarpur/PB_Hoshiarpur": [
+        "gurdaspur/PB_Gurdaspur",
+        "jalandhar/PB_Jalandhar",
+        "kangra/HP_Kangra",
+        "kapurthala/PB_Kapurthala",
+        "rupnagar/PB_Rupnagar",
+        "shahid bhagat singh nagar/PB_Shahid Bhagat Singh Nagar",
+        "una/HP_Una"
+    ],
+    "howrah/WB_Howrah": [
+        "hooghly/WB_Hooghly",
+        "kolkata/WB_Kolkata",
+        "north 24 parganas/WB_North 24 Parganas",
+        "paschim medinipur/WB_Paschim Medinipur",
+        "purba medinipur/WB_Purba Medinipur",
+        "south 24 parganas/WB_South 24 Parganas"
+    ],
+    "hyderabad/TG_Hyderabad": [
+        "medchal malkajgiri/TG_Medchal Malkajgiri",
+        "ranga reddy/TG_Ranga Reddy"
+    ],
+    "idukki/KL_Idukki": [
+        "coimbatore/TN_Coimbatore",
+        "dindigul/TN_Dindigul",
+        "ernakulam/KL_Ernakulam",
+        "kottayam/KL_Kottayam",
+        "pathanamthitta/KL_Pathanamthitta",
+        "theni/TN_Theni",
+        "tirunelveli/TN_Tirunelveli",
+        "tiruppur/TN_Tiruppur",
+        "virudhunagar/TN_Virudhunagar"
+    ],
+    "imphal east/MN_Imphal East": [
+        "imphal west/MN_Imphal West",
+        "kangpokpi/MN_Kangpokpi",
+        "thoubal/MN_Thoubal"
+    ],
+    "imphal west/MN_Imphal West": [
+        "bishnupur/MN_Bishnupur",
+        "imphal east/MN_Imphal East",
+        "kakching/MN_Kakching",
+        "kangpokpi/MN_Kangpokpi",
+        "thoubal/MN_Thoubal"
+    ],
+    "indore/MP_Indore": [
+        "dewas/MP_Dewas",
+        "dhar/MP_Dhar",
+        "khargone/MP_Khargone",
+        "ujjain/MP_Ujjain"
+    ],
+    "jabalpur/MP_Jabalpur": [
+        "damoh/MP_Damoh",
+        "dindori/MP_Dindori",
+        "katni/MP_Katni",
+        "mandla/MP_Mandla",
+        "narsinghpur/MP_Narsinghpur",
+        "seoni/MP_Seoni",
+        "umaria/MP_Umaria"
+    ],
+    "jagatsinghpur/OR_Jagatsinghpur": [
+        "cuttack/OR_Cuttack",
+        "kendrapara/OR_Kendrapara",
+        "puri/OR_Puri"
+    ],
+    "jagtial/TG_Jagtial": [
+        "karimnagar/TG_Karimnagar",
+        "mancherial/TG_Mancherial",
+        "nirmal/TG_Nirmal",
+        "nizamabad/TG_Nizamabad",
+        "peddapalli/TG_Peddapalli",
+        "rajanna sircilla/TG_Rajanna Sircilla"
+    ],
+    "jaipur/RJ_Jaipur": [
+        "ajmer/RJ_Ajmer",
+        "alwar/RJ_Alwar",
+        "dausa/RJ_Dausa",
+        "mahendragarh/HR_Mahendragarh",
+        "nagaur/RJ_Nagaur",
+        "sikar/RJ_Sikar",
+        "tonk/RJ_Tonk"
+    ],
+    "jaisalmer/RJ_Jaisalmer": [
+        "barmer/RJ_Barmer",
+        "bikaner/RJ_Bikaner",
+        "jodhpur/RJ_Jodhpur"
+    ],
+    "jajpur/OR_Jajpur": [
+        "bhadrak/OR_Bhadrak",
+        "cuttack/OR_Cuttack",
+        "dhenkanal/OR_Dhenkanal",
+        "kendrapara/OR_Kendrapara",
+        "kendujhar/OR_Kendujhar"
+    ],
+    "jalandhar/PB_Jalandhar": [
+        "ferozepur/PB_Ferozepur",
+        "hoshiarpur/PB_Hoshiarpur",
+        "kapurthala/PB_Kapurthala",
+        "ludhiana/PB_Ludhiana",
+        "moga/PB_Moga",
+        "shahid bhagat singh nagar/PB_Shahid Bhagat Singh Nagar"
+    ],
+    "jalaun/UP_Jalaun": [
+        "auraiya/UP_Auraiya",
+        "bhind/MP_Bhind",
+        "etawah/UP_Etawah",
+        "hamirpur/HP_Hamirpur",
+        "jhansi/UP_Jhansi",
+        "kanpur dehat/UP_Kanpur Dehat"
+    ],
+    "jalgaon/MH_Jalgaon": [
+        "aurangabad/BR_Aurangabad",
+        "barwani/MP_Barwani",
+        "buldhana/MH_Buldhana",
+        "burhanpur/MP_Burhanpur",
+        "dhule/MH_Dhule",
+        "jalna/MH_Jalna",
+        "khargone/MP_Khargone",
+        "nashik/MH_Nashik"
+    ],
+    "jalna/MH_Jalna": [
+        "aurangabad/BR_Aurangabad",
+        "beed/MH_Beed",
+        "buldhana/MH_Buldhana",
+        "jalgaon/MH_Jalgaon"
+    ],
+    "jalore/RJ_Jalore": [
+        "banaskantha/GJ_Banaskantha",
+        "barmer/RJ_Barmer",
+        "kutch/GJ_Kutch",
+        "pali/RJ_Pali",
+        "sirohi/RJ_Sirohi"
+    ],
+    "jalpaiguri/WB_Jalpaiguri": [
+        "alipurduar/WB_Alipurduar",
+        "cooch behar/WB_Cooch Behar",
+        "darjeeling/WB_Darjeeling",
+        "kalimpong/WB_Kalimpong"
+    ],
+    "jammu/JK_Jammu": [
+        "rajouri/JK_Rajouri",
+        "reasi/JK_Reasi",
+        "samba/JK_Samba",
+        "udhampur/JK_Udhampur"
+    ],
+    "jamnagar/GJ_Jamnagar": [
+        "devbhumi dwarka/GJ_Devbhumi Dwarka",
+        "morbi/GJ_Morbi",
+        "porbandar/GJ_Porbandar",
+        "rajkot/GJ_Rajkot"
+    ],
+    "jamtara/JH_Jamtara": [
+        "birbhum/WB_Birbhum",
+        "deoghar/JH_Deoghar",
+        "dhanbad/JH_Dhanbad",
+        "dumka/JH_Dumka",
+        "giridih/JH_Giridih",
+        "paschim bardhaman/WB_Paschim Bardhaman"
+    ],
+    "jamui/BR_Jamui": [
+        "banka/BR_Banka",
+        "deoghar/JH_Deoghar",
+        "giridih/JH_Giridih",
+        "lakhisarai/BR_Lakhisarai",
+        "munger/BR_Munger",
+        "nawada/BR_Nawada",
+        "sheikhpura/BR_Sheikhpura"
+    ],
+    "jangaon/TG_Jangaon": [
+        "mahabubabad/TG_Mahabubabad",
+        "siddipet/TG_Siddipet",
+        "suryapet/TG_Suryapet",
+        "warangal rural/TG_Warangal Rural",
+        "warangal urban/TG_Warangal Urban",
+        "yadadri bhuvanagiri/TG_Yadadri Bhuvanagiri"
+    ],
+    "janjgir champa/CT_Janjgir Champa": [
+        "baloda bazar/CT_Baloda Bazar",
+        "bilaspur/CT_Bilaspur",
+        "korba/CT_Korba",
+        "raigarh/CT_Raigarh"
+    ],
+    "jashpur/CT_Jashpur": [
+        "balrampur/CT_Balrampur",
+        "gumla/JH_Gumla",
+        "raigarh/CT_Raigarh",
+        "simdega/JH_Simdega",
+        "sundargarh/OR_Sundargarh",
+        "surguja/CT_Surguja"
+    ],
+    "jaunpur/UP_Jaunpur": [
+        "azamgarh/UP_Azamgarh",
+        "bhadohi/UP_Bhadohi",
+        "ghazipur/UP_Ghazipur",
+        "pratapgarh/RJ_Pratapgarh",
+        "prayagraj/UP_Prayagraj",
+        "sultanpur/UP_Sultanpur",
+        "varanasi/UP_Varanasi"
+    ],
+    "jayashankar bhupalapally/TG_Jayashankar Bhupalapally": [
+        "bijapur/CT_Bijapur",
+        "gadchiroli/MH_Gadchiroli",
+        "karimnagar/TG_Karimnagar",
+        "mancherial/TG_Mancherial",
+        "mulugu/TG_Mulugu",
+        "peddapalli/TG_Peddapalli",
+        "warangal rural/TG_Warangal Rural",
+        "warangal urban/TG_Warangal Urban"
+    ],
+    "jehanabad/BR_Jehanabad": [
+        "arwal/BR_Arwal",
+        "gaya/BR_Gaya",
+        "nalanda/BR_Nalanda",
+        "patna/BR_Patna"
+    ],
+    "jhabua/MP_Jhabua": [
+        "alirajpur/MP_Alirajpur",
+        "banswara/RJ_Banswara",
+        "dahod/GJ_Dahod",
+        "dhar/MP_Dhar",
+        "ratlam/MP_Ratlam"
+    ],
+    "jhajjar/HR_Jhajjar": [
+        "charkhi dadri/HR_Charkhi Dadri",
+        "gurugram/HR_Gurugram",
+        "mahendragarh/HR_Mahendragarh",
+        "north west delhi/DL_North West Delhi",
+        "rewari/HR_Rewari",
+        "rohtak/HR_Rohtak",
+        "sonipat/HR_Sonipat",
+        "south west delhi/DL_South West Delhi",
+        "west delhi/DL_West Delhi"
+    ],
+    "jhalawar/RJ_Jhalawar": [
+        "agar malwa/MP_Agar Malwa",
+        "baran/RJ_Baran",
+        "guna/MP_Guna",
+        "kota/RJ_Kota",
+        "mandsaur/MP_Mandsaur",
+        "rajgarh/MP_Rajgarh",
+        "ratlam/MP_Ratlam"
+    ],
+    "jhansi/UP_Jhansi": [
+        "bhind/MP_Bhind",
+        "chhatarpur/MP_Chhatarpur",
+        "datia/MP_Datia",
+        "hamirpur/HP_Hamirpur",
+        "jalaun/UP_Jalaun",
+        "lalitpur/UP_Lalitpur",
+        "mahoba/UP_Mahoba",
+        "shivpuri/MP_Shivpuri",
+        "tikamgarh/MP_Tikamgarh"
+    ],
+    "jhargram/WB_Jhargram": [
+        "balasore/OR_Balasore",
+        "bankura/WB_Bankura",
+        "east singhbhum/JH_East Singhbhum",
+        "mayurbhanj/OR_Mayurbhanj",
+        "paschim medinipur/WB_Paschim Medinipur",
+        "purulia/WB_Purulia"
+    ],
+    "jharsuguda/OR_Jharsuguda": [
+        "bargarh/OR_Bargarh",
+        "raigarh/CT_Raigarh",
+        "sambalpur/OR_Sambalpur",
+        "sundargarh/OR_Sundargarh"
+    ],
+    "jhunjhunu/RJ_Jhunjhunu": [
+        "bhiwani/HR_Bhiwani",
+        "churu/RJ_Churu",
+        "mahendragarh/HR_Mahendragarh",
+        "sikar/RJ_Sikar"
+    ],
+    "jind/HR_Jind": [
+        "fatehabad/HR_Fatehabad",
+        "hisar/HR_Hisar",
+        "kaithal/HR_Kaithal",
+        "karnal/HR_Karnal",
+        "panipat/HR_Panipat",
+        "patiala/PB_Patiala",
+        "rohtak/HR_Rohtak",
+        "sangrur/PB_Sangrur",
+        "sonipat/HR_Sonipat"
+    ],
+    "jiribam/MN_Jiribam": [
+        "cachar/AS_Cachar",
+        "noney/MN_Noney",
+        "pherzawl/MN_Pherzawl",
+        "tamenglong/MN_Tamenglong"
+    ],
+    "jodhpur/RJ_Jodhpur": [
+        "barmer/RJ_Barmer",
+        "bikaner/RJ_Bikaner",
+        "jaisalmer/RJ_Jaisalmer",
+        "nagaur/RJ_Nagaur",
+        "pali/RJ_Pali"
+    ],
+    "jogulamba gadwal/TG_Jogulamba Gadwal": [
+        "kurnool/AP_Kurnool",
+        "narayanpet/TG_Narayanpet",
+        "raichur/KA_Raichur",
+        "wanaparthy/TG_Wanaparthy"
+    ],
+    "jorhat/AS_Jorhat": [
+        "golaghat/AS_Golaghat",
+        "majuli/AS_Majuli",
+        "mokokchung/NL_Mokokchung",
+        "sivasagar/AS_Sivasagar",
+        "wokha/NL_Wokha"
+    ],
+    "junagadh/GJ_Junagadh": [
+        "amreli/GJ_Amreli",
+        "gir somnath/GJ_Gir Somnath",
+        "porbandar/GJ_Porbandar",
+        "rajkot/GJ_Rajkot"
+    ],
+    "kabeerdham/CT_Kabeerdham": [
+        "balaghat/MP_Balaghat",
+        "bametara/CT_Bametara",
+        "dindori/MP_Dindori",
+        "mandla/MP_Mandla",
+        "mungeli/CT_Mungeli",
+        "rajnandgaon/CT_Rajnandgaon"
+    ],
+    "kaimur/BR_Kaimur": [
+        "buxar/BR_Buxar",
+        "chandauli/UP_Chandauli",
+        "ghazipur/UP_Ghazipur",
+        "rohtas/BR_Rohtas",
+        "sonbhadra/UP_Sonbhadra"
+    ],
+    "kaithal/HR_Kaithal": [
+        "jind/HR_Jind",
+        "karnal/HR_Karnal",
+        "kurukshetra/HR_Kurukshetra",
+        "patiala/PB_Patiala"
+    ],
+    "kakching/MN_Kakching": [
+        "bishnupur/MN_Bishnupur",
+        "chandel/MN_Chandel",
+        "churachandpur/MN_Churachandpur",
+        "imphal west/MN_Imphal West",
+        "tengnoupal/MN_Tengnoupal",
+        "thoubal/MN_Thoubal"
+    ],
+    "kalaburagi/KA_Kalaburagi": [
+        "bidar/KA_Bidar",
+        "narayanpet/TG_Narayanpet",
+        "osmanabad/MH_Osmanabad",
+        "sangareddy/TG_Sangareddy",
+        "solapur/MH_Solapur",
+        "vijayapura/KA_Vijayapura",
+        "vikarabad/TG_Vikarabad",
+        "yadgir/KA_Yadgir"
+    ],
+    "kalahandi/OR_Kalahandi": [
+        "balangir/OR_Balangir",
+        "gariaband/CT_Gariaband",
+        "kandhamal/OR_Kandhamal",
+        "koraput/OR_Koraput",
+        "nabarangapur/OR_Nabarangapur",
+        "nuapada/OR_Nuapada",
+        "rayagada/OR_Rayagada"
+    ],
+    "kalimpong/WB_Kalimpong": [
+        "darjeeling/WB_Darjeeling",
+        "east sikkim/SK_East Sikkim",
+        "jalpaiguri/WB_Jalpaiguri",
+        "south sikkim/SK_South Sikkim"
+    ],
+    "kallakurichi/TN_Kallakurichi": [
+        "cuddalore/TN_Cuddalore",
+        "dharmapuri/TN_Dharmapuri",
+        "perambalur/TN_Perambalur",
+        "salem/TN_Salem",
+        "tiruvannamalai/TN_Tiruvannamalai",
+        "viluppuram/TN_Viluppuram"
+    ],
+    "kamareddy/TG_Kamareddy": [
+        "bidar/KA_Bidar",
+        "medak/TG_Medak",
+        "nanded/MH_Nanded",
+        "nizamabad/TG_Nizamabad",
+        "rajanna sircilla/TG_Rajanna Sircilla",
+        "sangareddy/TG_Sangareddy",
+        "siddipet/TG_Siddipet"
+    ],
+    "kamjong/MN_Kamjong": [
+        "kangpokpi/MN_Kangpokpi",
+        "tengnoupal/MN_Tengnoupal",
+        "ukhrul/MN_Ukhrul"
+    ],
+    "kamle/AR_Kamle": [
+        "dhemaji/AS_Dhemaji",
+        "kra daadi/AR_Kra Daadi",
+        "lakhimpur/AS_Lakhimpur",
+        "lower siang/AR_Lower Siang",
+        "lower subansiri/AR_Lower Subansiri",
+        "papum pare/AR_Papum Pare",
+        "upper subansiri/AR_Upper Subansiri"
+    ],
+    "kamrup metropolitan/AS_Kamrup Metropolitan": [
+        "darrang/AS_Darrang",
+        "kamrup/AS_Kamrup",
+        "morigaon/AS_Morigaon",
+        "ribhoi/ML_Ribhoi"
+    ],
+    "kamrup/AS_Kamrup": [
+        "baksa/AS_Baksa",
+        "barpeta/AS_Barpeta",
+        "darrang/AS_Darrang",
+        "goalpara/AS_Goalpara",
+        "kamrup metropolitan/AS_Kamrup Metropolitan",
+        "nalbari/AS_Nalbari",
+        "north garo hills/ML_North Garo Hills",
+        "ribhoi/ML_Ribhoi",
+        "west khasi hills/ML_West Khasi Hills"
+    ],
+    "kancheepuram/TN_Kancheepuram": [
+        "chennai/TN_Chennai",
+        "thiruvallur/TN_Thiruvallur",
+        "tiruvannamalai/TN_Tiruvannamalai",
+        "vellore/TN_Vellore",
+        "viluppuram/TN_Viluppuram",
+        "ranipet/TN_Ranipet"
+    ],
+    "kandhamal/OR_Kandhamal": [
+        "balangir/OR_Balangir",
+        "boudh/OR_Boudh",
+        "gajapati/OR_Gajapati",
+        "ganjam/OR_Ganjam",
+        "kalahandi/OR_Kalahandi",
+        "nayagarh/OR_Nayagarh",
+        "rayagada/OR_Rayagada"
+    ],
+    "kangpokpi/MN_Kangpokpi": [
+        "bishnupur/MN_Bishnupur",
+        "imphal east/MN_Imphal East",
+        "imphal west/MN_Imphal West",
+        "kamjong/MN_Kamjong",
+        "noney/MN_Noney",
+        "senapati/MN_Senapati",
+        "tamenglong/MN_Tamenglong",
+        "tengnoupal/MN_Tengnoupal",
+        "thoubal/MN_Thoubal",
+        "ukhrul/MN_Ukhrul"
+    ],
+    "kangra/HP_Kangra": [
+        "chamba/HP_Chamba",
+        "gurdaspur/PB_Gurdaspur",
+        "hamirpur/HP_Hamirpur",
+        "hoshiarpur/PB_Hoshiarpur",
+        "kullu/HP_Kullu",
+        "lahaul and spiti/HP_Lahaul and Spiti",
+        "mandi/HP_Mandi",
+        "pathankot/PB_Pathankot",
+        "una/HP_Una"
+    ],
+    "kannauj/UP_Kannauj": [
+        "auraiya/UP_Auraiya",
+        "etawah/UP_Etawah",
+        "farrukhabad/UP_Farrukhabad",
+        "hardoi/UP_Hardoi",
+        "kanpur dehat/UP_Kanpur Dehat",
+        "kanpur nagar/UP_Kanpur Nagar",
+        "mainpuri/UP_Mainpuri"
+    ],
+    "kannur/KL_Kannur": [
+        "kasaragod/KL_Kasaragod",
+        "kodagu/KA_Kodagu",
+        "kozhikode/KL_Kozhikode",
+        "mahe/PY_Mahe",
+        "wayanad/KL_Wayanad"
+    ],
+    "kanpur dehat/UP_Kanpur Dehat": [
+        "auraiya/UP_Auraiya",
+        "hamirpur/HP_Hamirpur",
+        "jalaun/UP_Jalaun",
+        "kannauj/UP_Kannauj",
+        "kanpur nagar/UP_Kanpur Nagar"
+    ],
+    "kanpur nagar/UP_Kanpur Nagar": [
+        "fatehpur/UP_Fatehpur",
+        "hamirpur/HP_Hamirpur",
+        "hardoi/UP_Hardoi",
+        "kannauj/UP_Kannauj",
+        "kanpur dehat/UP_Kanpur Dehat",
+        "unnao/UP_Unnao"
+    ],
+    "kanyakumari/TN_Kanyakumari": [
+        "thiruvananthapuram/KL_Thiruvananthapuram",
+        "tirunelveli/TN_Tirunelveli"
+    ],
+    "kapurthala/PB_Kapurthala": [
+        "amritsar/PB_Amritsar",
+        "ferozepur/PB_Ferozepur",
+        "gurdaspur/PB_Gurdaspur",
+        "hoshiarpur/PB_Hoshiarpur",
+        "jalandhar/PB_Jalandhar",
+        "shahid bhagat singh nagar/PB_Shahid Bhagat Singh Nagar",
+        "tarn taran/PB_Tarn Taran"
+    ],
+    "karaikal/PY_Karaikal": [
+        "nagapattinam/TN_Nagapattinam",
+        "thiruvarur/TN_Thiruvarur"
+    ],
+    "karauli/RJ_Karauli": [
+        "bharatpur/RJ_Bharatpur",
+        "dausa/RJ_Dausa",
+        "dholpur/RJ_Dholpur",
+        "morena/MP_Morena",
+        "sawai madhopur/RJ_Sawai Madhopur",
+        "sheopur/MP_Sheopur"
+    ],
+    "karbi anglong/AS_Karbi Anglong": [
+        "dima hasao/AS_Dima Hasao",
+        "dimapur/NL_Dimapur",
+        "golaghat/AS_Golaghat",
+        "hojai/AS_Hojai",
+        "nagaon/AS_Nagaon",
+        "peren/NL_Peren"
+    ],
+    "kargil/LA_Kargil": [
+        "anantnag/JK_Anantnag",
+        "bandipora/JK_Bandipora",
+        "ganderbal/JK_Ganderbal",
+        "kishtwar/JK_Kishtwar",
+        "lahaul and spiti/HP_Lahaul and Spiti",
+        "leh/LA_Leh"
+    ],
+    "karimganj/AS_Karimganj": [
+        "cachar/AS_Cachar",
+        "hailakandi/AS_Hailakandi",
+        "mamit/MZ_Mamit",
+        "north tripura/TR_North Tripura"
+    ],
+    "karimnagar/TG_Karimnagar": [
+        "jagtial/TG_Jagtial",
+        "jayashankar bhupalapally/TG_Jayashankar Bhupalapally",
+        "peddapalli/TG_Peddapalli",
+        "rajanna sircilla/TG_Rajanna Sircilla",
+        "siddipet/TG_Siddipet",
+        "warangal urban/TG_Warangal Urban"
+    ],
+    "karnal/HR_Karnal": [
+        "jind/HR_Jind",
+        "kaithal/HR_Kaithal",
+        "kurukshetra/HR_Kurukshetra",
+        "panipat/HR_Panipat",
+        "saharanpur/UP_Saharanpur",
+        "shamli/UP_Shamli",
+        "yamunanagar/HR_Yamunanagar"
+    ],
+    "karur/TN_Karur": [
+        "dindigul/TN_Dindigul",
+        "erode/TN_Erode",
+        "namakkal/TN_Namakkal",
+        "tiruchirappalli/TN_Tiruchirappalli",
+        "tiruppur/TN_Tiruppur"
+    ],
+    "kasaragod/KL_Kasaragod": [
+        "dakshina kannada/KA_Dakshina Kannada",
+        "kannur/KL_Kannur",
+        "kodagu/KA_Kodagu"
+    ],
+    "kasganj/UP_Kasganj": [
+        "aligarh/UP_Aligarh",
+        "budaun/UP_Budaun",
+        "etah/UP_Etah",
+        "farrukhabad/UP_Farrukhabad",
+        "hathras/UP_Hathras"
+    ],
+    "kathua/JK_Kathua": [
+        "chamba/HP_Chamba",
+        "doda/JK_Doda",
+        "pathankot/PB_Pathankot",
+        "samba/JK_Samba",
+        "udhampur/JK_Udhampur"
+    ],
+    "katihar/BR_Katihar": [
+        "bhagalpur/BR_Bhagalpur",
+        "malda/WB_Malda",
+        "purnia/BR_Purnia",
+        "sahibganj/JH_Sahibganj",
+        "uttar dinajpur/WB_Uttar Dinajpur"
+    ],
+    "katni/MP_Katni": [
+        "damoh/MP_Damoh",
+        "jabalpur/MP_Jabalpur",
+        "panna/MP_Panna",
+        "satna/MP_Satna",
+        "umaria/MP_Umaria"
+    ],
+    "kaushambi/UP_Kaushambi": [
+        "chitrakoot/UP_Chitrakoot",
+        "fatehpur/UP_Fatehpur",
+        "pratapgarh/RJ_Pratapgarh",
+        "prayagraj/UP_Prayagraj",
+        "rae bareli/UP_Rae Bareli"
+    ],
+    "kendrapara/OR_Kendrapara": [
+        "bhadrak/OR_Bhadrak",
+        "cuttack/OR_Cuttack",
+        "jagatsinghpur/OR_Jagatsinghpur",
+        "jajpur/OR_Jajpur"
+    ],
+    "kendujhar/OR_Kendujhar": [
+        "angul/OR_Angul",
+        "balasore/OR_Balasore",
+        "bhadrak/OR_Bhadrak",
+        "dhenkanal/OR_Dhenkanal",
+        "jajpur/OR_Jajpur",
+        "mayurbhanj/OR_Mayurbhanj",
+        "sundargarh/OR_Sundargarh",
+        "west singhbhum/JH_West Singhbhum"
+    ],
+    "khagaria/BR_Khagaria": [
+        "begusarai/BR_Begusarai",
+        "bhagalpur/BR_Bhagalpur",
+        "madhepura/BR_Madhepura",
+        "munger/BR_Munger",
+        "saharsa/BR_Saharsa",
+        "samastipur/BR_Samastipur"
+    ],
+    "khammam/TG_Khammam": [
+        "bhadradri kothagudem/TG_Bhadradri Kothagudem",
+        "krishna/AP_Krishna",
+        "mahabubabad/TG_Mahabubabad",
+        "suryapet/TG_Suryapet",
+        "west godavari/AP_West Godavari"
+    ],
+    "khandwa/MP_Khandwa": [
+        "amravati/MH_Amravati",
+        "betul/MP_Betul",
+        "burhanpur/MP_Burhanpur",
+        "dewas/MP_Dewas",
+        "harda/MP_Harda",
+        "khargone/MP_Khargone"
+    ],
+    "khargone/MP_Khargone": [
+        "barwani/MP_Barwani",
+        "burhanpur/MP_Burhanpur",
+        "dewas/MP_Dewas",
+        "dhar/MP_Dhar",
+        "indore/MP_Indore",
+        "jalgaon/MH_Jalgaon",
+        "khandwa/MP_Khandwa"
+    ],
+    "kheda/GJ_Kheda": [
+        "ahmedabad/GJ_Ahmedabad",
+        "anand/GJ_Anand",
+        "aravalli/GJ_Aravalli",
+        "gandhinagar/GJ_Gandhinagar",
+        "mahisagar/GJ_Mahisagar",
+        "panchmahal/GJ_Panchmahal",
+        "vadodara/GJ_Vadodara"
+    ],
+    "khordha/OR_Khordha": [
+        "cuttack/OR_Cuttack",
+        "ganjam/OR_Ganjam",
+        "nayagarh/OR_Nayagarh",
+        "puri/OR_Puri"
+    ],
+    "khowai/TR_Khowai": [
+        "dhalai/TR_Dhalai",
+        "gomati/TR_Gomati",
+        "sipahijala/TR_Sipahijala",
+        "west tripura/TR_West Tripura"
+    ],
+    "khunti/JH_Khunti": [
+        "gumla/JH_Gumla",
+        "ranchi/JH_Ranchi",
+        "simdega/JH_Simdega",
+        "west singhbhum/JH_West Singhbhum"
+    ],
+    "kinnaur/HP_Kinnaur": [
+        "kullu/HP_Kullu",
+        "lahaul and spiti/HP_Lahaul and Spiti",
+        "shimla/HP_Shimla",
+        "uttarkashi/UT_Uttarkashi"
+    ],
+    "kiphire/NL_Kiphire": [
+        "phek/NL_Phek",
+        "tuensang/NL_Tuensang",
+        "zunheboto/NL_Zunheboto"
+    ],
+    "kishanganj/BR_Kishanganj": [
+        "araria/BR_Araria",
+        "darjeeling/WB_Darjeeling",
+        "purnia/BR_Purnia",
+        "uttar dinajpur/WB_Uttar Dinajpur"
+    ],
+    "kishtwar/JK_Kishtwar": [
+        "anantnag/JK_Anantnag",
+        "chamba/HP_Chamba",
+        "doda/JK_Doda",
+        "kargil/LA_Kargil",
+        "lahaul and spiti/HP_Lahaul and Spiti"
+    ],
+    "kodagu/KA_Kodagu": [
+        "dakshina kannada/KA_Dakshina Kannada",
+        "hassan/KA_Hassan",
+        "kannur/KL_Kannur",
+        "kasaragod/KL_Kasaragod",
+        "mysuru/KA_Mysuru",
+        "wayanad/KL_Wayanad"
+    ],
+    "koderma/JH_Koderma": [
+        "gaya/BR_Gaya",
+        "giridih/JH_Giridih",
+        "hazaribagh/JH_Hazaribagh",
+        "nawada/BR_Nawada"
+    ],
+    "kohima/NL_Kohima": [
+        "dimapur/NL_Dimapur",
+        "golaghat/AS_Golaghat",
+        "peren/NL_Peren",
+        "phek/NL_Phek",
+        "senapati/MN_Senapati",
+        "wokha/NL_Wokha",
+        "zunheboto/NL_Zunheboto"
+    ],
+    "kokrajhar/AS_Kokrajhar": [
+        "alipurduar/WB_Alipurduar",
+        "bongaigaon/AS_Bongaigaon",
+        "chirang/AS_Chirang",
+        "cooch behar/WB_Cooch Behar",
+        "dhubri/AS_Dhubri"
+    ],
+    "kolar/KA_Kolar": [
+        "bengaluru rural/KA_Bengaluru Rural",
+        "chikkaballapura/KA_Chikkaballapura",
+        "chittoor/AP_Chittoor",
+        "krishnagiri/TN_Krishnagiri"
+    ],
+    "kolasib/MZ_Kolasib": [
+        "aizawl/MZ_Aizawl",
+        "cachar/AS_Cachar",
+        "hailakandi/AS_Hailakandi",
+        "mamit/MZ_Mamit"
+    ],
+    "kolhapur/MH_Kolhapur": [
+        "belagavi/KA_Belagavi",
+        "ratnagiri/MH_Ratnagiri",
+        "sangli/MH_Sangli",
+        "sindhudurg/MH_Sindhudurg"
+    ],
+    "kolkata/WB_Kolkata": [
+        "howrah/WB_Howrah",
+        "north 24 parganas/WB_North 24 Parganas",
+        "south 24 parganas/WB_South 24 Parganas"
+    ],
+    "kollam/KL_Kollam": [
+        "alappuzha/KL_Alappuzha",
+        "pathanamthitta/KL_Pathanamthitta",
+        "thiruvananthapuram/KL_Thiruvananthapuram",
+        "tirunelveli/TN_Tirunelveli"
+    ],
+    "komaram bheem/TG_Komaram Bheem": [
+        "adilabad/TG_Adilabad",
+        "chandrapur/MH_Chandrapur",
+        "gadchiroli/MH_Gadchiroli",
+        "mancherial/TG_Mancherial",
+        "nirmal/TG_Nirmal"
+    ],
+    "kondagaon/CT_Kondagaon": [
+        "bastar/CT_Bastar",
+        "dakshin bastar dantewada/CT_Dakshin Bastar Dantewada",
+        "dhamtari/CT_Dhamtari",
+        "nabarangapur/OR_Nabarangapur",
+        "narayanpur/CT_Narayanpur",
+        "uttar bastar kanker/CT_Uttar Bastar Kanker"
+    ],
+    "koppal/KA_Koppal": [
+        "bagalkote/KA_Bagalkote",
+        "ballari/KA_Ballari",
+        "gadag/KA_Gadag",
+        "raichur/KA_Raichur"
+    ],
+    "koraput/OR_Koraput": [
+        "bastar/CT_Bastar",
+        "kalahandi/OR_Kalahandi",
+        "malkangiri/OR_Malkangiri",
+        "nabarangapur/OR_Nabarangapur",
+        "rayagada/OR_Rayagada",
+        "visakhapatnam/AP_Visakhapatnam",
+        "vizianagaram/AP_Vizianagaram"
+    ],
+    "korba/CT_Korba": [
+        "bilaspur/CT_Bilaspur",
+        "janjgir champa/CT_Janjgir Champa",
+        "koriya/CT_Koriya",
+        "raigarh/CT_Raigarh",
+        "surajpur/CT_Surajpur",
+        "surguja/CT_Surguja"
+    ],
+    "koriya/CT_Koriya": [
+        "anuppur/MP_Anuppur",
+        "bilaspur/CT_Bilaspur",
+        "korba/CT_Korba",
+        "shahdol/MP_Shahdol",
+        "sidhi/MP_Sidhi",
+        "singrauli/MP_Singrauli",
+        "surajpur/CT_Surajpur"
+    ],
+    "kota/RJ_Kota": [
+        "baran/RJ_Baran",
+        "bundi/RJ_Bundi",
+        "chittorgarh/RJ_Chittorgarh",
+        "jhalawar/RJ_Jhalawar",
+        "mandsaur/MP_Mandsaur",
+        "sawai madhopur/RJ_Sawai Madhopur",
+        "sheopur/MP_Sheopur"
+    ],
+    "kottayam/KL_Kottayam": [
+        "alappuzha/KL_Alappuzha",
+        "ernakulam/KL_Ernakulam",
+        "idukki/KL_Idukki",
+        "pathanamthitta/KL_Pathanamthitta"
+    ],
+    "kozhikode/KL_Kozhikode": [
+        "kannur/KL_Kannur",
+        "mahe/PY_Mahe",
+        "malappuram/KL_Malappuram",
+        "wayanad/KL_Wayanad"
+    ],
+    "kra daadi/AR_Kra Daadi": [
+        "kamle/AR_Kamle",
+        "kurung kumey/AR_Kurung Kumey",
+        "lower subansiri/AR_Lower Subansiri",
+        "papum pare/AR_Papum Pare",
+        "upper subansiri/AR_Upper Subansiri"
+    ],
+    "krishna/AP_Krishna": [
+        "guntur/AP_Guntur",
+        "khammam/TG_Khammam",
+        "suryapet/TG_Suryapet",
+        "west godavari/AP_West Godavari"
+    ],
+    "krishnagiri/TN_Krishnagiri": [
+        "bengaluru rural/KA_Bengaluru Rural",
+        "bengaluru urban/KA_Bengaluru Urban",
+        "chamarajanagara/KA_Chamarajanagara",
+        "chittoor/AP_Chittoor",
+        "dharmapuri/TN_Dharmapuri",
+        "kolar/KA_Kolar",
+        "ramanagara/KA_Ramanagara",
+        "tiruvannamalai/TN_Tiruvannamalai",
+        "vellore/TN_Vellore"
+    ],
+    "kulgam/JK_Kulgam": [
+        "anantnag/JK_Anantnag",
+        "budgam/JK_Budgam",
+        "punch/JK_Punch",
+        "rajouri/JK_Rajouri",
+        "ramban/JK_Ramban",
+        "reasi/JK_Reasi",
+        "shopiyan/JK_Shopiyan"
+    ],
+    "kullu/HP_Kullu": [
+        "kangra/HP_Kangra",
+        "kinnaur/HP_Kinnaur",
+        "lahaul and spiti/HP_Lahaul and Spiti",
+        "mandi/HP_Mandi",
+        "shimla/HP_Shimla"
+    ],
+    "kupwara/JK_Kupwara": [
+        "bandipora/JK_Bandipora",
+        "baramulla/JK_Baramulla"
+    ],
+    "kurnool/AP_Kurnool": [
+        "anantapur/AP_Anantapur",
+        "ballari/KA_Ballari",
+        "jogulamba gadwal/TG_Jogulamba Gadwal",
+        "nagarkurnool/TG_Nagarkurnool",
+        "prakasam/AP_Prakasam",
+        "raichur/KA_Raichur",
+        "wanaparthy/TG_Wanaparthy",
+        "y.s.r. kadapa/AP_Y.S.R. Kadapa"
+    ],
+    "kurukshetra/HR_Kurukshetra": [
+        "ambala/HR_Ambala",
+        "kaithal/HR_Kaithal",
+        "karnal/HR_Karnal",
+        "patiala/PB_Patiala",
+        "yamunanagar/HR_Yamunanagar"
+    ],
+    "kurung kumey/AR_Kurung Kumey": [
+        "east kameng/AR_East Kameng",
+        "kra daadi/AR_Kra Daadi",
+        "papum pare/AR_Papum Pare",
+        "upper subansiri/AR_Upper Subansiri"
+    ],
+    "kushinagar/UP_Kushinagar": [
+        "deoria/UP_Deoria",
+        "gopalganj/BR_Gopalganj",
+        "gorakhpur/UP_Gorakhpur",
+        "maharajganj/UP_Maharajganj",
+        "west champaran/BR_West Champaran"
+    ],
+    "kutch/GJ_Kutch": [
+        "banaskantha/GJ_Banaskantha",
+        "barmer/RJ_Barmer",
+        "jalore/RJ_Jalore",
+        "morbi/GJ_Morbi",
+        "patan/GJ_Patan",
+        "surendranagar/GJ_Surendranagar"
+    ],
+    "lahaul and spiti/HP_Lahaul and Spiti": [
+        "chamba/HP_Chamba",
+        "kangra/HP_Kangra",
+        "kargil/LA_Kargil",
+        "kinnaur/HP_Kinnaur",
+        "kishtwar/JK_Kishtwar",
+        "kullu/HP_Kullu",
+        "leh/LA_Leh"
+    ],
+    "lakhimpur/AS_Lakhimpur": [
+        "biswanath/AS_Biswanath",
+        "dhemaji/AS_Dhemaji",
+        "dibrugarh/AS_Dibrugarh",
+        "golaghat/AS_Golaghat",
+        "kamle/AR_Kamle",
+        "majuli/AS_Majuli",
+        "papum pare/AR_Papum Pare"
+    ],
+    "lakhisarai/BR_Lakhisarai": [
+        "begusarai/BR_Begusarai",
+        "jamui/BR_Jamui",
+        "munger/BR_Munger",
+        "nalanda/BR_Nalanda",
+        "patna/BR_Patna",
+        "sheikhpura/BR_Sheikhpura"
+    ],
+    "lakshadweep/LD_Lakshadweep": [],
+    "lalitpur/UP_Lalitpur": [
+        "ashoknagar/MP_Ashoknagar",
+        "chhatarpur/MP_Chhatarpur",
+        "datia/MP_Datia",
+        "jhansi/UP_Jhansi",
+        "sagar/MP_Sagar",
+        "shivpuri/MP_Shivpuri",
+        "tikamgarh/MP_Tikamgarh"
+    ],
+    "latehar/JH_Latehar": [
+        "balrampur/CT_Balrampur",
+        "chatra/JH_Chatra",
+        "garhwa/JH_Garhwa",
+        "gumla/JH_Gumla",
+        "lohardaga/JH_Lohardaga",
+        "palamu/JH_Palamu",
+        "ranchi/JH_Ranchi"
+    ],
+    "latur/MH_Latur": [
+        "beed/MH_Beed",
+        "bidar/KA_Bidar",
+        "nanded/MH_Nanded",
+        "osmanabad/MH_Osmanabad"
+    ],
+    "lawngtlai/MZ_Lawngtlai": [
+        "lunglei/MZ_Lunglei",
+        "saiha/MZ_Saiha"
+    ],
+    "leh/LA_Leh": [
+        "kargil/LA_Kargil",
+        "lahaul and spiti/HP_Lahaul and Spiti"
+    ],
+    "lepa rada/AR_Lepa Rada": [
+        "lower siang/AR_Lower Siang",
+        "upper subansiri/AR_Upper Subansiri",
+        "west siang/AR_West Siang"
+    ],
+    "lohardaga/JH_Lohardaga": [
+        "gumla/JH_Gumla",
+        "latehar/JH_Latehar",
+        "ranchi/JH_Ranchi"
+    ],
+    "lohit/AR_Lohit": [
+        "anjaw/AR_Anjaw",
+        "changlang/AR_Changlang",
+        "lower dibang valley/AR_Lower Dibang Valley",
+        "namsai/AR_Namsai",
+        "tinsukia/AS_Tinsukia"
+    ],
+    "longding/AR_Longding": [
+        "charaideo/AS_Charaideo",
+        "dibrugarh/AS_Dibrugarh",
+        "mon/NL_Mon",
+        "tirap/AR_Tirap"
+    ],
+    "longleng/NL_Longleng": [
+        "mokokchung/NL_Mokokchung",
+        "mon/NL_Mon",
+        "sivasagar/AS_Sivasagar",
+        "tuensang/NL_Tuensang"
+    ],
+    "lower dibang valley/AR_Lower Dibang Valley": [
+        "dhemaji/AS_Dhemaji",
+        "east siang/AR_East Siang",
+        "lohit/AR_Lohit",
+        "tinsukia/AS_Tinsukia",
+        "upper dibang valley/AR_Upper Dibang Valley",
+        "upper siang/AR_Upper Siang"
+    ],
+    "lower siang/AR_Lower Siang": [
+        "dhemaji/AS_Dhemaji",
+        "east siang/AR_East Siang",
+        "kamle/AR_Kamle",
+        "lepa rada/AR_Lepa Rada",
+        "siang/AR_Siang",
+        "upper subansiri/AR_Upper Subansiri",
+        "west siang/AR_West Siang"
+    ],
+    "lower subansiri/AR_Lower Subansiri": [
+        "kamle/AR_Kamle",
+        "kra daadi/AR_Kra Daadi",
+        "papum pare/AR_Papum Pare"
+    ],
+    "lucknow/UP_Lucknow": [
+        "barabanki/UP_Barabanki",
+        "hardoi/UP_Hardoi",
+        "rae bareli/UP_Rae Bareli",
+        "sitapur/UP_Sitapur",
+        "unnao/UP_Unnao"
+    ],
+    "ludhiana/PB_Ludhiana": [
+        "barnala/PB_Barnala",
+        "fatehgarh sahib/PB_Fatehgarh Sahib",
+        "jalandhar/PB_Jalandhar",
+        "moga/PB_Moga",
+        "rupnagar/PB_Rupnagar",
+        "sangrur/PB_Sangrur",
+        "shahid bhagat singh nagar/PB_Shahid Bhagat Singh Nagar"
+    ],
+    "lunglei/MZ_Lunglei": [
+        "aizawl/MZ_Aizawl",
+        "lawngtlai/MZ_Lawngtlai",
+        "mamit/MZ_Mamit",
+        "serchhip/MZ_Serchhip"
+    ],
+    "madhepura/BR_Madhepura": [
+        "araria/BR_Araria",
+        "bhagalpur/BR_Bhagalpur",
+        "khagaria/BR_Khagaria",
+        "purnia/BR_Purnia",
+        "saharsa/BR_Saharsa",
+        "supaul/BR_Supaul"
+    ],
+    "madhubani/BR_Madhubani": [
+        "darbhanga/BR_Darbhanga",
+        "saharsa/BR_Saharsa",
+        "sitamarhi/BR_Sitamarhi",
+        "supaul/BR_Supaul"
+    ],
+    "madurai/TN_Madurai": [
+        "dindigul/TN_Dindigul",
+        "sivaganga/TN_Sivaganga",
+        "theni/TN_Theni",
+        "tiruchirappalli/TN_Tiruchirappalli",
+        "virudhunagar/TN_Virudhunagar"
+    ],
+    "mahabubabad/TG_Mahabubabad": [
+        "bhadradri kothagudem/TG_Bhadradri Kothagudem",
+        "jangaon/TG_Jangaon",
+        "khammam/TG_Khammam",
+        "mulugu/TG_Mulugu",
+        "suryapet/TG_Suryapet",
+        "warangal rural/TG_Warangal Rural"
+    ],
+    "mahabubnagar/TG_Mahabubnagar": [
+        "nagarkurnool/TG_Nagarkurnool",
+        "narayanpet/TG_Narayanpet",
+        "ranga reddy/TG_Ranga Reddy",
+        "vikarabad/TG_Vikarabad",
+        "wanaparthy/TG_Wanaparthy"
+    ],
+    "maharajganj/UP_Maharajganj": [
+        "gorakhpur/UP_Gorakhpur",
+        "kushinagar/UP_Kushinagar",
+        "siddharthnagar/UP_Siddharthnagar",
+        "west champaran/BR_West Champaran"
+    ],
+    "mahasamund/CT_Mahasamund": [
+        "baloda bazar/CT_Baloda Bazar",
+        "bargarh/OR_Bargarh",
+        "gariaband/CT_Gariaband",
+        "nuapada/OR_Nuapada",
+        "raigarh/CT_Raigarh",
+        "raipur/CT_Raipur"
+    ],
+    "mahe/PY_Mahe": [
+        "kannur/KL_Kannur",
+        "kozhikode/KL_Kozhikode"
+    ],
+    "mahendragarh/HR_Mahendragarh": [
+        "alwar/RJ_Alwar",
+        "bhiwani/HR_Bhiwani",
+        "charkhi dadri/HR_Charkhi Dadri",
+        "jaipur/RJ_Jaipur",
+        "jhajjar/HR_Jhajjar",
+        "jhunjhunu/RJ_Jhunjhunu",
+        "rewari/HR_Rewari",
+        "sikar/RJ_Sikar"
+    ],
+    "mahisagar/GJ_Mahisagar": [
+        "aravalli/GJ_Aravalli",
+        "banswara/RJ_Banswara",
+        "dahod/GJ_Dahod",
+        "dungarpur/RJ_Dungarpur",
+        "kheda/GJ_Kheda",
+        "panchmahal/GJ_Panchmahal"
+    ],
+    "mahoba/UP_Mahoba": [
+        "banda/UP_Banda",
+        "chhatarpur/MP_Chhatarpur",
+        "hamirpur/HP_Hamirpur",
+        "jhansi/UP_Jhansi"
+    ],
+    "mainpuri/UP_Mainpuri": [
+        "etah/UP_Etah",
+        "etawah/UP_Etawah",
+        "farrukhabad/UP_Farrukhabad",
+        "firozabad/UP_Firozabad",
+        "kannauj/UP_Kannauj"
+    ],
+    "majuli/AS_Majuli": [
+        "dibrugarh/AS_Dibrugarh",
+        "golaghat/AS_Golaghat",
+        "jorhat/AS_Jorhat",
+        "lakhimpur/AS_Lakhimpur",
+        "sivasagar/AS_Sivasagar"
+    ],
+    "malappuram/KL_Malappuram": [
+        "kozhikode/KL_Kozhikode",
+        "nilgiris/TN_Nilgiris",
+        "palakkad/KL_Palakkad",
+        "thrissur/KL_Thrissur",
+        "wayanad/KL_Wayanad"
+    ],
+    "malda/WB_Malda": [
+        "dakshin dinajpur/WB_Dakshin Dinajpur",
+        "katihar/BR_Katihar",
+        "murshidabad/WB_Murshidabad",
+        "sahibganj/JH_Sahibganj",
+        "uttar dinajpur/WB_Uttar Dinajpur"
+    ],
+    "malkangiri/OR_Malkangiri": [
+        "bastar/CT_Bastar",
+        "east godavari/AP_East Godavari",
+        "koraput/OR_Koraput",
+        "sukma/CT_Sukma",
+        "visakhapatnam/AP_Visakhapatnam"
+    ],
+    "mamit/MZ_Mamit": [
+        "aizawl/MZ_Aizawl",
+        "hailakandi/AS_Hailakandi",
+        "karimganj/AS_Karimganj",
+        "kolasib/MZ_Kolasib",
+        "lunglei/MZ_Lunglei",
+        "north tripura/TR_North Tripura"
+    ],
+    "mancherial/TG_Mancherial": [
+        "gadchiroli/MH_Gadchiroli",
+        "jagtial/TG_Jagtial",
+        "jayashankar bhupalapally/TG_Jayashankar Bhupalapally",
+        "komaram bheem/TG_Komaram Bheem",
+        "nirmal/TG_Nirmal",
+        "peddapalli/TG_Peddapalli"
+    ],
+    "mandi/HP_Mandi": [
+        "bilaspur/CT_Bilaspur",
+        "hamirpur/HP_Hamirpur",
+        "kangra/HP_Kangra",
+        "kullu/HP_Kullu",
+        "shimla/HP_Shimla",
+        "solan/HP_Solan"
+    ],
+    "mandla/MP_Mandla": [
+        "balaghat/MP_Balaghat",
+        "dindori/MP_Dindori",
+        "jabalpur/MP_Jabalpur",
+        "kabeerdham/CT_Kabeerdham",
+        "seoni/MP_Seoni"
+    ],
+    "mandsaur/MP_Mandsaur": [
+        "chittorgarh/RJ_Chittorgarh",
+        "jhalawar/RJ_Jhalawar",
+        "kota/RJ_Kota",
+        "neemuch/MP_Neemuch",
+        "pratapgarh/RJ_Pratapgarh",
+        "ratlam/MP_Ratlam"
+    ],
+    "mandya/KA_Mandya": [
+        "chamarajanagara/KA_Chamarajanagara",
+        "hassan/KA_Hassan",
+        "mysuru/KA_Mysuru",
+        "ramanagara/KA_Ramanagara",
+        "tumakuru/KA_Tumakuru"
+    ],
+    "mansa/PB_Mansa": [
+        "barnala/PB_Barnala",
+        "bathinda/PB_Bathinda",
+        "fatehabad/HR_Fatehabad",
+        "sangrur/PB_Sangrur",
+        "sirsa/HR_Sirsa"
+    ],
+    "mathura/UP_Mathura": [
+        "agra/UP_Agra",
+        "aligarh/UP_Aligarh",
+        "bharatpur/RJ_Bharatpur",
+        "hathras/UP_Hathras",
+        "nuh/HR_Nuh",
+        "palwal/HR_Palwal"
+    ],
+    "mau/UP_Mau": [
+        "azamgarh/UP_Azamgarh",
+        "ballia/UP_Ballia",
+        "deoria/UP_Deoria",
+        "ghazipur/UP_Ghazipur",
+        "gorakhpur/UP_Gorakhpur"
+    ],
+    "mayurbhanj/OR_Mayurbhanj": [
+        "balasore/OR_Balasore",
+        "east singhbhum/JH_East Singhbhum",
+        "jhargram/WB_Jhargram",
+        "kendujhar/OR_Kendujhar",
+        "west singhbhum/JH_West Singhbhum"
+    ],
+    "medak/TG_Medak": [
+        "kamareddy/TG_Kamareddy",
+        "medchal malkajgiri/TG_Medchal Malkajgiri",
+        "sangareddy/TG_Sangareddy",
+        "siddipet/TG_Siddipet"
+    ],
+    "medchal malkajgiri/TG_Medchal Malkajgiri": [
+        "hyderabad/TG_Hyderabad",
+        "medak/TG_Medak",
+        "ranga reddy/TG_Ranga Reddy",
+        "sangareddy/TG_Sangareddy",
+        "siddipet/TG_Siddipet",
+        "yadadri bhuvanagiri/TG_Yadadri Bhuvanagiri"
+    ],
+    "meerut/UP_Meerut": [
+        "amroha/UP_Amroha",
+        "baghpat/UP_Baghpat",
+        "bijnor/UP_Bijnor",
+        "ghaziabad/UP_Ghaziabad",
+        "hapur/UP_Hapur",
+        "muzaffarnagar/UP_Muzaffarnagar"
+    ],
+    "mehsana/GJ_Mehsana": [
+        "ahmedabad/GJ_Ahmedabad",
+        "banaskantha/GJ_Banaskantha",
+        "gandhinagar/GJ_Gandhinagar",
+        "patan/GJ_Patan",
+        "sabarkantha/GJ_Sabarkantha",
+        "surendranagar/GJ_Surendranagar"
+    ],
+    "mirzapur/UP_Mirzapur": [
+        "bhadohi/UP_Bhadohi",
+        "chandauli/UP_Chandauli",
+        "prayagraj/UP_Prayagraj",
+        "rewa/MP_Rewa",
+        "singrauli/MP_Singrauli",
+        "sonbhadra/UP_Sonbhadra",
+        "varanasi/UP_Varanasi"
+    ],
+    "moga/PB_Moga": [
+        "barnala/PB_Barnala",
+        "bathinda/PB_Bathinda",
+        "faridkot/PB_Faridkot",
+        "ferozepur/PB_Ferozepur",
+        "jalandhar/PB_Jalandhar",
+        "ludhiana/PB_Ludhiana"
+    ],
+    "mokokchung/NL_Mokokchung": [
+        "jorhat/AS_Jorhat",
+        "longleng/NL_Longleng",
+        "sivasagar/AS_Sivasagar",
+        "tuensang/NL_Tuensang",
+        "wokha/NL_Wokha",
+        "zunheboto/NL_Zunheboto"
+    ],
+    "mon/NL_Mon": [
+        "charaideo/AS_Charaideo",
+        "longding/AR_Longding",
+        "longleng/NL_Longleng",
+        "sivasagar/AS_Sivasagar",
+        "tuensang/NL_Tuensang"
+    ],
+    "moradabad/UP_Moradabad": [
+        "amroha/UP_Amroha",
+        "bijnor/UP_Bijnor",
+        "budaun/UP_Budaun",
+        "rampur/UP_Rampur",
+        "sambhal/UP_Sambhal",
+        "udham singh nagar/UT_Udham Singh Nagar"
+    ],
+    "morbi/GJ_Morbi": [
+        "jamnagar/GJ_Jamnagar",
+        "kutch/GJ_Kutch",
+        "rajkot/GJ_Rajkot",
+        "surendranagar/GJ_Surendranagar"
+    ],
+    "morena/MP_Morena": [
+        "agra/UP_Agra",
+        "bhind/MP_Bhind",
+        "dholpur/RJ_Dholpur",
+        "gwalior/MP_Gwalior",
+        "karauli/RJ_Karauli",
+        "sheopur/MP_Sheopur",
+        "shivpuri/MP_Shivpuri"
+    ],
+    "morigaon/AS_Morigaon": [
+        "darrang/AS_Darrang",
+        "kamrup metropolitan/AS_Kamrup Metropolitan",
+        "nagaon/AS_Nagaon",
+        "ribhoi/ML_Ribhoi",
+        "sonitpur/AS_Sonitpur",
+        "west karbi anglong/AS_West Karbi Anglong"
+    ],
+    "mulugu/TG_Mulugu": [
+        "bhadradri kothagudem/TG_Bhadradri Kothagudem",
+        "bijapur/CT_Bijapur",
+        "jayashankar bhupalapally/TG_Jayashankar Bhupalapally",
+        "mahabubabad/TG_Mahabubabad",
+        "warangal rural/TG_Warangal Rural"
+    ],
+    "mumbai/MH_Mumbai": [
+        "thane/MH_Thane"
+    ],
+    "mungeli/CT_Mungeli": [
+        "anuppur/MP_Anuppur",
+        "baloda bazar/CT_Baloda Bazar",
+        "bametara/CT_Bametara",
+        "bilaspur/CT_Bilaspur",
+        "dindori/MP_Dindori",
+        "kabeerdham/CT_Kabeerdham"
+    ],
+    "munger/BR_Munger": [
+        "banka/BR_Banka",
+        "begusarai/BR_Begusarai",
+        "bhagalpur/BR_Bhagalpur",
+        "jamui/BR_Jamui",
+        "khagaria/BR_Khagaria",
+        "lakhisarai/BR_Lakhisarai"
+    ],
+    "murshidabad/WB_Murshidabad": [
+        "birbhum/WB_Birbhum",
+        "malda/WB_Malda",
+        "nadia/WB_Nadia",
+        "pakur/JH_Pakur",
+        "purba bardhaman/WB_Purba Bardhaman",
+        "sahibganj/JH_Sahibganj"
+    ],
+    "muzaffarnagar/UP_Muzaffarnagar": [
+        "baghpat/UP_Baghpat",
+        "bijnor/UP_Bijnor",
+        "haridwar/UT_Haridwar",
+        "meerut/UP_Meerut",
+        "saharanpur/UP_Saharanpur",
+        "shamli/UP_Shamli"
+    ],
+    "muzaffarpur/BR_Muzaffarpur": [
+        "darbhanga/BR_Darbhanga",
+        "east champaran/BR_East Champaran",
+        "gopalganj/BR_Gopalganj",
+        "samastipur/BR_Samastipur",
+        "saran/BR_Saran",
+        "sheohar/BR_Sheohar",
+        "sitamarhi/BR_Sitamarhi",
+        "vaishali/BR_Vaishali"
+    ],
+    "mysuru/KA_Mysuru": [
+        "chamarajanagara/KA_Chamarajanagara",
+        "hassan/KA_Hassan",
+        "kodagu/KA_Kodagu",
+        "mandya/KA_Mandya",
+        "wayanad/KL_Wayanad"
+    ],
+    "nabarangapur/OR_Nabarangapur": [
+        "bastar/CT_Bastar",
+        "dhamtari/CT_Dhamtari",
+        "gariaband/CT_Gariaband",
+        "kalahandi/OR_Kalahandi",
+        "kondagaon/CT_Kondagaon",
+        "koraput/OR_Koraput"
+    ],
+    "nadia/WB_Nadia": [
+        "hooghly/WB_Hooghly",
+        "murshidabad/WB_Murshidabad",
+        "north 24 parganas/WB_North 24 Parganas",
+        "purba bardhaman/WB_Purba Bardhaman"
+    ],
+    "nagaon/AS_Nagaon": [
+        "biswanath/AS_Biswanath",
+        "golaghat/AS_Golaghat",
+        "hojai/AS_Hojai",
+        "karbi anglong/AS_Karbi Anglong",
+        "morigaon/AS_Morigaon",
+        "sonitpur/AS_Sonitpur",
+        "west karbi anglong/AS_West Karbi Anglong"
+    ],
+    "nagapattinam/TN_Nagapattinam": [
+        "cuddalore/TN_Cuddalore",
+        "karaikal/PY_Karaikal",
+        "thanjavur/TN_Thanjavur",
+        "thiruvarur/TN_Thiruvarur"
+    ],
+    "nagarkurnool/TG_Nagarkurnool": [
+        "guntur/AP_Guntur",
+        "kurnool/AP_Kurnool",
+        "mahabubnagar/TG_Mahabubnagar",
+        "nalgonda/TG_Nalgonda",
+        "prakasam/AP_Prakasam",
+        "ranga reddy/TG_Ranga Reddy",
+        "wanaparthy/TG_Wanaparthy"
+    ],
+    "nagaur/RJ_Nagaur": [
+        "ajmer/RJ_Ajmer",
+        "bikaner/RJ_Bikaner",
+        "churu/RJ_Churu",
+        "jaipur/RJ_Jaipur",
+        "jodhpur/RJ_Jodhpur",
+        "pali/RJ_Pali",
+        "sikar/RJ_Sikar"
+    ],
+    "nagpur/MH_Nagpur": [
+        "amravati/MH_Amravati",
+        "balaghat/MP_Balaghat",
+        "bhandara/MH_Bhandara",
+        "chandrapur/MH_Chandrapur",
+        "chhindwara/MP_Chhindwara",
+        "seoni/MP_Seoni",
+        "wardha/MH_Wardha"
+    ],
+    "nainital/UT_Nainital": [
+        "almora/UT_Almora",
+        "bijnor/UP_Bijnor",
+        "champawat/UT_Champawat",
+        "pauri garhwal/UT_Pauri Garhwal",
+        "udham singh nagar/UT_Udham Singh Nagar"
+    ],
+    "nalanda/BR_Nalanda": [
+        "gaya/BR_Gaya",
+        "jehanabad/BR_Jehanabad",
+        "lakhisarai/BR_Lakhisarai",
+        "nawada/BR_Nawada",
+        "patna/BR_Patna",
+        "sheikhpura/BR_Sheikhpura"
+    ],
+    "nalbari/AS_Nalbari": [
+        "baksa/AS_Baksa",
+        "barpeta/AS_Barpeta",
+        "kamrup/AS_Kamrup"
+    ],
+    "nalgonda/TG_Nalgonda": [
+        "guntur/AP_Guntur",
+        "nagarkurnool/TG_Nagarkurnool",
+        "ranga reddy/TG_Ranga Reddy",
+        "suryapet/TG_Suryapet",
+        "yadadri bhuvanagiri/TG_Yadadri Bhuvanagiri"
+    ],
+    "namakkal/TN_Namakkal": [
+        "erode/TN_Erode",
+        "karur/TN_Karur",
+        "salem/TN_Salem",
+        "tiruchirappalli/TN_Tiruchirappalli"
+    ],
+    "namsai/AR_Namsai": [
+        "changlang/AR_Changlang",
+        "lohit/AR_Lohit",
+        "tinsukia/AS_Tinsukia"
+    ],
+    "nanded/MH_Nanded": [
+        "adilabad/TG_Adilabad",
+        "bidar/KA_Bidar",
+        "hingoli/MH_Hingoli",
+        "kamareddy/TG_Kamareddy",
+        "latur/MH_Latur",
+        "nirmal/TG_Nirmal",
+        "nizamabad/TG_Nizamabad",
+        "yavatmal/MH_Yavatmal"
+    ],
+    "nandurbar/MH_Nandurbar": [
+        "alirajpur/MP_Alirajpur",
+        "barwani/MP_Barwani",
+        "chhota udaipur/GJ_Chhota Udaipur",
+        "dhule/MH_Dhule",
+        "narmada/GJ_Narmada",
+        "tapi/GJ_Tapi"
+    ],
+    "narayanpet/TG_Narayanpet": [
+        "jogulamba gadwal/TG_Jogulamba Gadwal",
+        "kalaburagi/KA_Kalaburagi",
+        "mahabubnagar/TG_Mahabubnagar",
+        "raichur/KA_Raichur",
+        "vikarabad/TG_Vikarabad",
+        "wanaparthy/TG_Wanaparthy",
+        "yadgir/KA_Yadgir"
+    ],
+    "narayanpur/CT_Narayanpur": [
+        "bijapur/CT_Bijapur",
+        "dakshin bastar dantewada/CT_Dakshin Bastar Dantewada",
+        "gadchiroli/MH_Gadchiroli",
+        "kondagaon/CT_Kondagaon",
+        "uttar bastar kanker/CT_Uttar Bastar Kanker"
+    ],
+    "narmada/GJ_Narmada": [
+        "bharuch/GJ_Bharuch",
+        "chhota udaipur/GJ_Chhota Udaipur",
+        "nandurbar/MH_Nandurbar",
+        "surat/GJ_Surat",
+        "tapi/GJ_Tapi",
+        "vadodara/GJ_Vadodara"
+    ],
+    "narsinghpur/MP_Narsinghpur": [
+        "chhindwara/MP_Chhindwara",
+        "damoh/MP_Damoh",
+        "hoshangabad/MP_Hoshangabad",
+        "jabalpur/MP_Jabalpur",
+        "raisen/MP_Raisen",
+        "sagar/MP_Sagar",
+        "seoni/MP_Seoni"
+    ],
+    "nashik/MH_Nashik": [
+        "ahmednagar/MH_Ahmednagar",
+        "aurangabad/BR_Aurangabad",
+        "dang/GJ_Dang",
+        "dhule/MH_Dhule",
+        "jalgaon/MH_Jalgaon",
+        "navsari/GJ_Navsari",
+        "palghar/MH_Palghar",
+        "thane/MH_Thane",
+        "valsad/GJ_Valsad"
+    ],
+    "navsari/GJ_Navsari": [
+        "dang/GJ_Dang",
+        "nashik/MH_Nashik",
+        "surat/GJ_Surat",
+        "tapi/GJ_Tapi",
+        "valsad/GJ_Valsad"
+    ],
+    "nawada/BR_Nawada": [
+        "gaya/BR_Gaya",
+        "giridih/JH_Giridih",
+        "jamui/BR_Jamui",
+        "koderma/JH_Koderma",
+        "nalanda/BR_Nalanda",
+        "sheikhpura/BR_Sheikhpura"
+    ],
+    "nayagarh/OR_Nayagarh": [
+        "angul/OR_Angul",
+        "boudh/OR_Boudh",
+        "cuttack/OR_Cuttack",
+        "ganjam/OR_Ganjam",
+        "kandhamal/OR_Kandhamal",
+        "khordha/OR_Khordha"
+    ],
+    "neemuch/MP_Neemuch": [
+        "bhilwara/RJ_Bhilwara",
+        "chittorgarh/RJ_Chittorgarh",
+        "mandsaur/MP_Mandsaur",
+        "pratapgarh/RJ_Pratapgarh"
+    ],
+    "new delhi/DL_New Delhi": [
+        "central delhi/DL_Central Delhi",
+        "gurugram/HR_Gurugram",
+        "south delhi/DL_South Delhi",
+        "south east delhi/DL_South East Delhi",
+        "south west delhi/DL_South West Delhi",
+        "west delhi/DL_West Delhi"
+    ],
+    "nilgiris/TN_Nilgiris": [
+        "chamarajanagara/KA_Chamarajanagara",
+        "coimbatore/TN_Coimbatore",
+        "erode/TN_Erode",
+        "malappuram/KL_Malappuram",
+        "palakkad/KL_Palakkad",
+        "wayanad/KL_Wayanad"
+    ],
+    "nirmal/TG_Nirmal": [
+        "adilabad/TG_Adilabad",
+        "jagtial/TG_Jagtial",
+        "komaram bheem/TG_Komaram Bheem",
+        "mancherial/TG_Mancherial",
+        "nanded/MH_Nanded",
+        "nizamabad/TG_Nizamabad"
+    ],
+    "nizamabad/TG_Nizamabad": [
+        "jagtial/TG_Jagtial",
+        "kamareddy/TG_Kamareddy",
+        "nanded/MH_Nanded",
+        "nirmal/TG_Nirmal",
+        "rajanna sircilla/TG_Rajanna Sircilla"
+    ],
+    "noney/MN_Noney": [
+        "bishnupur/MN_Bishnupur",
+        "churachandpur/MN_Churachandpur",
+        "jiribam/MN_Jiribam",
+        "kangpokpi/MN_Kangpokpi",
+        "pherzawl/MN_Pherzawl",
+        "tamenglong/MN_Tamenglong"
+    ],
+    "north 24 parganas/WB_North 24 Parganas": [
+        "hooghly/WB_Hooghly",
+        "howrah/WB_Howrah",
+        "kolkata/WB_Kolkata",
+        "nadia/WB_Nadia",
+        "south 24 parganas/WB_South 24 Parganas"
+    ],
+    "north delhi/DL_North Delhi": [
+        "baghpat/UP_Baghpat",
+        "central delhi/DL_Central Delhi",
+        "ghaziabad/UP_Ghaziabad",
+        "north east delhi/DL_North East Delhi",
+        "north west delhi/DL_North West Delhi",
+        "sonipat/HR_Sonipat"
+    ],
+    "north east delhi/DL_North East Delhi": [
+        "central delhi/DL_Central Delhi",
+        "ghaziabad/UP_Ghaziabad",
+        "north delhi/DL_North Delhi",
+        "shahdara/DL_Shahdara"
+    ],
+    "north garo hills/ML_North Garo Hills": [
+        "east garo hills/ML_East Garo Hills",
+        "goalpara/AS_Goalpara",
+        "kamrup/AS_Kamrup",
+        "south salmara mankachar/AS_South Salmara Mankachar",
+        "west garo hills/ML_West Garo Hills",
+        "west khasi hills/ML_West Khasi Hills"
+    ],
+    "north goa/GA_North Goa": [
+        "belagavi/KA_Belagavi",
+        "sindhudurg/MH_Sindhudurg",
+        "south goa/GA_South Goa",
+        "uttara kannada/KA_Uttara Kannada"
+    ],
+    "north sikkim/SK_North Sikkim": [
+        "east sikkim/SK_East Sikkim",
+        "south sikkim/SK_South Sikkim",
+        "west sikkim/SK_West Sikkim"
+    ],
+    "north tripura/TR_North Tripura": [
+        "dhalai/TR_Dhalai",
+        "karimganj/AS_Karimganj",
+        "mamit/MZ_Mamit",
+        "unokoti/TR_Unokoti"
+    ],
+    "north west delhi/DL_North West Delhi": [
+        "central delhi/DL_Central Delhi",
+        "jhajjar/HR_Jhajjar",
+        "north delhi/DL_North Delhi",
+        "sonipat/HR_Sonipat",
+        "west delhi/DL_West Delhi"
+    ],
+    "nuapada/OR_Nuapada": [
+        "balangir/OR_Balangir",
+        "bargarh/OR_Bargarh",
+        "gariaband/CT_Gariaband",
+        "kalahandi/OR_Kalahandi",
+        "mahasamund/CT_Mahasamund"
+    ],
+    "nuh/HR_Nuh": [
+        "alwar/RJ_Alwar",
+        "bharatpur/RJ_Bharatpur",
+        "gurugram/HR_Gurugram",
+        "mathura/UP_Mathura",
+        "palwal/HR_Palwal",
+        "rewari/HR_Rewari"
+    ],
+    "osmanabad/MH_Osmanabad": [
+        "ahmednagar/MH_Ahmednagar",
+        "beed/MH_Beed",
+        "bidar/KA_Bidar",
+        "kalaburagi/KA_Kalaburagi",
+        "latur/MH_Latur",
+        "solapur/MH_Solapur"
+    ],
+    "pakke kessang/AR_Pakke Kessang": [
+        "biswanath/AS_Biswanath",
+        "east kameng/AR_East Kameng",
+        "papum pare/AR_Papum Pare",
+        "sonitpur/AS_Sonitpur",
+        "west kameng/AR_West Kameng"
+    ],
+    "pakur/JH_Pakur": [
+        "birbhum/WB_Birbhum",
+        "dumka/JH_Dumka",
+        "godda/JH_Godda",
+        "murshidabad/WB_Murshidabad",
+        "sahibganj/JH_Sahibganj"
+    ],
+    "palakkad/KL_Palakkad": [
+        "coimbatore/TN_Coimbatore",
+        "malappuram/KL_Malappuram",
+        "nilgiris/TN_Nilgiris",
+        "thrissur/KL_Thrissur"
+    ],
+    "palamu/JH_Palamu": [
+        "aurangabad/BR_Aurangabad",
+        "chatra/JH_Chatra",
+        "garhwa/JH_Garhwa",
+        "gaya/BR_Gaya",
+        "latehar/JH_Latehar",
+        "rohtas/BR_Rohtas"
+    ],
+    "palghar/MH_Palghar": [
+        "dadra and nagar haveli/DN_Dadra and Nagar Haveli",
+        "nashik/MH_Nashik",
+        "thane/MH_Thane",
+        "valsad/GJ_Valsad"
+    ],
+    "pali/RJ_Pali": [
+        "ajmer/RJ_Ajmer",
+        "barmer/RJ_Barmer",
+        "jalore/RJ_Jalore",
+        "jodhpur/RJ_Jodhpur",
+        "nagaur/RJ_Nagaur",
+        "rajsamand/RJ_Rajsamand",
+        "sirohi/RJ_Sirohi",
+        "udaipur/RJ_Udaipur"
+    ],
+    "palwal/HR_Palwal": [
+        "aligarh/UP_Aligarh",
+        "faridabad/HR_Faridabad",
+        "gautam buddha nagar/UP_Gautam Buddha Nagar",
+        "gurugram/HR_Gurugram",
+        "mathura/UP_Mathura",
+        "nuh/HR_Nuh"
+    ],
+    "panchkula/HR_Panchkula": [
+        "ambala/HR_Ambala",
+        "chandigarh/CH_Chandigarh",
+        "s.a.s. nagar/PB_S.A.S. Nagar",
+        "sirmaur/HP_Sirmaur",
+        "solan/HP_Solan"
+    ],
+    "panchmahal/GJ_Panchmahal": [
+        "chhota udaipur/GJ_Chhota Udaipur",
+        "dahod/GJ_Dahod",
+        "kheda/GJ_Kheda",
+        "mahisagar/GJ_Mahisagar",
+        "vadodara/GJ_Vadodara"
+    ],
+    "panipat/HR_Panipat": [
+        "baghpat/UP_Baghpat",
+        "jind/HR_Jind",
+        "karnal/HR_Karnal",
+        "shamli/UP_Shamli",
+        "sonipat/HR_Sonipat"
+    ],
+    "panna/MP_Panna": [
+        "banda/UP_Banda",
+        "chhatarpur/MP_Chhatarpur",
+        "damoh/MP_Damoh",
+        "katni/MP_Katni",
+        "satna/MP_Satna"
+    ],
+    "papum pare/AR_Papum Pare": [
+        "biswanath/AS_Biswanath",
+        "east kameng/AR_East Kameng",
+        "kamle/AR_Kamle",
+        "kra daadi/AR_Kra Daadi",
+        "kurung kumey/AR_Kurung Kumey",
+        "lakhimpur/AS_Lakhimpur",
+        "lower subansiri/AR_Lower Subansiri",
+        "pakke kessang/AR_Pakke Kessang"
+    ],
+    "paschim bardhaman/WB_Paschim Bardhaman": [
+        "bankura/WB_Bankura",
+        "birbhum/WB_Birbhum",
+        "dhanbad/JH_Dhanbad",
+        "jamtara/JH_Jamtara",
+        "purba bardhaman/WB_Purba Bardhaman",
+        "purulia/WB_Purulia"
+    ],
+    "paschim medinipur/WB_Paschim Medinipur": [
+        "balasore/OR_Balasore",
+        "bankura/WB_Bankura",
+        "hooghly/WB_Hooghly",
+        "howrah/WB_Howrah",
+        "jhargram/WB_Jhargram",
+        "purba medinipur/WB_Purba Medinipur"
+    ],
+    "patan/GJ_Patan": [
+        "banaskantha/GJ_Banaskantha",
+        "kutch/GJ_Kutch",
+        "mehsana/GJ_Mehsana",
+        "surendranagar/GJ_Surendranagar"
+    ],
+    "pathanamthitta/KL_Pathanamthitta": [
+        "alappuzha/KL_Alappuzha",
+        "idukki/KL_Idukki",
+        "kollam/KL_Kollam",
+        "kottayam/KL_Kottayam",
+        "tirunelveli/TN_Tirunelveli"
+    ],
+    "pathankot/PB_Pathankot": [
+        "chamba/HP_Chamba",
+        "gurdaspur/PB_Gurdaspur",
+        "kangra/HP_Kangra",
+        "kathua/JK_Kathua"
+    ],
+    "patiala/PB_Patiala": [
+        "ambala/HR_Ambala",
+        "fatehgarh sahib/PB_Fatehgarh Sahib",
+        "jind/HR_Jind",
+        "kaithal/HR_Kaithal",
+        "kurukshetra/HR_Kurukshetra",
+        "s.a.s. nagar/PB_S.A.S. Nagar",
+        "sangrur/PB_Sangrur"
+    ],
+    "patna/BR_Patna": [
+        "arwal/BR_Arwal",
+        "begusarai/BR_Begusarai",
+        "bhojpur/BR_Bhojpur",
+        "jehanabad/BR_Jehanabad",
+        "lakhisarai/BR_Lakhisarai",
+        "nalanda/BR_Nalanda",
+        "samastipur/BR_Samastipur",
+        "saran/BR_Saran",
+        "vaishali/BR_Vaishali"
+    ],
+    "pauri garhwal/UT_Pauri Garhwal": [
+        "almora/UT_Almora",
+        "bijnor/UP_Bijnor",
+        "chamoli/UT_Chamoli",
+        "dehradun/UT_Dehradun",
+        "haridwar/UT_Haridwar",
+        "nainital/UT_Nainital",
+        "rudraprayag/UT_Rudraprayag",
+        "tehri garhwal/UT_Tehri Garhwal"
+    ],
+    "peddapalli/TG_Peddapalli": [
+        "jagtial/TG_Jagtial",
+        "jayashankar bhupalapally/TG_Jayashankar Bhupalapally",
+        "karimnagar/TG_Karimnagar",
+        "mancherial/TG_Mancherial"
+    ],
+    "perambalur/TN_Perambalur": [
+        "ariyalur/TN_Ariyalur",
+        "cuddalore/TN_Cuddalore",
+        "kallakurichi/TN_Kallakurichi",
+        "salem/TN_Salem",
+        "tiruchirappalli/TN_Tiruchirappalli"
+    ],
+    "peren/NL_Peren": [
+        "dima hasao/AS_Dima Hasao",
+        "dimapur/NL_Dimapur",
+        "karbi anglong/AS_Karbi Anglong",
+        "kohima/NL_Kohima",
+        "senapati/MN_Senapati",
+        "tamenglong/MN_Tamenglong"
+    ],
+    "phek/NL_Phek": [
+        "kiphire/NL_Kiphire",
+        "kohima/NL_Kohima",
+        "senapati/MN_Senapati",
+        "ukhrul/MN_Ukhrul",
+        "zunheboto/NL_Zunheboto"
+    ],
+    "pherzawl/MN_Pherzawl": [
+        "aizawl/MZ_Aizawl",
+        "cachar/AS_Cachar",
+        "champhai/MZ_Champhai",
+        "churachandpur/MN_Churachandpur",
+        "jiribam/MN_Jiribam",
+        "noney/MN_Noney"
+    ],
+    "pilibhit/UP_Pilibhit": [
+        "bareilly/UP_Bareilly",
+        "shahjahanpur/UP_Shahjahanpur",
+        "udham singh nagar/UT_Udham Singh Nagar"
+    ],
+    "pithoragarh/UT_Pithoragarh": [
+        "almora/UT_Almora",
+        "bageshwar/UT_Bageshwar",
+        "chamoli/UT_Chamoli",
+        "champawat/UT_Champawat"
+    ],
+    "porbandar/GJ_Porbandar": [
+        "devbhumi dwarka/GJ_Devbhumi Dwarka",
+        "jamnagar/GJ_Jamnagar",
+        "junagadh/GJ_Junagadh",
+        "rajkot/GJ_Rajkot"
+    ],
+    "prakasam/AP_Prakasam": [
+        "guntur/AP_Guntur",
+        "kurnool/AP_Kurnool",
+        "nagarkurnool/TG_Nagarkurnool",
+        "s.p.s. nellore/AP_S.P.S. Nellore",
+        "y.s.r. kadapa/AP_Y.S.R. Kadapa"
+    ],
+    "pratapgarh/RJ_Pratapgarh": [
+        "banswara/RJ_Banswara",
+        "chittorgarh/RJ_Chittorgarh",
+        "dungarpur/RJ_Dungarpur",
+        "mandsaur/MP_Mandsaur",
+        "neemuch/MP_Neemuch",
+        "ratlam/MP_Ratlam",
+        "udaipur/RJ_Udaipur"
+    ],
+    "pratapgarh/UP_Pratapgarh": [
+        "amethi/UP_Amethi",
+        "fatehpur/UP_Fatehpur",
+        "jaunpur/UP_Jaunpur",
+        "kaushambi/UP_Kaushambi",
+        "prayagraj/UP_Prayagraj",
+        "rae bareli/UP_Rae Bareli",
+        "sultanpur/UP_Sultanpur"
+    ],
+    "prayagraj/UP_Prayagraj": [
+        "bhadohi/UP_Bhadohi",
+        "chitrakoot/UP_Chitrakoot",
+        "jaunpur/UP_Jaunpur",
+        "kaushambi/UP_Kaushambi",
+        "mirzapur/UP_Mirzapur",
+        "pratapgarh/RJ_Pratapgarh",
+        "rewa/MP_Rewa"
+    ],
+    "puducherry/PY_Puducherry": [
+        "cuddalore/TN_Cuddalore",
+        "viluppuram/TN_Viluppuram"
+    ],
+    "pudukkottai/TN_Pudukkottai": [
+        "ramanathapuram/TN_Ramanathapuram",
+        "sivaganga/TN_Sivaganga",
+        "thanjavur/TN_Thanjavur",
+        "tiruchirappalli/TN_Tiruchirappalli"
+    ],
+    "pulwama/JK_Pulwama": [
+        "anantnag/JK_Anantnag",
+        "budgam/JK_Budgam",
+        "shopiyan/JK_Shopiyan",
+        "srinagar/JK_Srinagar"
+    ],
+    "punch/JK_Punch": [
+        "baramulla/JK_Baramulla",
+        "budgam/JK_Budgam",
+        "kulgam/JK_Kulgam",
+        "rajouri/JK_Rajouri",
+        "reasi/JK_Reasi"
+    ],
+    "pune/MH_Pune": [
+        "ahmednagar/MH_Ahmednagar",
+        "raigad/MH_Raigad",
+        "satara/MH_Satara",
+        "solapur/MH_Solapur",
+        "thane/MH_Thane"
+    ],
+    "purba bardhaman/WB_Purba Bardhaman": [
+        "bankura/WB_Bankura",
+        "birbhum/WB_Birbhum",
+        "hooghly/WB_Hooghly",
+        "murshidabad/WB_Murshidabad",
+        "nadia/WB_Nadia",
+        "paschim bardhaman/WB_Paschim Bardhaman"
+    ],
+    "purba medinipur/WB_Purba Medinipur": [
+        "balasore/OR_Balasore",
+        "howrah/WB_Howrah",
+        "paschim medinipur/WB_Paschim Medinipur",
+        "south 24 parganas/WB_South 24 Parganas"
+    ],
+    "puri/OR_Puri": [
+        "cuttack/OR_Cuttack",
+        "ganjam/OR_Ganjam",
+        "jagatsinghpur/OR_Jagatsinghpur",
+        "khordha/OR_Khordha"
+    ],
+    "purnia/BR_Purnia": [
+        "araria/BR_Araria",
+        "bhagalpur/BR_Bhagalpur",
+        "katihar/BR_Katihar",
+        "kishanganj/BR_Kishanganj",
+        "madhepura/BR_Madhepura",
+        "uttar dinajpur/WB_Uttar Dinajpur"
+    ],
+    "purulia/WB_Purulia": [
+        "bankura/WB_Bankura",
+        "bokaro/JH_Bokaro",
+        "dhanbad/JH_Dhanbad",
+        "east singhbhum/JH_East Singhbhum",
+        "jhargram/WB_Jhargram",
+        "paschim bardhaman/WB_Paschim Bardhaman",
+        "ramgarh/JH_Ramgarh",
+        "ranchi/JH_Ranchi"
+    ],
+    "rae bareli/UP_Rae Bareli": [
+        "amethi/UP_Amethi",
+        "barabanki/UP_Barabanki",
+        "fatehpur/UP_Fatehpur",
+        "kaushambi/UP_Kaushambi",
+        "lucknow/UP_Lucknow",
+        "pratapgarh/RJ_Pratapgarh",
+        "unnao/UP_Unnao"
+    ],
+    "raichur/KA_Raichur": [
+        "bagalkote/KA_Bagalkote",
+        "ballari/KA_Ballari",
+        "jogulamba gadwal/TG_Jogulamba Gadwal",
+        "koppal/KA_Koppal",
+        "kurnool/AP_Kurnool",
+        "narayanpet/TG_Narayanpet",
+        "vijayapura/KA_Vijayapura",
+        "yadgir/KA_Yadgir"
+    ],
+    "raigad/MH_Raigad": [
+        "pune/MH_Pune",
+        "ratnagiri/MH_Ratnagiri",
+        "satara/MH_Satara",
+        "thane/MH_Thane"
+    ],
+    "raigarh/CT_Raigarh": [
+        "baloda bazar/CT_Baloda Bazar",
+        "bargarh/OR_Bargarh",
+        "janjgir champa/CT_Janjgir Champa",
+        "jashpur/CT_Jashpur",
+        "jharsuguda/OR_Jharsuguda",
+        "korba/CT_Korba",
+        "mahasamund/CT_Mahasamund",
+        "sundargarh/OR_Sundargarh",
+        "surguja/CT_Surguja"
+    ],
+    "raipur/CT_Raipur": [
+        "baloda bazar/CT_Baloda Bazar",
+        "bametara/CT_Bametara",
+        "dhamtari/CT_Dhamtari",
+        "durg/CT_Durg",
+        "gariaband/CT_Gariaband",
+        "mahasamund/CT_Mahasamund"
+    ],
+    "raisen/MP_Raisen": [
+        "bhopal/MP_Bhopal",
+        "hoshangabad/MP_Hoshangabad",
+        "narsinghpur/MP_Narsinghpur",
+        "sagar/MP_Sagar",
+        "sehore/MP_Sehore",
+        "vidisha/MP_Vidisha"
+    ],
+    "rajanna sircilla/TG_Rajanna Sircilla": [
+        "jagtial/TG_Jagtial",
+        "kamareddy/TG_Kamareddy",
+        "karimnagar/TG_Karimnagar",
+        "nizamabad/TG_Nizamabad",
+        "siddipet/TG_Siddipet"
+    ],
+    "rajgarh/MP_Rajgarh": [
+        "agar malwa/MP_Agar Malwa",
+        "bhopal/MP_Bhopal",
+        "guna/MP_Guna",
+        "jhalawar/RJ_Jhalawar",
+        "sehore/MP_Sehore",
+        "shajapur/MP_Shajapur"
+    ],
+    "rajkot/GJ_Rajkot": [
+        "amreli/GJ_Amreli",
+        "botad/GJ_Botad",
+        "jamnagar/GJ_Jamnagar",
+        "junagadh/GJ_Junagadh",
+        "morbi/GJ_Morbi",
+        "porbandar/GJ_Porbandar",
+        "surendranagar/GJ_Surendranagar"
+    ],
+    "rajnandgaon/CT_Rajnandgaon": [
+        "balaghat/MP_Balaghat",
+        "balod/CT_Balod",
+        "bametara/CT_Bametara",
+        "durg/CT_Durg",
+        "gadchiroli/MH_Gadchiroli",
+        "gondia/MH_Gondia",
+        "kabeerdham/CT_Kabeerdham",
+        "uttar bastar kanker/CT_Uttar Bastar Kanker"
+    ],
+    "rajouri/JK_Rajouri": [
+        "jammu/JK_Jammu",
+        "kulgam/JK_Kulgam",
+        "punch/JK_Punch",
+        "reasi/JK_Reasi"
+    ],
+    "rajsamand/RJ_Rajsamand": [
+        "ajmer/RJ_Ajmer",
+        "bhilwara/RJ_Bhilwara",
+        "chittorgarh/RJ_Chittorgarh",
+        "pali/RJ_Pali",
+        "udaipur/RJ_Udaipur"
+    ],
+    "ramanagara/KA_Ramanagara": [
+        "bengaluru rural/KA_Bengaluru Rural",
+        "bengaluru urban/KA_Bengaluru Urban",
+        "chamarajanagara/KA_Chamarajanagara",
+        "krishnagiri/TN_Krishnagiri",
+        "mandya/KA_Mandya",
+        "tumakuru/KA_Tumakuru"
+    ],
+    "ramanathapuram/TN_Ramanathapuram": [
+        "pudukkottai/TN_Pudukkottai",
+        "sivaganga/TN_Sivaganga",
+        "thoothukkudi/TN_Thoothukkudi",
+        "virudhunagar/TN_Virudhunagar"
+    ],
+    "ramban/JK_Ramban": [
+        "anantnag/JK_Anantnag",
+        "doda/JK_Doda",
+        "kulgam/JK_Kulgam",
+        "reasi/JK_Reasi",
+        "udhampur/JK_Udhampur"
+    ],
+    "ramgarh/JH_Ramgarh": [
+        "bokaro/JH_Bokaro",
+        "hazaribagh/JH_Hazaribagh",
+        "purulia/WB_Purulia",
+        "ranchi/JH_Ranchi"
+    ],
+    "rampur/UP_Rampur": [
+        "bareilly/UP_Bareilly",
+        "budaun/UP_Budaun",
+        "moradabad/UP_Moradabad",
+        "udham singh nagar/UT_Udham Singh Nagar"
+    ],
+    "ranchi/JH_Ranchi": [
+        "chatra/JH_Chatra",
+        "gumla/JH_Gumla",
+        "hazaribagh/JH_Hazaribagh",
+        "khunti/JH_Khunti",
+        "latehar/JH_Latehar",
+        "lohardaga/JH_Lohardaga",
+        "purulia/WB_Purulia",
+        "ramgarh/JH_Ramgarh"
+    ],
+    "ranga reddy/TG_Ranga Reddy": [
+        "hyderabad/TG_Hyderabad",
+        "mahabubnagar/TG_Mahabubnagar",
+        "medchal malkajgiri/TG_Medchal Malkajgiri",
+        "nagarkurnool/TG_Nagarkurnool",
+        "nalgonda/TG_Nalgonda",
+        "sangareddy/TG_Sangareddy",
+        "vikarabad/TG_Vikarabad",
+        "yadadri bhuvanagiri/TG_Yadadri Bhuvanagiri"
+    ],
+    "ranipet/TN_Ranipet": [
+        "kancheepuram/TN_Kancheepuram",
+        "thiruvallur/TN_Thiruvallur",
+        "tiruvannamalai/TN_Tiruvannamalai",
+        "vellore/TN_Vellore"
+    ],
+    "ratlam/MP_Ratlam": [
+        "agar malwa/MP_Agar Malwa",
+        "banswara/RJ_Banswara",
+        "dhar/MP_Dhar",
+        "jhabua/MP_Jhabua",
+        "jhalawar/RJ_Jhalawar",
+        "mandsaur/MP_Mandsaur",
+        "pratapgarh/RJ_Pratapgarh",
+        "ujjain/MP_Ujjain"
+    ],
+    "ratnagiri/MH_Ratnagiri": [
+        "kolhapur/MH_Kolhapur",
+        "raigad/MH_Raigad",
+        "sangli/MH_Sangli",
+        "satara/MH_Satara",
+        "sindhudurg/MH_Sindhudurg"
+    ],
+    "rayagada/OR_Rayagada": [
+        "gajapati/OR_Gajapati",
+        "kalahandi/OR_Kalahandi",
+        "kandhamal/OR_Kandhamal",
+        "koraput/OR_Koraput",
+        "srikakulam/AP_Srikakulam",
+        "vizianagaram/AP_Vizianagaram"
+    ],
+    "reasi/JK_Reasi": [
+        "jammu/JK_Jammu",
+        "kulgam/JK_Kulgam",
+        "punch/JK_Punch",
+        "rajouri/JK_Rajouri",
+        "ramban/JK_Ramban",
+        "udhampur/JK_Udhampur"
+    ],
+    "rewa/MP_Rewa": [
+        "chitrakoot/UP_Chitrakoot",
+        "mirzapur/UP_Mirzapur",
+        "prayagraj/UP_Prayagraj",
+        "satna/MP_Satna",
+        "sidhi/MP_Sidhi",
+        "singrauli/MP_Singrauli"
+    ],
+    "rewari/HR_Rewari": [
+        "alwar/RJ_Alwar",
+        "gurugram/HR_Gurugram",
+        "jhajjar/HR_Jhajjar",
+        "mahendragarh/HR_Mahendragarh",
+        "nuh/HR_Nuh"
+    ],
+    "ribhoi/ML_Ribhoi": [
+        "east khasi hills/ML_East Khasi Hills",
+        "kamrup metropolitan/AS_Kamrup Metropolitan",
+        "kamrup/AS_Kamrup",
+        "morigaon/AS_Morigaon",
+        "west jaintia hills/ML_West Jaintia Hills",
+        "west karbi anglong/AS_West Karbi Anglong",
+        "west khasi hills/ML_West Khasi Hills"
+    ],
+    "rohtak/HR_Rohtak": [
+        "bhiwani/HR_Bhiwani",
+        "charkhi dadri/HR_Charkhi Dadri",
+        "hisar/HR_Hisar",
+        "jhajjar/HR_Jhajjar",
+        "jind/HR_Jind",
+        "sonipat/HR_Sonipat"
+    ],
+    "rohtas/BR_Rohtas": [
+        "arwal/BR_Arwal",
+        "aurangabad/BR_Aurangabad",
+        "bhojpur/BR_Bhojpur",
+        "buxar/BR_Buxar",
+        "garhwa/JH_Garhwa",
+        "kaimur/BR_Kaimur",
+        "palamu/JH_Palamu",
+        "sonbhadra/UP_Sonbhadra"
+    ],
+    "rudraprayag/UT_Rudraprayag": [
+        "chamoli/UT_Chamoli",
+        "pauri garhwal/UT_Pauri Garhwal",
+        "tehri garhwal/UT_Tehri Garhwal",
+        "uttarkashi/UT_Uttarkashi"
+    ],
+    "rupnagar/PB_Rupnagar": [
+        "bilaspur/CT_Bilaspur",
+        "fatehgarh sahib/PB_Fatehgarh Sahib",
+        "hoshiarpur/PB_Hoshiarpur",
+        "ludhiana/PB_Ludhiana",
+        "s.a.s. nagar/PB_S.A.S. Nagar",
+        "shahid bhagat singh nagar/PB_Shahid Bhagat Singh Nagar",
+        "solan/HP_Solan",
+        "una/HP_Una"
+    ],
+    "s.a.s. nagar/PB_S.A.S. Nagar": [
+        "ambala/HR_Ambala",
+        "chandigarh/CH_Chandigarh",
+        "fatehgarh sahib/PB_Fatehgarh Sahib",
+        "panchkula/HR_Panchkula",
+        "patiala/PB_Patiala",
+        "rupnagar/PB_Rupnagar",
+        "solan/HP_Solan"
+    ],
+    "s.p.s. nellore/AP_S.P.S. Nellore": [
+        "chittoor/AP_Chittoor",
+        "prakasam/AP_Prakasam",
+        "thiruvallur/TN_Thiruvallur",
+        "y.s.r. kadapa/AP_Y.S.R. Kadapa"
+    ],
+    "sabarkantha/GJ_Sabarkantha": [
+        "aravalli/GJ_Aravalli",
+        "banaskantha/GJ_Banaskantha",
+        "gandhinagar/GJ_Gandhinagar",
+        "mehsana/GJ_Mehsana",
+        "sirohi/RJ_Sirohi",
+        "udaipur/RJ_Udaipur"
+    ],
+    "sagar/MP_Sagar": [
+        "ashoknagar/MP_Ashoknagar",
+        "chhatarpur/MP_Chhatarpur",
+        "damoh/MP_Damoh",
+        "lalitpur/UP_Lalitpur",
+        "narsinghpur/MP_Narsinghpur",
+        "raisen/MP_Raisen",
+        "vidisha/MP_Vidisha"
+    ],
+    "saharanpur/UP_Saharanpur": [
+        "dehradun/UT_Dehradun",
+        "haridwar/UT_Haridwar",
+        "karnal/HR_Karnal",
+        "muzaffarnagar/UP_Muzaffarnagar",
+        "shamli/UP_Shamli",
+        "sirmaur/HP_Sirmaur",
+        "yamunanagar/HR_Yamunanagar"
+    ],
+    "saharsa/BR_Saharsa": [
+        "darbhanga/BR_Darbhanga",
+        "khagaria/BR_Khagaria",
+        "madhepura/BR_Madhepura",
+        "madhubani/BR_Madhubani",
+        "samastipur/BR_Samastipur",
+        "supaul/BR_Supaul"
+    ],
+    "sahibganj/JH_Sahibganj": [
+        "bhagalpur/BR_Bhagalpur",
+        "godda/JH_Godda",
+        "katihar/BR_Katihar",
+        "malda/WB_Malda",
+        "murshidabad/WB_Murshidabad",
+        "pakur/JH_Pakur"
+    ],
+    "saiha/MZ_Saiha": [
+        "lawngtlai/MZ_Lawngtlai"
+    ],
+    "salem/TN_Salem": [
+        "chamarajanagara/KA_Chamarajanagara",
+        "dharmapuri/TN_Dharmapuri",
+        "erode/TN_Erode",
+        "kallakurichi/TN_Kallakurichi",
+        "namakkal/TN_Namakkal",
+        "perambalur/TN_Perambalur",
+        "tiruchirappalli/TN_Tiruchirappalli"
+    ],
+    "samastipur/BR_Samastipur": [
+        "begusarai/BR_Begusarai",
+        "darbhanga/BR_Darbhanga",
+        "khagaria/BR_Khagaria",
+        "muzaffarpur/BR_Muzaffarpur",
+        "patna/BR_Patna",
+        "saharsa/BR_Saharsa",
+        "vaishali/BR_Vaishali"
+    ],
+    "samba/JK_Samba": [
+        "jammu/JK_Jammu",
+        "kathua/JK_Kathua",
+        "udhampur/JK_Udhampur"
+    ],
+    "sambalpur/OR_Sambalpur": [
+        "angul/OR_Angul",
+        "bargarh/OR_Bargarh",
+        "deogarh/OR_Deogarh",
+        "jharsuguda/OR_Jharsuguda",
+        "subarnapur/OR_Subarnapur",
+        "sundargarh/OR_Sundargarh"
+    ],
+    "sambhal/UP_Sambhal": [
+        "aligarh/UP_Aligarh",
+        "amroha/UP_Amroha",
+        "budaun/UP_Budaun",
+        "bulandshahr/UP_Bulandshahr",
+        "moradabad/UP_Moradabad"
+    ],
+    "sangareddy/TG_Sangareddy": [
+        "bidar/KA_Bidar",
+        "kalaburagi/KA_Kalaburagi",
+        "kamareddy/TG_Kamareddy",
+        "medak/TG_Medak",
+        "medchal malkajgiri/TG_Medchal Malkajgiri",
+        "ranga reddy/TG_Ranga Reddy",
+        "vikarabad/TG_Vikarabad"
+    ],
+    "sangli/MH_Sangli": [
+        "belagavi/KA_Belagavi",
+        "kolhapur/MH_Kolhapur",
+        "ratnagiri/MH_Ratnagiri",
+        "satara/MH_Satara",
+        "solapur/MH_Solapur",
+        "vijayapura/KA_Vijayapura"
+    ],
+    "sangrur/PB_Sangrur": [
+        "barnala/PB_Barnala",
+        "fatehabad/HR_Fatehabad",
+        "fatehgarh sahib/PB_Fatehgarh Sahib",
+        "jind/HR_Jind",
+        "ludhiana/PB_Ludhiana",
+        "mansa/PB_Mansa",
+        "patiala/PB_Patiala"
+    ],
+    "sant kabir nagar/UP_Sant Kabir Nagar": [
+        "ambedkar nagar/UP_Ambedkar Nagar",
+        "basti/UP_Basti",
+        "gorakhpur/UP_Gorakhpur",
+        "siddharthnagar/UP_Siddharthnagar"
+    ],
+    "saran/BR_Saran": [
+        "ballia/UP_Ballia",
+        "bhojpur/BR_Bhojpur",
+        "gopalganj/BR_Gopalganj",
+        "muzaffarpur/BR_Muzaffarpur",
+        "patna/BR_Patna",
+        "siwan/BR_Siwan",
+        "vaishali/BR_Vaishali"
+    ],
+    "satara/MH_Satara": [
+        "pune/MH_Pune",
+        "raigad/MH_Raigad",
+        "ratnagiri/MH_Ratnagiri",
+        "sangli/MH_Sangli",
+        "solapur/MH_Solapur"
+    ],
+    "satna/MP_Satna": [
+        "banda/UP_Banda",
+        "chitrakoot/UP_Chitrakoot",
+        "katni/MP_Katni",
+        "panna/MP_Panna",
+        "rewa/MP_Rewa",
+        "shahdol/MP_Shahdol",
+        "sidhi/MP_Sidhi",
+        "umaria/MP_Umaria"
+    ],
+    "sawai madhopur/RJ_Sawai Madhopur": [
+        "bundi/RJ_Bundi",
+        "dausa/RJ_Dausa",
+        "karauli/RJ_Karauli",
+        "kota/RJ_Kota",
+        "sheopur/MP_Sheopur",
+        "tonk/RJ_Tonk"
+    ],
+    "sehore/MP_Sehore": [
+        "bhopal/MP_Bhopal",
+        "dewas/MP_Dewas",
+        "harda/MP_Harda",
+        "hoshangabad/MP_Hoshangabad",
+        "raisen/MP_Raisen",
+        "rajgarh/MP_Rajgarh",
+        "shajapur/MP_Shajapur"
+    ],
+    "senapati/MN_Senapati": [
+        "kangpokpi/MN_Kangpokpi",
+        "kohima/NL_Kohima",
+        "peren/NL_Peren",
+        "phek/NL_Phek",
+        "tamenglong/MN_Tamenglong",
+        "ukhrul/MN_Ukhrul"
+    ],
+    "seoni/MP_Seoni": [
+        "balaghat/MP_Balaghat",
+        "chhindwara/MP_Chhindwara",
+        "jabalpur/MP_Jabalpur",
+        "mandla/MP_Mandla",
+        "nagpur/MH_Nagpur",
+        "narsinghpur/MP_Narsinghpur"
+    ],
+    "serchhip/MZ_Serchhip": [
+        "aizawl/MZ_Aizawl",
+        "champhai/MZ_Champhai",
+        "lunglei/MZ_Lunglei"
+    ],
+    "shahdara/DL_Shahdara": [
+        "central delhi/DL_Central Delhi",
+        "east delhi/DL_East Delhi",
+        "ghaziabad/UP_Ghaziabad",
+        "north east delhi/DL_North East Delhi"
+    ],
+    "shahdol/MP_Shahdol": [
+        "anuppur/MP_Anuppur",
+        "koriya/CT_Koriya",
+        "satna/MP_Satna",
+        "sidhi/MP_Sidhi",
+        "umaria/MP_Umaria"
+    ],
+    "shahid bhagat singh nagar/PB_Shahid Bhagat Singh Nagar": [
+        "hoshiarpur/PB_Hoshiarpur",
+        "jalandhar/PB_Jalandhar",
+        "kapurthala/PB_Kapurthala",
+        "ludhiana/PB_Ludhiana",
+        "rupnagar/PB_Rupnagar"
+    ],
+    "shahjahanpur/UP_Shahjahanpur": [
+        "bareilly/UP_Bareilly",
+        "budaun/UP_Budaun",
+        "farrukhabad/UP_Farrukhabad",
+        "hardoi/UP_Hardoi",
+        "pilibhit/UP_Pilibhit"
+    ],
+    "shajapur/MP_Shajapur": [
+        "agar malwa/MP_Agar Malwa",
+        "dewas/MP_Dewas",
+        "rajgarh/MP_Rajgarh",
+        "sehore/MP_Sehore",
+        "ujjain/MP_Ujjain"
+    ],
+    "shamli/UP_Shamli": [
+        "baghpat/UP_Baghpat",
+        "karnal/HR_Karnal",
+        "muzaffarnagar/UP_Muzaffarnagar",
+        "panipat/HR_Panipat",
+        "saharanpur/UP_Saharanpur"
+    ],
+    "sheikhpura/BR_Sheikhpura": [
+        "jamui/BR_Jamui",
+        "lakhisarai/BR_Lakhisarai",
+        "nalanda/BR_Nalanda",
+        "nawada/BR_Nawada"
+    ],
+    "sheohar/BR_Sheohar": [
+        "east champaran/BR_East Champaran",
+        "muzaffarpur/BR_Muzaffarpur",
+        "sitamarhi/BR_Sitamarhi"
+    ],
+    "sheopur/MP_Sheopur": [
+        "baran/RJ_Baran",
+        "karauli/RJ_Karauli",
+        "kota/RJ_Kota",
+        "morena/MP_Morena",
+        "sawai madhopur/RJ_Sawai Madhopur",
+        "shivpuri/MP_Shivpuri"
+    ],
+    "shi yomi/AR_Shi Yomi": [
+        "siang/AR_Siang",
+        "upper siang/AR_Upper Siang",
+        "upper subansiri/AR_Upper Subansiri",
+        "west siang/AR_West Siang"
+    ],
+    "shimla/HP_Shimla": [
+        "dehradun/UT_Dehradun",
+        "kinnaur/HP_Kinnaur",
+        "kullu/HP_Kullu",
+        "mandi/HP_Mandi",
+        "sirmaur/HP_Sirmaur",
+        "solan/HP_Solan",
+        "uttarkashi/UT_Uttarkashi"
+    ],
+    "shivamogga/KA_Shivamogga": [
+        "chikkamagaluru/KA_Chikkamagaluru",
+        "davanagere/KA_Davanagere",
+        "haveri/KA_Haveri",
+        "udupi/KA_Udupi",
+        "uttara kannada/KA_Uttara Kannada"
+    ],
+    "shivpuri/MP_Shivpuri": [
+        "ashoknagar/MP_Ashoknagar",
+        "baran/RJ_Baran",
+        "datia/MP_Datia",
+        "guna/MP_Guna",
+        "gwalior/MP_Gwalior",
+        "jhansi/UP_Jhansi",
+        "lalitpur/UP_Lalitpur",
+        "morena/MP_Morena",
+        "sheopur/MP_Sheopur"
+    ],
+    "shopiyan/JK_Shopiyan": [
+        "anantnag/JK_Anantnag",
+        "budgam/JK_Budgam",
+        "kulgam/JK_Kulgam",
+        "pulwama/JK_Pulwama"
+    ],
+    "shrawasti/UP_Shrawasti": [
+        "bahraich/UP_Bahraich",
+        "balrampur/CT_Balrampur",
+        "gonda/UP_Gonda"
+    ],
+    "siang/AR_Siang": [
+        "east siang/AR_East Siang",
+        "lower siang/AR_Lower Siang",
+        "shi yomi/AR_Shi Yomi",
+        "upper siang/AR_Upper Siang",
+        "west siang/AR_West Siang"
+    ],
+    "siddharthnagar/UP_Siddharthnagar": [
+        "balrampur/CT_Balrampur",
+        "basti/UP_Basti",
+        "gonda/UP_Gonda",
+        "gorakhpur/UP_Gorakhpur",
+        "maharajganj/UP_Maharajganj",
+        "sant kabir nagar/UP_Sant Kabir Nagar"
+    ],
+    "siddipet/TG_Siddipet": [
+        "jangaon/TG_Jangaon",
+        "kamareddy/TG_Kamareddy",
+        "karimnagar/TG_Karimnagar",
+        "medak/TG_Medak",
+        "medchal malkajgiri/TG_Medchal Malkajgiri",
+        "rajanna sircilla/TG_Rajanna Sircilla",
+        "warangal urban/TG_Warangal Urban",
+        "yadadri bhuvanagiri/TG_Yadadri Bhuvanagiri"
+    ],
+    "sidhi/MP_Sidhi": [
+        "koriya/CT_Koriya",
+        "rewa/MP_Rewa",
+        "satna/MP_Satna",
+        "shahdol/MP_Shahdol",
+        "singrauli/MP_Singrauli"
+    ],
+    "sikar/RJ_Sikar": [
+        "churu/RJ_Churu",
+        "jaipur/RJ_Jaipur",
+        "jhunjhunu/RJ_Jhunjhunu",
+        "mahendragarh/HR_Mahendragarh",
+        "nagaur/RJ_Nagaur"
+    ],
+    "simdega/JH_Simdega": [
+        "gumla/JH_Gumla",
+        "jashpur/CT_Jashpur",
+        "khunti/JH_Khunti",
+        "sundargarh/OR_Sundargarh",
+        "west singhbhum/JH_West Singhbhum"
+    ],
+    "sindhudurg/MH_Sindhudurg": [
+        "belagavi/KA_Belagavi",
+        "kolhapur/MH_Kolhapur",
+        "north goa/GA_North Goa",
+        "ratnagiri/MH_Ratnagiri"
+    ],
+    "singrauli/MP_Singrauli": [
+        "balrampur/CT_Balrampur",
+        "koriya/CT_Koriya",
+        "mirzapur/UP_Mirzapur",
+        "rewa/MP_Rewa",
+        "sidhi/MP_Sidhi",
+        "sonbhadra/UP_Sonbhadra",
+        "surajpur/CT_Surajpur"
+    ],
+    "sipahijala/TR_Sipahijala": [
+        "gomati/TR_Gomati",
+        "khowai/TR_Khowai",
+        "south tripura/TR_South Tripura",
+        "west tripura/TR_West Tripura"
+    ],
+    "sirmaur/HP_Sirmaur": [
+        "ambala/HR_Ambala",
+        "dehradun/UT_Dehradun",
+        "panchkula/HR_Panchkula",
+        "saharanpur/UP_Saharanpur",
+        "shimla/HP_Shimla",
+        "solan/HP_Solan",
+        "yamunanagar/HR_Yamunanagar"
+    ],
+    "sirohi/RJ_Sirohi": [
+        "banaskantha/GJ_Banaskantha",
+        "jalore/RJ_Jalore",
+        "pali/RJ_Pali",
+        "sabarkantha/GJ_Sabarkantha",
+        "udaipur/RJ_Udaipur"
+    ],
+    "sirsa/HR_Sirsa": [
+        "bathinda/PB_Bathinda",
+        "fatehabad/HR_Fatehabad",
+        "hanumangarh/RJ_Hanumangarh",
+        "mansa/PB_Mansa",
+        "sri muktsar sahib/PB_Sri Muktsar Sahib"
+    ],
+    "sitamarhi/BR_Sitamarhi": [
+        "darbhanga/BR_Darbhanga",
+        "east champaran/BR_East Champaran",
+        "madhubani/BR_Madhubani",
+        "muzaffarpur/BR_Muzaffarpur",
+        "sheohar/BR_Sheohar"
+    ],
+    "sitapur/UP_Sitapur": [
+        "bahraich/UP_Bahraich",
+        "barabanki/UP_Barabanki",
+        "hardoi/UP_Hardoi",
+        "lucknow/UP_Lucknow"
+    ],
+    "sivaganga/TN_Sivaganga": [
+        "madurai/TN_Madurai",
+        "pudukkottai/TN_Pudukkottai",
+        "ramanathapuram/TN_Ramanathapuram",
+        "tiruchirappalli/TN_Tiruchirappalli",
+        "virudhunagar/TN_Virudhunagar"
+    ],
+    "sivasagar/AS_Sivasagar": [
+        "charaideo/AS_Charaideo",
+        "dibrugarh/AS_Dibrugarh",
+        "jorhat/AS_Jorhat",
+        "longleng/NL_Longleng",
+        "majuli/AS_Majuli",
+        "mokokchung/NL_Mokokchung",
+        "mon/NL_Mon"
+    ],
+    "siwan/BR_Siwan": [
+        "ballia/UP_Ballia",
+        "deoria/UP_Deoria",
+        "gopalganj/BR_Gopalganj",
+        "saran/BR_Saran"
+    ],
+    "solan/HP_Solan": [
+        "bilaspur/CT_Bilaspur",
+        "mandi/HP_Mandi",
+        "panchkula/HR_Panchkula",
+        "rupnagar/PB_Rupnagar",
+        "s.a.s. nagar/PB_S.A.S. Nagar",
+        "shimla/HP_Shimla",
+        "sirmaur/HP_Sirmaur"
+    ],
+    "solapur/MH_Solapur": [
+        "ahmednagar/MH_Ahmednagar",
+        "kalaburagi/KA_Kalaburagi",
+        "osmanabad/MH_Osmanabad",
+        "pune/MH_Pune",
+        "sangli/MH_Sangli",
+        "satara/MH_Satara",
+        "vijayapura/KA_Vijayapura"
+    ],
+    "sonbhadra/UP_Sonbhadra": [
+        "balrampur/CT_Balrampur",
+        "chandauli/UP_Chandauli",
+        "garhwa/JH_Garhwa",
+        "kaimur/BR_Kaimur",
+        "mirzapur/UP_Mirzapur",
+        "rohtas/BR_Rohtas",
+        "singrauli/MP_Singrauli"
+    ],
+    "sonipat/HR_Sonipat": [
+        "baghpat/UP_Baghpat",
+        "jhajjar/HR_Jhajjar",
+        "jind/HR_Jind",
+        "north delhi/DL_North Delhi",
+        "north west delhi/DL_North West Delhi",
+        "panipat/HR_Panipat",
+        "rohtak/HR_Rohtak"
+    ],
+    "sonitpur/AS_Sonitpur": [
+        "biswanath/AS_Biswanath",
+        "darrang/AS_Darrang",
+        "morigaon/AS_Morigaon",
+        "nagaon/AS_Nagaon",
+        "pakke kessang/AR_Pakke Kessang",
+        "udalguri/AS_Udalguri",
+        "west kameng/AR_West Kameng"
+    ],
+    "south 24 parganas/WB_South 24 Parganas": [
+        "howrah/WB_Howrah",
+        "kolkata/WB_Kolkata",
+        "north 24 parganas/WB_North 24 Parganas",
+        "purba medinipur/WB_Purba Medinipur"
+    ],
+    "south delhi/DL_South Delhi": [
+        "faridabad/HR_Faridabad",
+        "gurugram/HR_Gurugram",
+        "new delhi/DL_New Delhi",
+        "south east delhi/DL_South East Delhi"
+    ],
+    "south east delhi/DL_South East Delhi": [
+        "central delhi/DL_Central Delhi",
+        "east delhi/DL_East Delhi",
+        "faridabad/HR_Faridabad",
+        "gautam buddha nagar/UP_Gautam Buddha Nagar",
+        "new delhi/DL_New Delhi",
+        "south delhi/DL_South Delhi"
+    ],
+    "south garo hills/ML_South Garo Hills": [
+        "east garo hills/ML_East Garo Hills",
+        "south west khasi hills/ML_South West Khasi Hills",
+        "west garo hills/ML_West Garo Hills",
+        "west khasi hills/ML_West Khasi Hills"
+    ],
+    "south goa/GA_South Goa": [
+        "north goa/GA_North Goa",
+        "uttara kannada/KA_Uttara Kannada"
+    ],
+    "south salmara mankachar/AS_South Salmara Mankachar": [
+        "dhubri/AS_Dhubri",
+        "goalpara/AS_Goalpara",
+        "north garo hills/ML_North Garo Hills",
+        "south west garo hills/ML_South West Garo Hills",
+        "west garo hills/ML_West Garo Hills"
+    ],
+    "south sikkim/SK_South Sikkim": [
+        "darjeeling/WB_Darjeeling",
+        "east sikkim/SK_East Sikkim",
+        "kalimpong/WB_Kalimpong",
+        "north sikkim/SK_North Sikkim",
+        "west sikkim/SK_West Sikkim"
+    ],
+    "south tripura/TR_South Tripura": [
+        "gomati/TR_Gomati",
+        "sipahijala/TR_Sipahijala"
+    ],
+    "south west delhi/DL_South West Delhi": [
+        "gurugram/HR_Gurugram",
+        "jhajjar/HR_Jhajjar",
+        "new delhi/DL_New Delhi",
+        "west delhi/DL_West Delhi"
+    ],
+    "south west garo hills/ML_South West Garo Hills": [
+        "south salmara mankachar/AS_South Salmara Mankachar",
+        "west garo hills/ML_West Garo Hills"
+    ],
+    "south west khasi hills/ML_South West Khasi Hills": [
+        "east khasi hills/ML_East Khasi Hills",
+        "south garo hills/ML_South Garo Hills",
+        "west khasi hills/ML_West Khasi Hills"
+    ],
+    "sri muktsar sahib/PB_Sri Muktsar Sahib": [
+        "bathinda/PB_Bathinda",
+        "faridkot/PB_Faridkot",
+        "fazilka/PB_Fazilka",
+        "ferozepur/PB_Ferozepur",
+        "hanumangarh/RJ_Hanumangarh",
+        "sirsa/HR_Sirsa"
+    ],
+    "srikakulam/AP_Srikakulam": [
+        "gajapati/OR_Gajapati",
+        "ganjam/OR_Ganjam",
+        "rayagada/OR_Rayagada",
+        "vizianagaram/AP_Vizianagaram"
+    ],
+    "srinagar/JK_Srinagar": [
+        "anantnag/JK_Anantnag",
+        "bandipora/JK_Bandipora",
+        "baramulla/JK_Baramulla",
+        "budgam/JK_Budgam",
+        "ganderbal/JK_Ganderbal",
+        "pulwama/JK_Pulwama"
+    ],
+    "subarnapur/OR_Subarnapur": [
+        "angul/OR_Angul",
+        "balangir/OR_Balangir",
+        "bargarh/OR_Bargarh",
+        "boudh/OR_Boudh",
+        "sambalpur/OR_Sambalpur"
+    ],
+    "sukma/CT_Sukma": [
+        "bastar/CT_Bastar",
+        "bhadradri kothagudem/TG_Bhadradri Kothagudem",
+        "bijapur/CT_Bijapur",
+        "dakshin bastar dantewada/CT_Dakshin Bastar Dantewada",
+        "east godavari/AP_East Godavari",
+        "malkangiri/OR_Malkangiri"
+    ],
+    "sultanpur/UP_Sultanpur": [
+        "ambedkar nagar/UP_Ambedkar Nagar",
+        "amethi/UP_Amethi",
+        "ayodhya/UP_Ayodhya",
+        "azamgarh/UP_Azamgarh",
+        "jaunpur/UP_Jaunpur",
+        "pratapgarh/RJ_Pratapgarh"
+    ],
+    "sundargarh/OR_Sundargarh": [
+        "angul/OR_Angul",
+        "deogarh/OR_Deogarh",
+        "jashpur/CT_Jashpur",
+        "jharsuguda/OR_Jharsuguda",
+        "kendujhar/OR_Kendujhar",
+        "raigarh/CT_Raigarh",
+        "sambalpur/OR_Sambalpur",
+        "simdega/JH_Simdega",
+        "west singhbhum/JH_West Singhbhum"
+    ],
+    "supaul/BR_Supaul": [
+        "araria/BR_Araria",
+        "madhepura/BR_Madhepura",
+        "madhubani/BR_Madhubani",
+        "saharsa/BR_Saharsa"
+    ],
+    "surajpur/CT_Surajpur": [
+        "balrampur/CT_Balrampur",
+        "korba/CT_Korba",
+        "koriya/CT_Koriya",
+        "singrauli/MP_Singrauli",
+        "surguja/CT_Surguja"
+    ],
+    "surat/GJ_Surat": [
+        "bharuch/GJ_Bharuch",
+        "narmada/GJ_Narmada",
+        "navsari/GJ_Navsari",
+        "tapi/GJ_Tapi"
+    ],
+    "surendranagar/GJ_Surendranagar": [
+        "ahmedabad/GJ_Ahmedabad",
+        "botad/GJ_Botad",
+        "kutch/GJ_Kutch",
+        "mehsana/GJ_Mehsana",
+        "morbi/GJ_Morbi",
+        "patan/GJ_Patan",
+        "rajkot/GJ_Rajkot"
+    ],
+    "surguja/CT_Surguja": [
+        "balrampur/CT_Balrampur",
+        "jashpur/CT_Jashpur",
+        "korba/CT_Korba",
+        "raigarh/CT_Raigarh",
+        "surajpur/CT_Surajpur"
+    ],
+    "suryapet/TG_Suryapet": [
+        "guntur/AP_Guntur",
+        "jangaon/TG_Jangaon",
+        "khammam/TG_Khammam",
+        "krishna/AP_Krishna",
+        "mahabubabad/TG_Mahabubabad",
+        "nalgonda/TG_Nalgonda",
+        "yadadri bhuvanagiri/TG_Yadadri Bhuvanagiri"
+    ],
+    "tamenglong/MN_Tamenglong": [
+        "cachar/AS_Cachar",
+        "dima hasao/AS_Dima Hasao",
+        "jiribam/MN_Jiribam",
+        "kangpokpi/MN_Kangpokpi",
+        "noney/MN_Noney",
+        "peren/NL_Peren",
+        "senapati/MN_Senapati"
+    ],
+    "tapi/GJ_Tapi": [
+        "dang/GJ_Dang",
+        "dhule/MH_Dhule",
+        "nandurbar/MH_Nandurbar",
+        "narmada/GJ_Narmada",
+        "navsari/GJ_Navsari",
+        "surat/GJ_Surat"
+    ],
+    "tarn taran/PB_Tarn Taran": [
+        "amritsar/PB_Amritsar",
+        "ferozepur/PB_Ferozepur",
+        "kapurthala/PB_Kapurthala"
+    ],
+    "tawang/AR_Tawang": [
+        "east kameng/AR_East Kameng",
+        "west kameng/AR_West Kameng"
+    ],
+    "tehri garhwal/UT_Tehri Garhwal": [
+        "dehradun/UT_Dehradun",
+        "pauri garhwal/UT_Pauri Garhwal",
+        "rudraprayag/UT_Rudraprayag",
+        "uttarkashi/UT_Uttarkashi"
+    ],
+    "tengnoupal/MN_Tengnoupal": [
+        "chandel/MN_Chandel",
+        "kakching/MN_Kakching",
+        "kamjong/MN_Kamjong",
+        "kangpokpi/MN_Kangpokpi",
+        "thoubal/MN_Thoubal"
+    ],
+    "thane/MH_Thane": [
+        "ahmednagar/MH_Ahmednagar",
+        "nashik/MH_Nashik",
+        "palghar/MH_Palghar",
+        "pune/MH_Pune",
+        "raigad/MH_Raigad",
+        "mumbai/MH_Mumbai"
+    ],
+    "thanjavur/TN_Thanjavur": [
+        "ariyalur/TN_Ariyalur",
+        "cuddalore/TN_Cuddalore",
+        "nagapattinam/TN_Nagapattinam",
+        "pudukkottai/TN_Pudukkottai",
+        "thiruvarur/TN_Thiruvarur",
+        "tiruchirappalli/TN_Tiruchirappalli"
+    ],
+    "theni/TN_Theni": [
+        "dindigul/TN_Dindigul",
+        "idukki/KL_Idukki",
+        "madurai/TN_Madurai",
+        "virudhunagar/TN_Virudhunagar"
+    ],
+    "thiruvallur/TN_Thiruvallur": [
+        "chennai/TN_Chennai",
+        "chittoor/AP_Chittoor",
+        "kancheepuram/TN_Kancheepuram",
+        "s.p.s. nellore/AP_S.P.S. Nellore",
+        "vellore/TN_Vellore",
+        "ranipet/TN_Ranipet"
+    ],
+    "thiruvananthapuram/KL_Thiruvananthapuram": [
+        "kanyakumari/TN_Kanyakumari",
+        "kollam/KL_Kollam",
+        "tirunelveli/TN_Tirunelveli"
+    ],
+    "thiruvarur/TN_Thiruvarur": [
+        "karaikal/PY_Karaikal",
+        "nagapattinam/TN_Nagapattinam",
+        "thanjavur/TN_Thanjavur"
+    ],
+    "thoothukkudi/TN_Thoothukkudi": [
+        "ramanathapuram/TN_Ramanathapuram",
+        "tirunelveli/TN_Tirunelveli",
+        "virudhunagar/TN_Virudhunagar"
+    ],
+    "thoubal/MN_Thoubal": [
+        "imphal east/MN_Imphal East",
+        "imphal west/MN_Imphal West",
+        "kakching/MN_Kakching",
+        "kangpokpi/MN_Kangpokpi",
+        "tengnoupal/MN_Tengnoupal"
+    ],
+    "thrissur/KL_Thrissur": [
+        "coimbatore/TN_Coimbatore",
+        "ernakulam/KL_Ernakulam",
+        "malappuram/KL_Malappuram",
+        "palakkad/KL_Palakkad"
+    ],
+    "tikamgarh/MP_Tikamgarh": [
+        "chhatarpur/MP_Chhatarpur",
+        "jhansi/UP_Jhansi",
+        "lalitpur/UP_Lalitpur"
+    ],
+    "tinsukia/AS_Tinsukia": [
+        "changlang/AR_Changlang",
+        "dhemaji/AS_Dhemaji",
+        "dibrugarh/AS_Dibrugarh",
+        "east siang/AR_East Siang",
+        "lohit/AR_Lohit",
+        "lower dibang valley/AR_Lower Dibang Valley",
+        "namsai/AR_Namsai",
+        "tirap/AR_Tirap"
+    ],
+    "tirap/AR_Tirap": [
+        "changlang/AR_Changlang",
+        "dibrugarh/AS_Dibrugarh",
+        "longding/AR_Longding",
+        "tinsukia/AS_Tinsukia"
+    ],
+    "tiruchirappalli/TN_Tiruchirappalli": [
+        "ariyalur/TN_Ariyalur",
+        "dindigul/TN_Dindigul",
+        "karur/TN_Karur",
+        "madurai/TN_Madurai",
+        "namakkal/TN_Namakkal",
+        "perambalur/TN_Perambalur",
+        "pudukkottai/TN_Pudukkottai",
+        "salem/TN_Salem",
+        "sivaganga/TN_Sivaganga",
+        "thanjavur/TN_Thanjavur"
+    ],
+    "tirunelveli/TN_Tirunelveli": [
+        "idukki/KL_Idukki",
+        "kanyakumari/TN_Kanyakumari",
+        "kollam/KL_Kollam",
+        "pathanamthitta/KL_Pathanamthitta",
+        "thiruvananthapuram/KL_Thiruvananthapuram",
+        "thoothukkudi/TN_Thoothukkudi",
+        "virudhunagar/TN_Virudhunagar"
+    ],
+    "tiruppur/TN_Tiruppur": [
+        "coimbatore/TN_Coimbatore",
+        "dindigul/TN_Dindigul",
+        "erode/TN_Erode",
+        "idukki/KL_Idukki",
+        "karur/TN_Karur"
+    ],
+    "tiruvannamalai/TN_Tiruvannamalai": [
+        "dharmapuri/TN_Dharmapuri",
+        "kallakurichi/TN_Kallakurichi",
+        "kancheepuram/TN_Kancheepuram",
+        "krishnagiri/TN_Krishnagiri",
+        "vellore/TN_Vellore",
+        "viluppuram/TN_Viluppuram",
+        "ranipet/TN_Ranipet"
+    ],
+    "tonk/RJ_Tonk": [
+        "ajmer/RJ_Ajmer",
+        "bhilwara/RJ_Bhilwara",
+        "bundi/RJ_Bundi",
+        "dausa/RJ_Dausa",
+        "jaipur/RJ_Jaipur",
+        "sawai madhopur/RJ_Sawai Madhopur"
+    ],
+    "tuensang/NL_Tuensang": [
+        "kiphire/NL_Kiphire",
+        "longleng/NL_Longleng",
+        "mokokchung/NL_Mokokchung",
+        "mon/NL_Mon",
+        "zunheboto/NL_Zunheboto"
+    ],
+    "tumakuru/KA_Tumakuru": [
+        "anantapur/AP_Anantapur",
+        "bengaluru rural/KA_Bengaluru Rural",
+        "chikkaballapura/KA_Chikkaballapura",
+        "chikkamagaluru/KA_Chikkamagaluru",
+        "chitradurga/KA_Chitradurga",
+        "hassan/KA_Hassan",
+        "mandya/KA_Mandya",
+        "ramanagara/KA_Ramanagara"
+    ],
+    "udaipur/RJ_Udaipur": [
+        "aravalli/GJ_Aravalli",
+        "chittorgarh/RJ_Chittorgarh",
+        "dungarpur/RJ_Dungarpur",
+        "pali/RJ_Pali",
+        "pratapgarh/RJ_Pratapgarh",
+        "rajsamand/RJ_Rajsamand",
+        "sabarkantha/GJ_Sabarkantha",
+        "sirohi/RJ_Sirohi"
+    ],
+    "udalguri/AS_Udalguri": [
+        "baksa/AS_Baksa",
+        "darrang/AS_Darrang",
+        "sonitpur/AS_Sonitpur",
+        "west kameng/AR_West Kameng"
+    ],
+    "udham singh nagar/UT_Udham Singh Nagar": [
+        "bareilly/UP_Bareilly",
+        "bijnor/UP_Bijnor",
+        "champawat/UT_Champawat",
+        "moradabad/UP_Moradabad",
+        "nainital/UT_Nainital",
+        "pilibhit/UP_Pilibhit",
+        "rampur/UP_Rampur"
+    ],
+    "udhampur/JK_Udhampur": [
+        "doda/JK_Doda",
+        "jammu/JK_Jammu",
+        "kathua/JK_Kathua",
+        "ramban/JK_Ramban",
+        "reasi/JK_Reasi",
+        "samba/JK_Samba"
+    ],
+    "udupi/KA_Udupi": [
+        "chikkamagaluru/KA_Chikkamagaluru",
+        "dakshina kannada/KA_Dakshina Kannada",
+        "shivamogga/KA_Shivamogga",
+        "uttara kannada/KA_Uttara Kannada"
+    ],
+    "ujjain/MP_Ujjain": [
+        "agar malwa/MP_Agar Malwa",
+        "dewas/MP_Dewas",
+        "dhar/MP_Dhar",
+        "indore/MP_Indore",
+        "ratlam/MP_Ratlam",
+        "shajapur/MP_Shajapur"
+    ],
+    "ukhrul/MN_Ukhrul": [
+        "kamjong/MN_Kamjong",
+        "kangpokpi/MN_Kangpokpi",
+        "phek/NL_Phek",
+        "senapati/MN_Senapati"
+    ],
+    "umaria/MP_Umaria": [
+        "anuppur/MP_Anuppur",
+        "dindori/MP_Dindori",
+        "jabalpur/MP_Jabalpur",
+        "katni/MP_Katni",
+        "satna/MP_Satna",
+        "shahdol/MP_Shahdol"
+    ],
+    "una/HP_Una": [
+        "bilaspur/CT_Bilaspur",
+        "hamirpur/HP_Hamirpur",
+        "hoshiarpur/PB_Hoshiarpur",
+        "kangra/HP_Kangra",
+        "rupnagar/PB_Rupnagar"
+    ],
+    "unnao/UP_Unnao": [
+        "fatehpur/UP_Fatehpur",
+        "hardoi/UP_Hardoi",
+        "kanpur nagar/UP_Kanpur Nagar",
+        "lucknow/UP_Lucknow",
+        "rae bareli/UP_Rae Bareli"
+    ],
+    "unokoti/TR_Unokoti": [
+        "dhalai/TR_Dhalai",
+        "north tripura/TR_North Tripura"
+    ],
+    "upper dibang valley/AR_Upper Dibang Valley": [
+        "lower dibang valley/AR_Lower Dibang Valley",
+        "upper siang/AR_Upper Siang"
+    ],
+    "upper siang/AR_Upper Siang": [
+        "east siang/AR_East Siang",
+        "lower dibang valley/AR_Lower Dibang Valley",
+        "shi yomi/AR_Shi Yomi",
+        "siang/AR_Siang",
+        "upper dibang valley/AR_Upper Dibang Valley"
+    ],
+    "upper subansiri/AR_Upper Subansiri": [
+        "kamle/AR_Kamle",
+        "kra daadi/AR_Kra Daadi",
+        "kurung kumey/AR_Kurung Kumey",
+        "lepa rada/AR_Lepa Rada",
+        "lower siang/AR_Lower Siang",
+        "shi yomi/AR_Shi Yomi",
+        "west siang/AR_West Siang"
+    ],
+    "uttar bastar kanker/CT_Uttar Bastar Kanker": [
+        "balod/CT_Balod",
+        "dhamtari/CT_Dhamtari",
+        "gadchiroli/MH_Gadchiroli",
+        "kondagaon/CT_Kondagaon",
+        "narayanpur/CT_Narayanpur",
+        "rajnandgaon/CT_Rajnandgaon"
+    ],
+    "uttar dinajpur/WB_Uttar Dinajpur": [
+        "dakshin dinajpur/WB_Dakshin Dinajpur",
+        "darjeeling/WB_Darjeeling",
+        "katihar/BR_Katihar",
+        "kishanganj/BR_Kishanganj",
+        "malda/WB_Malda",
+        "purnia/BR_Purnia"
+    ],
+    "uttara kannada/KA_Uttara Kannada": [
+        "belagavi/KA_Belagavi",
+        "dharwad/KA_Dharwad",
+        "haveri/KA_Haveri",
+        "north goa/GA_North Goa",
+        "shivamogga/KA_Shivamogga",
+        "south goa/GA_South Goa",
+        "udupi/KA_Udupi"
+    ],
+    "uttarkashi/UT_Uttarkashi": [
+        "chamoli/UT_Chamoli",
+        "dehradun/UT_Dehradun",
+        "kinnaur/HP_Kinnaur",
+        "rudraprayag/UT_Rudraprayag",
+        "shimla/HP_Shimla",
+        "tehri garhwal/UT_Tehri Garhwal"
+    ],
+    "vadodara/GJ_Vadodara": [
+        "anand/GJ_Anand",
+        "bharuch/GJ_Bharuch",
+        "chhota udaipur/GJ_Chhota Udaipur",
+        "kheda/GJ_Kheda",
+        "narmada/GJ_Narmada",
+        "panchmahal/GJ_Panchmahal"
+    ],
+    "vaishali/BR_Vaishali": [
+        "muzaffarpur/BR_Muzaffarpur",
+        "patna/BR_Patna",
+        "samastipur/BR_Samastipur",
+        "saran/BR_Saran"
+    ],
+    "valsad/GJ_Valsad": [
+        "dadra and nagar haveli/DN_Dadra and Nagar Haveli",
+        "daman/DN_Daman",
+        "nashik/MH_Nashik",
+        "navsari/GJ_Navsari",
+        "palghar/MH_Palghar"
+    ],
+    "varanasi/UP_Varanasi": [
+        "bhadohi/UP_Bhadohi",
+        "chandauli/UP_Chandauli",
+        "ghazipur/UP_Ghazipur",
+        "jaunpur/UP_Jaunpur",
+        "mirzapur/UP_Mirzapur"
+    ],
+    "vellore/TN_Vellore": [
+        "chittoor/AP_Chittoor",
+        "kancheepuram/TN_Kancheepuram",
+        "krishnagiri/TN_Krishnagiri",
+        "thiruvallur/TN_Thiruvallur",
+        "tiruvannamalai/TN_Tiruvannamalai",
+        "ranipet/TN_Ranipet"
+    ],
+    "vidisha/MP_Vidisha": [
+        "ashoknagar/MP_Ashoknagar",
+        "bhopal/MP_Bhopal",
+        "guna/MP_Guna",
+        "raisen/MP_Raisen",
+        "sagar/MP_Sagar"
+    ],
+    "vijayapura/KA_Vijayapura": [
+        "bagalkote/KA_Bagalkote",
+        "belagavi/KA_Belagavi",
+        "kalaburagi/KA_Kalaburagi",
+        "raichur/KA_Raichur",
+        "sangli/MH_Sangli",
+        "solapur/MH_Solapur",
+        "yadgir/KA_Yadgir"
+    ],
+    "vikarabad/TG_Vikarabad": [
+        "kalaburagi/KA_Kalaburagi",
+        "mahabubnagar/TG_Mahabubnagar",
+        "narayanpet/TG_Narayanpet",
+        "ranga reddy/TG_Ranga Reddy",
+        "sangareddy/TG_Sangareddy"
+    ],
+    "viluppuram/TN_Viluppuram": [
+        "cuddalore/TN_Cuddalore",
+        "kallakurichi/TN_Kallakurichi",
+        "kancheepuram/TN_Kancheepuram",
+        "puducherry/PY_Puducherry",
+        "tiruvannamalai/TN_Tiruvannamalai"
+    ],
+    "virudhunagar/TN_Virudhunagar": [
+        "idukki/KL_Idukki",
+        "madurai/TN_Madurai",
+        "ramanathapuram/TN_Ramanathapuram",
+        "sivaganga/TN_Sivaganga",
+        "theni/TN_Theni",
+        "thoothukkudi/TN_Thoothukkudi",
+        "tirunelveli/TN_Tirunelveli"
+    ],
+    "visakhapatnam/AP_Visakhapatnam": [
+        "east godavari/AP_East Godavari",
+        "koraput/OR_Koraput",
+        "malkangiri/OR_Malkangiri",
+        "vizianagaram/AP_Vizianagaram"
+    ],
+    "vizianagaram/AP_Vizianagaram": [
+        "koraput/OR_Koraput",
+        "rayagada/OR_Rayagada",
+        "srikakulam/AP_Srikakulam",
+        "visakhapatnam/AP_Visakhapatnam"
+    ],
+    "wanaparthy/TG_Wanaparthy": [
+        "jogulamba gadwal/TG_Jogulamba Gadwal",
+        "kurnool/AP_Kurnool",
+        "mahabubnagar/TG_Mahabubnagar",
+        "nagarkurnool/TG_Nagarkurnool",
+        "narayanpet/TG_Narayanpet"
+    ],
+    "warangal rural/TG_Warangal Rural": [
+        "jangaon/TG_Jangaon",
+        "jayashankar bhupalapally/TG_Jayashankar Bhupalapally",
+        "mahabubabad/TG_Mahabubabad",
+        "mulugu/TG_Mulugu",
+        "warangal urban/TG_Warangal Urban"
+    ],
+    "warangal urban/TG_Warangal Urban": [
+        "jangaon/TG_Jangaon",
+        "jayashankar bhupalapally/TG_Jayashankar Bhupalapally",
+        "karimnagar/TG_Karimnagar",
+        "siddipet/TG_Siddipet",
+        "warangal rural/TG_Warangal Rural"
+    ],
+    "wardha/MH_Wardha": [
+        "amravati/MH_Amravati",
+        "chandrapur/MH_Chandrapur",
+        "nagpur/MH_Nagpur",
+        "yavatmal/MH_Yavatmal"
+    ],
+    "washim/MH_Washim": [
+        "akola/MH_Akola",
+        "amravati/MH_Amravati",
+        "buldhana/MH_Buldhana",
+        "hingoli/MH_Hingoli",
+        "yavatmal/MH_Yavatmal"
+    ],
+    "wayanad/KL_Wayanad": [
+        "chamarajanagara/KA_Chamarajanagara",
+        "kannur/KL_Kannur",
+        "kodagu/KA_Kodagu",
+        "kozhikode/KL_Kozhikode",
+        "malappuram/KL_Malappuram",
+        "mysuru/KA_Mysuru",
+        "nilgiris/TN_Nilgiris"
+    ],
+    "west champaran/BR_West Champaran": [
+        "east champaran/BR_East Champaran",
+        "gopalganj/BR_Gopalganj",
+        "kushinagar/UP_Kushinagar",
+        "maharajganj/UP_Maharajganj"
+    ],
+    "west delhi/DL_West Delhi": [
+        "central delhi/DL_Central Delhi",
+        "jhajjar/HR_Jhajjar",
+        "new delhi/DL_New Delhi",
+        "north west delhi/DL_North West Delhi",
+        "south west delhi/DL_South West Delhi"
+    ],
+    "west garo hills/ML_West Garo Hills": [
+        "east garo hills/ML_East Garo Hills",
+        "goalpara/AS_Goalpara",
+        "north garo hills/ML_North Garo Hills",
+        "south garo hills/ML_South Garo Hills",
+        "south salmara mankachar/AS_South Salmara Mankachar",
+        "south west garo hills/ML_South West Garo Hills"
+    ],
+    "west godavari/AP_West Godavari": [
+        "bhadradri kothagudem/TG_Bhadradri Kothagudem",
+        "east godavari/AP_East Godavari",
+        "khammam/TG_Khammam",
+        "krishna/AP_Krishna"
+    ],
+    "west jaintia hills/ML_West Jaintia Hills": [
+        "dima hasao/AS_Dima Hasao",
+        "east jaintia hills/ML_East Jaintia Hills",
+        "east khasi hills/ML_East Khasi Hills",
+        "ribhoi/ML_Ribhoi",
+        "west karbi anglong/AS_West Karbi Anglong"
+    ],
+    "west kameng/AR_West Kameng": [
+        "east kameng/AR_East Kameng",
+        "pakke kessang/AR_Pakke Kessang",
+        "sonitpur/AS_Sonitpur",
+        "tawang/AR_Tawang",
+        "udalguri/AS_Udalguri"
+    ],
+    "west karbi anglong/AS_West Karbi Anglong": [
+        "dima hasao/AS_Dima Hasao",
+        "hojai/AS_Hojai",
+        "morigaon/AS_Morigaon",
+        "nagaon/AS_Nagaon",
+        "ribhoi/ML_Ribhoi",
+        "west jaintia hills/ML_West Jaintia Hills"
+    ],
+    "west khasi hills/ML_West Khasi Hills": [
+        "east garo hills/ML_East Garo Hills",
+        "east khasi hills/ML_East Khasi Hills",
+        "kamrup/AS_Kamrup",
+        "north garo hills/ML_North Garo Hills",
+        "ribhoi/ML_Ribhoi",
+        "south garo hills/ML_South Garo Hills",
+        "south west khasi hills/ML_South West Khasi Hills"
+    ],
+    "west siang/AR_West Siang": [
+        "lepa rada/AR_Lepa Rada",
+        "lower siang/AR_Lower Siang",
+        "shi yomi/AR_Shi Yomi",
+        "siang/AR_Siang",
+        "upper subansiri/AR_Upper Subansiri"
+    ],
+    "west sikkim/SK_West Sikkim": [
+        "darjeeling/WB_Darjeeling",
+        "north sikkim/SK_North Sikkim",
+        "south sikkim/SK_South Sikkim"
+    ],
+    "west singhbhum/JH_West Singhbhum": [
+        "kendujhar/OR_Kendujhar",
+        "khunti/JH_Khunti",
+        "mayurbhanj/OR_Mayurbhanj",
+        "simdega/JH_Simdega",
+        "sundargarh/OR_Sundargarh"
+    ],
+    "west tripura/TR_West Tripura": [
+        "khowai/TR_Khowai",
+        "sipahijala/TR_Sipahijala"
+    ],
+    "wokha/NL_Wokha": [
+        "golaghat/AS_Golaghat",
+        "jorhat/AS_Jorhat",
+        "kohima/NL_Kohima",
+        "mokokchung/NL_Mokokchung",
+        "zunheboto/NL_Zunheboto"
+    ],
+    "y.s.r. kadapa/AP_Y.S.R. Kadapa": [
+        "anantapur/AP_Anantapur",
+        "chittoor/AP_Chittoor",
+        "kurnool/AP_Kurnool",
+        "prakasam/AP_Prakasam",
+        "s.p.s. nellore/AP_S.P.S. Nellore"
+    ],
+    "yadadri bhuvanagiri/TG_Yadadri Bhuvanagiri": [
+        "jangaon/TG_Jangaon",
+        "medchal malkajgiri/TG_Medchal Malkajgiri",
+        "nalgonda/TG_Nalgonda",
+        "ranga reddy/TG_Ranga Reddy",
+        "siddipet/TG_Siddipet",
+        "suryapet/TG_Suryapet"
+    ],
+    "yadgir/KA_Yadgir": [
+        "kalaburagi/KA_Kalaburagi",
+        "narayanpet/TG_Narayanpet",
+        "raichur/KA_Raichur",
+        "vijayapura/KA_Vijayapura"
+    ],
+    "yamunanagar/HR_Yamunanagar": [
+        "ambala/HR_Ambala",
+        "karnal/HR_Karnal",
+        "kurukshetra/HR_Kurukshetra",
+        "saharanpur/UP_Saharanpur",
+        "sirmaur/HP_Sirmaur"
+    ],
+    "yavatmal/MH_Yavatmal": [
+        "adilabad/TG_Adilabad",
+        "amravati/MH_Amravati",
+        "chandrapur/MH_Chandrapur",
+        "hingoli/MH_Hingoli",
+        "nanded/MH_Nanded",
+        "wardha/MH_Wardha",
+        "washim/MH_Washim"
+    ],
+    "zunheboto/NL_Zunheboto": [
+        "kiphire/NL_Kiphire",
+        "kohima/NL_Kohima",
+        "mokokchung/NL_Mokokchung",
+        "phek/NL_Phek",
+        "tuensang/NL_Tuensang",
+        "wokha/NL_Wokha"
+    ]
+}
